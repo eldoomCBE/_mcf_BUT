@@ -5,9 +5,9 @@
 </div>
 
 - [x] template
-- [ ] Parcours Administration et Justice
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Administration et Justice <kbd>(AJ)</kbd>
+- [x] Parcours Entreprise et Association <kbd>(EA)
+- [x] Parcours Patrimoine et Finance <kbd>(PF)</kbd>
 ## BUT Carrières Juridiques
 
 [Licence professionnelle « bachelor universitaire de technologie » carrières juridiques : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/10/2/spe617_annexe2_1426102.pdf "spe617_annexe2 (PDF-1.14 Mo-Nouvelle fenêtre)")
@@ -18,11 +18,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Villes et Territoires Durables <kbd>(VTD)</kbd>
+- [x] Parcours Assistance Sociale <kbd>(AS)</kbd>
+- [x] Parcours Éducation Spécialisée <kbd>(ES)</kbd>
+- [x] Parcours Coordination et Gestion des Établissements et Services Sanitaires et Sociaux <kbd>(CGE3S)</kbd>
+- [x] Parcours Animation sociale et socioculturelle <kbd>(ASSC)</kbd>
 ## BUT Carrières Sociales
 
 [Licence professionnelle « bachelor universitaire de technologie » carrières sociales : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/0/spe617_annexe3_1426120.pdf "spe617_annexe3 (PDF-3.20 Mo-Nouvelle fenêtre)")
@@ -33,10 +33,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Analyse, contrôle-qualité, environnement <kbd>(ANA)</kbd>
+- [x] Parcours Synthèse <kbd>(SYN)</kbd>
+- [x] Parcours Matériaux et produits formulés <kbd>(MPF)</kbd>
+- [x] Parcours Chimie industrielle <kbd>(IND)</kbd>
 ## BUT Chimie
 
 [Licence professionnelle « bachelor universitaire de technologie » chimie : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/2/spe617_annexe4_1426122.pdf "spe617_annexe4 (PDF-1.79 Mo-Nouvelle fenêtre)")
@@ -47,11 +47,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Agronomie <kbd>(Agro)</kbd>
+- [x] Parcours Biologie médicale et biotechnologie <kbd>(BMB)</kbd>
+- [x] Parcours Diététique et nutrition <kbd>(DN)</kbd>
+- [x] Parcours Sciences de l'aliment et biotechnologie <kbd>(SAB)</kbd> 
+- [x] Parcours Sciences de l'environnement et écotechnologies <kbd>(SEE)</kbd>
 ## BUT Génie Biologique
 
 [Licence professionnelle « bachelor universitaire de technologie » génie biologique : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/4/spe617_annexe5_1426124.pdf "spe617_annexe5(PDF-2.70 Mo-Nouvelle fenêtre)")
@@ -62,9 +62,9 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Conception des Procédés et Innovation technologique <kbd>(CPIT)</kbd>
+- [x] Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés <kbd>(CQESP)</kbd>
+- [x] Parcours Contrôle, Pilotage et Optimisation des Procédés <kbd>(CPOP)</kbd>
 ## BUT Génie Chimique-Génie des Procédés
 
 [Licence professionnelle « bachelor universitaire de technologie » génie chimique-génie des procédés : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/6/spe617_annexe6_1426126.pdf "spe617_annexe6 (PDF-1.38 Mo-Nouvelle fenêtre)")
@@ -75,10 +75,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Travaux Bâtiment <kbd>(BAT)</kbd>
+- [x] Parcours Travaux Publics <kbd>(TP)</kbd>
+- [x] Parcours Réhabilitation et Amélioration des Performances Environnementales des Bâtiments (RAPEB)
+- [x] Parcours Bureaux d'Études Conception <kbd>(BEC)</kbd>
 ## BUT Génie Civil-Construction Durable
 
 [Licence professionnelle « bachelor universitaire de technologie » génie civil-construction durable : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/8/spe617_annexe7_1426128.pdf "spe617_annexe7 (PDF-1.84 Mo-Nouvelle fenêtre)")
@@ -89,9 +89,9 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Électronique et systèmes embarqués <kbd>(ESE)</kbd>
+- [x] Parcours Électricité et maîtrise de l'énergie <kbd>(EME)</kbd>
+- [x] Parcours Automatisme et informatique industrielle <kbd>(AII)</kbd>
 ## BUT Génie Électrique et Informatique Industrielle
 
 [Licence professionnelle « bachelor universitaire de technologie » génie électrique et informatique industrielle : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/0/spe617_annexe8_1426130.pdf "spe617_annexe8 (PDF-1.30 Mo-Nouvelle fenêtre)")
@@ -102,8 +102,8 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
+- [x] Parcours Management, méthodes et maintenance innovante <kbd>(3MI)</kbd>
+- [x] Parcours Ingénierie des systèmes pluritechniques <kbd>(ISP)</kbd>
 ## BUT Génie Industriel et Maintenance
 
 [Licence professionnelle « bachelor universitaire de technologie » génie industriel et maintenance : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/2/spe617_annexe9_1426132.pdf "spe617_annexe9 (PDF-1004.65 Ko-Nouvelle fenêtre)")
@@ -114,11 +114,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Simulation numérique et réalité virtuelle <kbd>(SNRV)</kbd>
+- [x] Parcours Management de process industriel <kbd>(MPI)</kbd>
+- [x] Parcours Innovation pour l'industrie <kbd>(II)</kbd>
+- [x] Parcours Conception et production durables <kbd>(CPD)</kbd>
+- [x] Parcours Chargé d'affaires industrielles <kbd>(CAI)</kbd>
 ## BUT Génie Mécanique et Productique
 
 [Licence professionnelle « bachelor universitaire de technologie » génie mécanique et productique : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/4/spe617_annexe10_1426134.pdf "spe617_annexe10 (PDF-2.06 Mo-Nouvelle fenêtre)")
@@ -261,11 +261,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Management de la production de biens et de services <kbd>(MP)</kbd>
+- [x] Parcours Pilotage de la chaîne logistique globale <kbd>(PSC)</kbd>
+- [x] Parcours Qualité et pilotage des systèmes de management intégrés <kbd>(PSMI)</kbd>
+- [x] Parcours Accompagnement à la transformation numérique <kbd>(MTD)</kbd>
 ## BUT Qualité, Logistique Industrielle et Organisation
 
 [Licence professionnelle « bachelor universitaire de technologie » qualité, logistique industrielle et organisation : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/8/spe617_annexe21_1426158.pdf "spe617_annexe21 (PDF-1.81 Mo-Nouvelle fenêtre)")
@@ -315,44 +314,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Stratégie de marque et événementiel <kbd>(SME)</kbd>
+- [x] Parcours Marketing et management du point de vente <kbd>(MMPV)</kbd>
+- [x] Parcours Marketing digital, e-business et entrepreneuriat <kbd>(MDEE)</kbd>
+- [x] Parcours Business international - achat et vente <kbd>(BI)
+- [x] Parcours Business développement et management de la relation client <kbd>(BDMRC)</kbd>
 ## BUT Techniques de Commercialisation
 
 [Licence professionnelle « bachelor universitaire de technologie » techniques de commercialisation : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/6/spe617_annexe25_1426166.pdf "spe617_annexe25 (PDF-2.15 Mo-Nouvelle fenêtre)")
-
----
-# Color scheme @projectile
-
-1. ##   carrières juridiques : #b32d00
-1. ##   carrières sociales : #003366
-1. ##   chimie : #1caf51
-1. ##   génie biologique : #00a7b8
-1. ##   génie chimique-génie des procédés : #004d40
-1. ##   génie civil-construction durable : #336600 
-1. ##   génie électrique et informatique industrielle : #8a005d
-1. ##   génie industriel et maintenance : #ff6600
-1. ##   génie mécanique et productique : #4b0082
-1. ##   génie thermique et énergie : #ff0000
-1. ##   gestion administrative et commerciale des organisations : #333399
-1. ##   gestion des entreprises et des administrations : #f0702f
-1. ##   gestion logistique et transport : #660066
-1. ##   hygiène-sécurité-environnement : #cc0000
-1. ##   information-communication : #0099cc
-1. ##   informatique : #bb1e27
-1. ##   mesures physiques : #6f448d
-1. ##   métiers du multimédia et de l'Internet : #0055a4
-1. ##   packaging, emballage et conditionnement : #ff3300
-1. ##   qualité, logistique industrielle et organisation : #003300
-1. ##   réseaux et télécommunications : #3366ff
-1. ##   science et génie des matériaux : #990000 
-1. ##   statistique et informatique décisionnelle : #004d99
-1. ##   techniques de commercialisation : #e94663
-
----
-
----
-[TOC]
