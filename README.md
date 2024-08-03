@@ -129,10 +129,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Management responsable de projets et des organisations <kbd>(MRPO)</kbd>
+- [x] Parcours Management des fonctions support <kbd>(MDFS)</kbd>
+- [x] Parcours Management commercial et marketing omnicanal <kbd>(MCMO)</kbd>
+- [x] Parcours Management des activités culturelles, artistiques, sportives et de
+tourisme <kbd>(MACAST)</kbd>
 ## BUT Gestion Administrative et Commerciale des Organisations
 
 [Licence professionnelle « bachelor universitaire de technologie » gestion administrative et commerciale des organisations : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/8/spe617_annexe11_1426138.pdf "spe617_annexe11 (PDF-1.73 Mo-Nouvelle fenêtre)")
@@ -143,10 +144,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Gestion comptable, fiscale et financière <kbd>(GC2F)</kbd>
+- [x] Parcours Contrôle de gestion et pilotage de la performance <kbd>(CG2P)</kbd>
+- [x] Parcours Gestion entrepreneuriat et management d’activités <kbd>(GEMA)</kbd>
+- [x] Parcours Gestion et pilotage des ressources humaines <kbd>(GPRH)</kbd>
 ## BUT Gestion des Entreprises et des Administrations
 
 [Licence professionnelle « bachelor universitaire de technologie » gestion des entreprises et des administrations : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/0/spe617_annexe12_1426140.pdf "spe617_annexe12 (PDF-1.82 Mo-Nouvelle fenêtre)")
@@ -157,7 +158,8 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
+- [x] Parcours Science du danger et management des risques professionnels,
+technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 ## BUT Hygiène-Sécurité-Environnement
 
 [Licence professionnelle « bachelor universitaire de technologie » hygiène, sécurité, environnement : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/2/spe617_annexe13_1426142.pdf "spe617_annexe13 (PDF-700.06 Ko-Nouvelle fenêtre)")
@@ -168,11 +170,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
-- [ ] parcours 5
+- [x] Parcours Communication des organisations <kbd>(COMOR)</kbd>
+- [x] Parcours Information numérique dans les organisations <kbd>(INFONUM)</kbd>
+- [x] Parcours Journalisme <kbd>(JOU)</kbd>
+- [x] Parcours Métiers du livre et du patrimoine <kbd>(MLP)</kbd>
+- [x] Parcours Publicité <kbd>(PUB)</kbd>
 ## BUT Information-Communication
 
 [Licence professionnelle « bachelor universitaire de technologie » information-communication : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/4/spe617_annexe14_1426144.pdf "spe617_annexe14 (PDF-2.77 Mo-Nouvelle fenêtre)")
@@ -183,10 +185,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Réalisation d'applications : conception, développement, validation <kbd>(Real)</kbd>
+- [x] Parcours Déploiement d'applications communicantes et sécurisées <kbd>(Deploi)</kbd>
+- [x] Parcours Administration, gestion et exploitation des données <kbd>(Admin)</kbd>
+- [x] Parcours Intégration d'applications et management du système d'information <kbd>(Integ)</kbd>
 ## BUT Informatique
 
 [Licence professionnelle « bachelor universitaire de technologie » informatique : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/6/spe617_annexe15_1426146.pdf "spe617_annexe15 (PDF-1.74 Mo-Nouvelle fenêtre)")
@@ -197,8 +199,8 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
+- [x] Parcours Mobilité et Supply Chain Connectées <kbd>(MSCC)</kbd>
+- [x] Parcours Mobilité et Supply Chain Durables <kbd>(MSCD)</kbd>
 ## BUT Management de la Logistique et des Transports
 
 [Licence professionnelle « bachelor universitaire de technologie » management de la logistique et des transports : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/14/8/spe617_annexe16_1426148.pdf "spe617_annexe16 (PDF-1.03 Mo-Nouvelle fenêtre)")
@@ -209,9 +211,9 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Techniques d'instrumentation <kbd>(TI)</kbd>
+- [x] Parcours Matériaux et Contrôles Physico-Chimiques <kbd>(MCPC)</kbd>
+- [x] Parcours Mesures et Analyses Environnementales <kbd>(MAE)</kbd>
 ## BUT Mesures Physiques
 
 [Licence professionnelle « bachelor universitaire de technologie » mesures physiques : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/0/spe617_annexe17_1426150.pdf "spe617_annexe17 (PDF-1.39 Mo-Nouvelle fenêtre)")
@@ -222,10 +224,12 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Exploitation des installations énergétiques pour le bâtiment et
+l'industrie <kbd>(EXPLOIT)</kbd>
+- [x] Parcours Management de l'énergie pour le bâtiment et l'industrie <kbd>(MANÉ)</kbd>
+- [x] Parcours Optimisation énergétique pour le bâtiment et l'industrie <kbd>(OPTIM)</kbd>
+- [x] Parcours Réalisation des installations énergétiques pour le bâtiment et
+l'industrie <kbd>(REAL)</kbd>
 ## BUT Métiers de la Transition et de l'Efficacité Énergétiques
 
 [Licence professionnelle « bachelor universitaire de technologie » métiers de la transition et de l'efficacité énergétiques : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/2/spe617_annexe18_1426152.pdf "spe617_annexe18 (PDF-2.22 Mo-Nouvelle fenêtre)")
@@ -236,9 +240,9 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Création Numérique <kbd>(Crea)</kbd>
+- [x] Parcours Stratégie de communication numérique et design d'expérience <kbd>(Strat-UX)</kbd>
+- [x] Parcours Développement web et dispositifs interactifs <kbd>(DWeb-DI)</kbd>
 ## BUT Métiers du Multimédia et de l'Internet
 
 [Licence professionnelle « bachelor universitaire de technologie » métiers du multimédia et de l'Internet : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/4/spe617_annexe19_1426154.pdf "spe617_annexe19 (PDF-1.29 Mo-Nouvelle fenêtre)")
@@ -249,8 +253,8 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
+- [x] Parcours Eco-conception et industrialisation <kbd>(ECI)</kbd>
+- [x] Parcours Eco-conception, homologation, supply chain <kbd>(ECHSC)</kbd>
 ## BUT Packaging, Emballage et Conditionnement
 
 [Licence professionnelle « bachelor universitaire de technologie » packaging, emballage et conditionnement : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/6/spe617_annexe20_1426156.pdf "spe617_annexe20 (PDF-913.34 Ko-Nouvelle fenêtre)")
@@ -275,10 +279,11 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
-- [ ] parcours 4
+- [x] Parcours Cybersécurité <kbd>(Cyber)</kbd>
+- [x] Parcours Développement système et cloud <kbd>(DevCloud)</kbd>
+- [x] Parcours Internet des objets et mobilité <kbd>(IOM)</kbd>
+- [x] Parcours Pilotage de projets de réseaux <kbd>(PilPro)</kbd>
+- [x] Parcours Réseaux Opérateurs et Multimédia <kbd>(ROM)</kbd>
 ## BUT Réseaux et Télécommunications
 
 [Licence professionnelle « bachelor universitaire de technologie » réseaux et télécommunications : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/0/spe617_annexe22_1426160.pdf "spe617_annexe22 (PDF-2.23 Mo-Nouvelle fenêtre)")
@@ -289,9 +294,10 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
-- [ ] parcours 3
+- [x] Parcours Métiers de la caractérisation et de l'expertise des matériaux et des
+produits <kbd>(MCEMP)</kbd>
+- [x] Parcours Métiers de l'ingénierie des matériaux et des produits <kbd>(MIMP)</kbd>
+- [x] Parcours Métiers du recyclage et de la valorisation des matériaux <kbd>(MRVM)</kbd>
 ## BUT Science et Génie des Matériaux
 
 [Licence professionnelle « bachelor universitaire de technologie » science et génie des matériaux : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/2/spe617_annexe23_1426162.pdf "spe617_annexe23 (PDF-1.21 Mo-Nouvelle fenêtre)")
@@ -302,8 +308,9 @@
 </div>
 
 - [x] template
-- [ ] parcours 1
-- [ ] parcours 2
+- [x] Parcours Science des données : visualisation, conception d'outils
+décisionnels <kbd>(VCOD)</kbd>
+- [x] Parcours Science des données : exploration et modélisation statistique <kbd>(EMS)</kbd>
 ## BUT Statistique et Informatique Décisionnelle
 
 [Licence professionnelle « bachelor universitaire de technologie » statistique et informatique décisionnelle : programme national](https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/4/spe617_annexe24_1426164.pdf "spe617_annexe24 (PDF-958.10 Ko-Nouvelle fenêtre)")
