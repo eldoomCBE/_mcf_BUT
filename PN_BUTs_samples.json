@@ -1,512 +1,512 @@
 [
     {
-        "name": "Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance",
-        "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance.csv",
-        "message": "BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance",
-        "category": "Génie Industriel et Maintenance"
-    },
-    {
-        "name": "Génie Mécanique et Productique - Parcours Chargé d'affaires industrielles",
+        "name": "Parcours Chargé d'affaires industrielles",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Mécanique et Productique - Parcours Chargé d'affaires industrielles.csv",
         "message": "BUT Génie Mécanique et Productique - Parcours Chargé d'affaires industrielles",
-        "category": "Génie Mécanique et Productique"
+        "category": "⬡ BUT Génie Mécanique et Productique"
     },
     {
-        "name": "Génie Mécanique et Productique - Parcours Conception et production durables",
+        "name": "Parcours Conception et production durables",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Mécanique et Productique - Parcours Conception et production durables.csv",
         "message": "BUT Génie Mécanique et Productique - Parcours Conception et production durables",
-        "category": "Génie Mécanique et Productique"
+        "category": "⬡ BUT Génie Mécanique et Productique"
     },
     {
-        "name": "Génie Mécanique et Productique - Parcours Innovation pour l'industrie",
+        "name": "Parcours Innovation pour l'industrie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Mécanique et Productique - Parcours Innovation pour l'industrie.csv",
         "message": "BUT Génie Mécanique et Productique - Parcours Innovation pour l'industrie",
-        "category": "Génie Mécanique et Productique"
+        "category": "⬡ BUT Génie Mécanique et Productique"
     },
     {
-        "name": "Génie Mécanique et Productique - Parcours Management de process industriel",
+        "name": "Parcours Management de process industriel",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Mécanique et Productique - Parcours Management de process industriel.csv",
         "message": "BUT Génie Mécanique et Productique - Parcours Management de process industriel",
-        "category": "Génie Mécanique et Productique"
+        "category": "⬡ BUT Génie Mécanique et Productique"
     },
     {
-        "name": "Génie Mécanique et Productique - Parcours Simulation numérique et réalité virtuelle",
+        "name": "Parcours Simulation numérique et réalité virtuelle",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Mécanique et Productique - Parcours Simulation numérique et réalité virtuelle.csv",
         "message": "BUT Génie Mécanique et Productique - Parcours Simulation numérique et réalité virtuelle",
-        "category": "Génie Mécanique et Productique"
+        "category": "⬡ BUT Génie Mécanique et Productique"
     },
     {
-        "name": "Hygiène-Sécurité-Environnement - Parcours SDMRPTE",
+        "name": "Parcours Science du danger et management des risques professionnels, technolgiques et environnementaux",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Hygiène-Sécurité-Environnement - Parcours SDMRPTE.csv",
-        "message": "BUT Hygiène-Sécurité-Environnement - Parcours SDMRPTE",
-        "category": "Hygiène-Sécurité-Environnement"
+        "message": "BUT Hygiène-Sécurité-Environnement - Parcours Science du danger et management des risques professionnels, technolgiques et environnementaux",
+        "category": "⬡ BUT Hygiène-Sécurité-Environnement"
     },
     {
-        "name": "Info - Parcours Administration, gestion et exploitation des données",
+        "name": "Parcours Administration, gestion et exploitation des données",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Info - Parcours Administration, gestion et exploitation des données.csv",
         "message": "BUT Info - Parcours Administration, gestion et exploitation des données",
-        "category": "Informatique"
+        "category": "⬡ BUT Informatique"
     },
     {
-        "name": "Info - Parcours Déploiement d'applications communicantes et sécurisées",
+        "name": "Parcours Déploiement d'applications communicantes et sécurisées",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Info - Parcours Déploiement d'applications communicantes et sécurisées.csv",
         "message": "BUT Info - Parcours Déploiement d'applications communicantes et sécurisées",
-        "category": "Informatique"
+        "category": "⬡ BUT Informatique"
     },
     {
-        "name": "Info - Parcours Intégration d'applications et management du système d'information",
+        "name": "Parcours Intégration d'applications et management du système d'information",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Info - Parcours Intégration d'applications et management du système d'information.csv",
         "message": "BUT Info - Parcours Intégration d'applications et management du système d'information",
-        "category": "Informatique"
+        "category": "⬡ BUT Informatique"
     },
     {
-        "name": "Info - Parcours Réalisation d'applications - conception, développement, validation",
+        "name": "Parcours Réalisation d'applications - conception, développement, validation",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Info - Parcours Réalisation d'applications - conception, développement, validation.csv",
         "message": "BUT Info - Parcours Réalisation d'applications - conception, développement, validation",
-        "category": "Informatique"
+        "category": "⬡ BUT Informatique"
     },
     {
-        "name": "Information-Communication - Parcours Communication des organisations",
+        "name": "Parcours Communication des organisations",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Information-Communication - Parcours Communication des organisations.csv",
         "message": "BUT Information-Communication - Parcours Communication des organisations",
-        "category": "Information-Communication"
+        "category": "⬡ BUT Information-Communication"
     },
     {
-        "name": "Information-Communication - Parcours Information numérique dans les organisations",
+        "name": "Parcours Information numérique dans les organisations",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Information-Communication - Parcours Information numérique dans les organisations.csv",
         "message": "BUT Information-Communication - Parcours Information numérique dans les organisations",
-        "category": "Information-Communication"
+        "category": "⬡ BUT Information-Communication"
     },
     {
-        "name": "Information-Communication - Parcours Journalisme",
+        "name": "Parcours Journalisme",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Information-Communication - Parcours Journalisme.csv",
         "message": "BUT Information-Communication - Parcours Journalisme",
-        "category": "Information-Communication"
+        "category": "⬡ BUT Information-Communication"
     },
     {
-        "name": "Information-Communication - Parcours Métiers du livre et du patrimoine",
+        "name": "Parcours Métiers du livre et du patrimoine",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Information-Communication - Parcours Métiers du livre et du patrimoine.csv",
         "message": "BUT Information-Communication - Parcours Métiers du livre et du patrimoine",
-        "category": "Information-Communication"
+        "category": "⬡ BUT Information-Communication"
     },
     {
-        "name": "Information-Communication - Parcours Publicité",
+        "name": "Parcours Publicité",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Information-Communication - Parcours Publicité.csv",
         "message": "BUT Information-Communication - Parcours Publicité",
-        "category": "Information-Communication"
+        "category": "⬡ BUT Information-Communication"
     },
     {
-        "name": "Management de la Logistique et des Transports -  Parcours MSCC",
+        "name": "Parcours Mobilité et Supply Chain Connectées",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Management de la Logistique et des Transports -  Parcours MSCC.csv",
-        "message": "BUT Management de la Logistique et des Transports -  Parcours MSCC",
-        "category": "Management de la Logistique et des Transports"
+        "message": "BUT Management de la Logistique et des Transports -  Parcours Mobilité et Supply Chain Connectées",
+        "category": "⬡ BUT Management de la Logistique et des Transports"
     },
     {
-        "name": "Management de la Logistique et des Transports -  Parcours MSCD",
+        "name": "Parcours Mobilité et Supply Chain Durables",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Management de la Logistique et des Transports -  Parcours MSCD.csv",
-        "message": "BUT Management de la Logistique et des Transports -  Parcours MSCD",
-        "category": "Management de la Logistique et des Transports"
+        "message": "BUT Management de la Logistique et des Transports -  Parcours Mobilité et Supply Chain Durables",
+        "category": "⬡ BUT Management de la Logistique et des Transports"
     },
     {
-        "name": "Mesures Physiques - Parcours Matériaux et Contrôles Physico-Chimiques",
+        "name": "Parcours Matériaux et Contrôles Physico-Chimiques",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Mesures Physiques - Parcours Matériaux et Contrôles Physico-Chimiques.csv",
         "message": "BUT Mesures Physiques - Parcours Matériaux et Contrôles Physico-Chimiques",
-        "category": "Mesures Physiques"
+        "category": "⬡ BUT Mesures Physiques"
     },
     {
-        "name": "Mesures Physiques - Parcours Mesures et Analyses Environnementales",
+        "name": "Parcours Mesures et Analyses Environnementales",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Mesures Physiques - Parcours Mesures et Analyses Environnementales.csv",
         "message": "BUT Mesures Physiques - Parcours Mesures et Analyses Environnementales",
-        "category": "Mesures Physiques"
+        "category": "⬡ BUT Mesures Physiques"
     },
     {
-        "name": "Mesures Physiques - Parcours Techniques d'instrumentation",
+        "name": "Parcours Techniques d'instrumentation",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Mesures Physiques - Parcours Techniques d'instrumentation.csv",
         "message": "BUT Mesures Physiques - Parcours Techniques d'instrumentation",
-        "category": "Mesures Physiques"
+        "category": "⬡ BUT Mesures Physiques"
     },
     {
-        "name": "Métiers du Multimédia et de l'Internet - Parcours Création Numérique",
+        "name": "Parcours Création Numérique",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Métiers du Multimédia et de l'Internet - Parcours Création Numérique.csv",
         "message": "BUT Métiers du Multimédia et de l'Internet - Parcours Création Numérique",
-        "category": "Métiers du Multimédia et de l'Internet"
+        "category": "⬡ BUT Métiers du Multimédia et de l'Internet"
     },
     {
-        "name": "Métiers du Multimédia et de l'Internet - Parcours DWeb-DI",
+        "name": "Parcours Développement web et dispositifs interactifs",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Métiers du Multimédia et de l'Internet - Parcours DWeb-DI.csv",
-        "message": "BUT Métiers du Multimédia et de l'Internet - Parcours DWeb-DI",
-        "category": "Métiers du Multimédia et de l'Internet"
+        "message": "BUT Métiers du Multimédia et de l'Internet - Parcours Développement web et dispositifs interactifs",
+        "category": "⬡ BUT Métiers du Multimédia et de l'Internet"
     },
     {
-        "name": "Métiers du Multimédia et de l'Internet - Parcours Strat-UX",
+        "name": "Parcours Stratégie de communication numérique et design d'expérience",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Métiers du Multimédia et de l'Internet - Parcours Strat-UX.csv",
-        "message": "BUT Métiers du Multimédia et de l'Internet - Parcours Strat-UX",
-        "category": "Métiers du Multimédia et de l'Internet"
+        "message": "BUT Métiers du Multimédia et de l'Internet - Parcours Stratégie de communication numérique et design d'expérience",
+        "category": "⬡ BUT Métiers du Multimédia et de l'Internet"
     },
     {
-        "name": "MT2E - parcours EXPLOIT",
+        "name": "Parcours Exploitation des installations énergétiques pour le bâtiment et l'industrie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT MT2E - parcours EXPLOIT.csv",
-        "message": "BUT MT2E - parcours EXPLOIT",
-        "category": "Métiers de la Transition et de l’Efficacité Energétiques"
+        "message": "BUT Métiers de la Transition et de l’Efficacité Energétiques - parcours Exploitation des installations énergétiques pour le bâtiment et l'industrie",
+        "category": "⬡ BUT Métiers de la Transition et de l’Efficacité Energétiques"
     },
     {
-        "name": "MT2E - parcours MANÉ",
+        "name": "Parcours Management de l'énergie pour le bâtiment et l'industrie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT MT2E - parcours MANÉ.csv",
-        "message": "BUT MT2E - parcours MANÉ",
-        "category": "Métiers de la Transition et de l’Efficacité Energétiques"
+        "message": "BUT Métiers de la Transition et de l’Efficacité Energétiques - parcours Management de l'énergie pour le bâtiment et l'industrie",
+        "category": "⬡ BUT Métiers de la Transition et de l’Efficacité Energétiques"
     },
     {
-        "name": "MT2E - parcours OPTIM",
+        "name": "Parcours Optimisation énergétique pour le bâtiment et l'industrie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT MT2E - parcours OPTIM.csv",
-        "message": "BUT MT2E - parcours OPTIM",
-        "category": "Métiers de la Transition et de l’Efficacité Energétiques"
+        "message": "BUT Métiers de la Transition et de l’Efficacité Energétiques - parcours Optimisation énergétique pour le bâtiment et l'industrie",
+        "category": "⬡ BUT Métiers de la Transition et de l’Efficacité Energétiques"
     },
     {
-        "name": "MT2E - parcours REAL",
+        "name": "Parcours Réalisation des installations énergétiques pour le bâtiment et l'industrie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT MT2E - parcours REAL.csv",
-        "message": "BUT MT2E - parcours REAL",
-        "category": "Métiers de la Transition et de l’Efficacité Energétiques"
+        "message": "BUT Métiers de la Transition et de l’Efficacité Energétiques - parcours Réalisation des installations énergétiques pour le bâtiment et l'industrie",
+        "category": "⬡ BUT Métiers de la Transition et de l’Efficacité Energétiques"
     },
     {
-        "name": "Packaging, Emballage et Conditionnement - Parcours ECHSC",
+        "name": "Parcours Eco-conception, homologation, supply chain",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Packaging, Emballage et Conditionnement - Parcours ECHSC.csv",
-        "message": "BUT Packaging, Emballage et Conditionnement - Parcours ECHSC",
-        "category": "Packaging, Emballage et Conditionnement"
+        "message": "BUT Packaging, Emballage et Conditionnement - Parcours Eco-conception, homologation, supply chain",
+        "category": "⬡ BUT Packaging, Emballage et Conditionnement"
     },
     {
-        "name": "Packaging, Emballage et Conditionnement - Parcours Eco-conception et industrialisation",
+        "name": "Parcours Eco-conception et industrialisation",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Packaging, Emballage et Conditionnement - Parcours Eco-conception et industrialisation.csv",
         "message": "BUT Packaging, Emballage et Conditionnement - Parcours Eco-conception et industrialisation",
-        "category": "Packaging, Emballage et Conditionnement"
+        "category": "⬡ BUT Packaging, Emballage et Conditionnement"
     },
     {
-        "name": "QLIO - Parcours Accompagnement à la transformation numérique",
+        "name": "Parcours Accompagnement à la transformation numérique",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT QLIO - Parcours Accompagnement à la transformation numérique.csv",
-        "message": "BUT QLIO - Parcours Accompagnement à la transformation numérique",
-        "category": "Qualité Logistique Industrielle et Organisation"
+        "message": "BUT Qualité, Logistique Industrielle et Organisation - Parcours Accompagnement à la transformation numérique",
+        "category": "⬡ BUT Qualité Logistique Industrielle et Organisation"
     },
     {
-        "name": "QLIO - Parcours Management de la production de biens et de services",
+        "name": "Parcours Management de la production de biens et de services",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT QLIO - Parcours Management de la production de biens et de services.csv",
-        "message": "BUT QLIO - Parcours Management de la production de biens et de services",
-        "category": "Qualité Logistique Industrielle et Organisation"
+        "message": "BUT Qualité, Logistique Industrielle et Organisation - Parcours Management de la production de biens et de services",
+        "category": "⬡ BUT Qualité Logistique Industrielle et Organisation"
     },
     {
-        "name": "QLIO - Parcours Pilotage de la chaîne logistique globale",
+        "name": "Parcours Pilotage de la chaîne logistique globale",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT QLIO - Parcours Pilotage de la chaîne logistique globale.csv",
-        "message": "BUT QLIO - Parcours Pilotage de la chaîne logistique globale",
-        "category": "Qualité Logistique Industrielle et Organisation"
+        "message": "BUT Qualité, Logistique Industrielle et Organisation - Parcours Pilotage de la chaîne logistique globale",
+        "category": "⬡ BUT Qualité Logistique Industrielle et Organisation"
     },
     {
-        "name": "QLIO - Parcours Qualité et pilotage des systèmes de management intégrés",
+        "name": "Parcours Qualité et pilotage des systèmes de management intégrés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT QLIO - Parcours Qualité et pilotage des systèmes de management intégrés.csv",
-        "message": "BUT QLIO - Parcours Qualité et pilotage des systèmes de management intégrés",
-        "category": "Qualité Logistique Industrielle et Organisation"
+        "message": "BUT Qualité, Logistique Industrielle et Organisation - Parcours Qualité et pilotage des systèmes de management intégrés",
+        "category": "⬡ BUT Qualité Logistique Industrielle et Organisation"
     },
     {
-        "name": "Réseaux et Télécommunications - Parcours Cybersécurité",
+        "name": "Parcours Cybersécurité",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Réseaux et Télécommunications - Parcours Cybersécurité.csv",
         "message": "BUT Réseaux et Télécommunications - Parcours Cybersécurité",
-        "category": "Réseaux et Télécommunications"
+        "category": "⬡ BUT Réseaux et Télécommunications"
     },
     {
-        "name": "Réseaux et Télécommunications - Parcours Développement système et cloud",
+        "name": "Parcours Développement système et cloud",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Réseaux et Télécommunications - Parcours Développement système et cloud.csv",
         "message": "BUT Réseaux et Télécommunications - Parcours Développement système et cloud",
-        "category": "Réseaux et Télécommunications"
+        "category": "⬡ BUT Réseaux et Télécommunications"
     },
     {
-        "name": "Réseaux et Télécommunications - Parcours Internet des objets et mobilité",
+        "name": "Parcours Internet des objets et mobilité",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Réseaux et Télécommunications - Parcours Internet des objets et mobilité.csv",
         "message": "BUT Réseaux et Télécommunications - Parcours Internet des objets et mobilité",
-        "category": "Réseaux et Télécommunications"
+        "category": "⬡ BUT Réseaux et Télécommunications"
     },
     {
-        "name": "Réseaux et Télécommunications - Parcours Pilotage de projets de réseaux",
+        "name": "Parcours Pilotage de projets de réseaux",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Réseaux et Télécommunications - Parcours Pilotage de projets de réseaux.csv",
         "message": "BUT Réseaux et Télécommunications - Parcours Pilotage de projets de réseaux",
-        "category": "Réseaux et Télécommunications"
+        "category": "⬡ BUT Réseaux et Télécommunications"
     },
     {
-        "name": "Réseaux et Télécommunications - Parcours Réseaux Opérateurs et Multimédia",
+        "name": "Parcours Réseaux Opérateurs et Multimédia",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Réseaux et Télécommunications - Parcours Réseaux Opérateurs et Multimédia.csv",
         "message": "BUT Réseaux et Télécommunications - Parcours Réseaux Opérateurs et Multimédia",
-        "category": "Réseaux et Télécommunications"
+        "category": "⬡ BUT Réseaux et Télécommunications"
     },
     {
-        "name": "Science des Données - Parcours EMS",
+        "name": "Parcours Exploration et Modélisation Statistique",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Science des Données - Parcours EMS.csv",
-        "message": "BUT Science des Données - Parcours EMS",
-        "category": "Science des Données"
+        "message": "BUT Science des Données - Parcours Exploration et Modélisation Statistique",
+        "category": "⬡ BUT Science des Données"
     },
     {
-        "name": "Science des Données - Parcours VCOD",
+        "name": "Parcours Visualisation, Conception d'Outils Décisionnels",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Science des Données - Parcours VCOD.csv",
-        "message": "BUT Science des Données - Parcours VCOD",
-        "category": "Science des Données"
+        "message": "BUT Science des Données - Parcours Visualisation, Conception d'Outils Décisionnels",
+        "category": "⬡ BUT Science des Données"
     },
     {
-        "name": "Science et Génie des Matériaux - Parcours MCEMP",
+        "name": "Parcours Métiers de la caractérisation et de l'expertise des matériaux et des produits",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Science et Génie des Matériaux - Parcours MCEMP.csv",
-        "message": "BUT Science et Génie des Matériaux - Parcours MCEMP",
-        "category": "Science et Génie des Matériaux"
+        "message": "BUT Science et Génie des Matériaux - Parcours Métiers de la caractérisation et de l'expertise des matériaux et des produits",
+        "category": "⬡ BUT Science et Génie des Matériaux"
     },
     {
-        "name": "Science et Génie des Matériaux - Parcours MIMP",
+        "name": "Parcours Métiers de l'ingénierie des matériaux et des produits",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Science et Génie des Matériaux - Parcours MIMP.csv",
-        "message": "BUT Science et Génie des Matériaux - Parcours MIMP",
-        "category": "Science et Génie des Matériaux"
+        "message": "BUT Science et Génie des Matériaux - Parcours Métiers de l'ingénierie des matériaux et des produits",
+        "category": "⬡ BUT Science et Génie des Matériaux"
     },
     {
-        "name": "Science et Génie des Matériaux - Parcours MRVM",
+        "name": "Parcours Métiers du recyclage et de la valorisation des matériaux",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Science et Génie des Matériaux - Parcours MRVM.csv",
-        "message": "BUT Science et Génie des Matériaux - Parcours MRVM",
-        "category": "Science et Génie des Matériaux"
+        "message": "BUT Science et Génie des Matériaux - Parcours Métiers du recyclage et de la valorisation des matériaux",
+        "category": "⬡ BUT Science et Génie des Matériaux"
     },
     {
-        "name": "TC - Parcours Business développement et management de la relation client",
+        "name": "Parcours Business développement et management de la relation client",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT TC - Parcours Business développement et management de la relation client.csv",
         "message": "BUT TC - Parcours Business développement et management de la relation client",
-        "category": "Techniques de Commercialisation"
+        "category": "⬡ BUT Techniques de Commercialisation"
     },
     {
-        "name": "Techniques de Commercialisation - Parcours Business international - achat et vente",
+        "name": "Parcours Business international - achat et vente",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Techniques de Commercialisation - Parcours Business international - achat et vente.csv",
         "message": "BUT Techniques de Commercialisation - Parcours Business international - achat et vente",
-        "category": "Techniques de Commercialisation"
+        "category": "⬡ BUT Techniques de Commercialisation"
     },
     {
-        "name": "Techniques de Commercialisation - Parcours Marketing digital, e-business et entrepreneuriat",
+        "name": "Parcours Marketing digital, e-business et entrepreneuriat",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Techniques de Commercialisation - Parcours Marketing digital, e-business et entrepreneuriat.csv",
         "message": "BUT Techniques de Commercialisation - Parcours Marketing digital, e-business et entrepreneuriat",
-        "category": "Techniques de Commercialisation"
+        "category": "⬡ BUT Techniques de Commercialisation"
     },
     {
-        "name": "Techniques de Commercialisation - Parcours Marketing et management du point de vente",
+        "name": "Parcours Marketing et management du point de vente",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Techniques de Commercialisation - Parcours Marketing et management du point de vente.csv",
         "message": "BUT Techniques de Commercialisation - Parcours Marketing et management du point de vente",
-        "category": "Techniques de Commercialisation"
+        "category": "⬡ BUT Techniques de Commercialisation"
     },
     {
-        "name": "Techniques de Commercialisation - Parcours Stratégie de marque et événementiel",
+        "name": "Parcours Stratégie de marque et événementiel",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Techniques de Commercialisation - Parcours Stratégie de marque et événementiel.csv",
         "message": "BUT Techniques de Commercialisation - Parcours Stratégie de marque et événementiel",
-        "category": "Techniques de Commercialisation"
+        "category": "⬡ BUT Techniques de Commercialisation"
     },
     {
-        "name": "Carrières Juridiques - Parcours Administration et Justice",
+        "name": "Parcours Administration et Justice",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Juridiques - Parcours Administration et Justice.csv",
         "message": "BUT Carrières Juridiques - Parcours Administration et Justice",
-        "category": "Carrières Juridiques"
+        "category": "⬡ BUT Carrières Juridiques"
     },
     {
-        "name": "Carrières Juridiques - Parcours Entreprise et Association",
+        "name": "Parcours Entreprise et Association",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Juridiques - Parcours Entreprise et Association.csv",
         "message": "BUT Carrières Juridiques - Parcours Entreprise et Association",
-        "category": "Carrières Juridiques"
+        "category": "⬡ BUT Carrières Juridiques"
     },
     {
-        "name": "Carrières Juridiques - Parcours Patrimoine et Finance",
+        "name": "Parcours Patrimoine et Finance",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Juridiques - Parcours Patrimoine et Finance.csv",
         "message": "BUT Carrières Juridiques - Parcours Patrimoine et Finance",
-        "category": "Carrières Juridiques"
+        "category": "⬡ BUT Carrières Juridiques"
     },
     {
-        "name": "Carrières Sociales - Parcours Animation sociale et socioculturelle",
+        "name": "Parcours Animation sociale et socioculturelle",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Sociales - Parcours Animation sociale et socioculturelle.csv",
         "message": "BUT Carrières Sociales - Parcours Animation sociale et socioculturelle",
-        "category": "Carrières Sociales"
+        "category": "⬡ BUT Carrières Sociales"
     },
     {
-        "name": "Carrières Sociales - Parcours Assistance Sociale",
+        "name": "Parcours Assistance Sociale",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Sociales - Parcours Assistance Sociale.csv",
         "message": "BUT Carrières Sociales - Parcours Assistance Sociale",
-        "category": "Carrières Sociales"
+        "category": "⬡ BUT Carrières Sociales"
     },
     {
-        "name": "Carrières Sociales - Parcours CGE3S",
+        "name": "Parcours Coordination et Gestion des Établissements et Services Sanitaires et Sociaux",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Sociales - Parcours CGE3S.csv",
-        "message": "BUT Carrières Sociales - Parcours CGE3S",
-        "category": "Carrières Sociales"
+        "message": "BUT Carrières Sociales - Parcours Coordination et Gestion des Établissements et Services Sanitaires et Sociaux",
+        "category": "⬡ BUT Carrières Sociales"
     },
     {
-        "name": "Carrières Sociales - Parcours Éducation Spécialisée",
+        "name": "Parcours Éducation Spécialisée",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Sociales - Parcours Éducation Spécialisée.csv",
         "message": "BUT Carrières Sociales - Parcours Éducation Spécialisée",
-        "category": "Carrières Sociales"
+        "category": "⬡ BUT Carrières Sociales"
     },
     {
-        "name": "Carrières Sociales - Parcours Villes et Territoires Durables",
+        "name": "Parcours Villes et Territoires Durables",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Carrières Sociales - Parcours Villes et Territoires Durables.csv",
         "message": "BUT Carrières Sociales - Parcours Villes et Territoires Durables",
-        "category": "Carrières Sociales"
+        "category": "⬡ BUT Carrières Sociales"
     },
     {
-        "name": "Chimie - Parcours Analyse, contrôle-qualité, environnement",
+        "name": "Parcours Analyse, contrôle-qualité, environnement",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Chimie - Parcours Analyse, contrôle-qualité, environnement.csv",
         "message": "BUT Chimie - Parcours Analyse, contrôle-qualité, environnement",
-        "category": "Chimie"
+        "category": "⬡ BUT Chimie"
     },
     {
-        "name": "Chimie - Parcours Chimie industrielle",
+        "name": "Parcours Chimie industrielle",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Chimie - Parcours Chimie industrielle.csv",
         "message": "BUT Chimie - Parcours Chimie industrielle",
-        "category": "Chimie"
+        "category": "⬡ BUT Chimie"
     },
     {
-        "name": "Chimie - Parcours Matériaux et produits formulés",
+        "name": "Parcours Matériaux et produits formulés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Chimie - Parcours Matériaux et produits formulés.csv",
         "message": "BUT Chimie - Parcours Matériaux et produits formulés",
-        "category": "Chimie"
+        "category": "⬡ BUT Chimie"
     },
     {
-        "name": "Chimie - Parcours Synthèse",
+        "name": "Parcours Synthèse",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Chimie - Parcours Synthèse.csv",
         "message": "BUT Chimie - Parcours Synthèse",
-        "category": "Chimie"
+        "category": "⬡ BUT Chimie"
     },
     {
-        "name": "GACO - Parcours Management des fonctions support",
+        "name": "Parcours Management des fonctions support",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management des fonctions support.csv",
-        "message": "BUT GACO - Parcours Management des fonctions support",
-        "category": "Gestion administrative et commerciale des organisations"
+        "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management des fonctions support",
+        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
     },
     {
-        "name": "GACO - Parcours MACAST",
+        "name": "Parcours MACAST",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours MACAST.csv",
-        "message": "BUT GACO - Parcours MACAST",
-        "category": "Gestion administrative et commerciale des organisations"
+        "message": "BUT Gestion administrative et commerciale des organisations - Parcours MACAST",
+        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
     },
     {
-        "name": "GACO - Parcours Management commercial et marketing omnicanal",
+        "name": "Parcours Management commercial et marketing omnicanal",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management commercial et marketing omnicanal.csv",
-        "message": "BUT GACO - Parcours Management commercial et marketing omnicanal",
-        "category": "Gestion administrative et commerciale des organisations"
+        "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management commercial et marketing omnicanal",
+        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
     },
     {
-        "name": "GACO - Parcours Management responsable de projets et des organisations",
+        "name": "Parcours Management responsable de projets et des organisations",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management responsable de projets et des organisations.csv",
-        "message": "BUT GACO - Parcours Management responsable de projets et des organisations",
-        "category": "Gestion administrative et commerciale des organisations"
+        "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management responsable de projets et des organisations",
+        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
     },
     {
-        "name": "GCCD - Parcours RAPEB",
+        "name": "Parcours Réhabilitation et Amélioration des Performances Environnementales des Bâtiments",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCCD - Parcours RAPEB.csv",
-        "message": "BUT GCCD - Parcours RAPEB",
-        "category": "Génie Civil-Construction Durable"
+        "message": "BUT Génie Civil-Construction Durable - Parcours Réhabilitation et Amélioration des Performances Environnementales des Bâtiments",
+        "category": "⬡ BUT Génie Civil-Construction Durable"
     },
     {
-        "name": "GCGP - Parcours Conception des Procédés et Innovation Technologique",
+        "name": "Parcours Conception des Procédés et Innovation Technologique",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Conception des Procédés et Innovation Technologique.csv",
-        "message": "BUT GCGP - Parcours Conception des Procédés et Innovation Technologique",
-        "category": "Génie Chimique-Génie des procédés"
+        "message": "BUT Génie Chimique-Génie des procédés - Parcours Conception des Procédés et Innovation Technologique",
+        "category": "⬡ BUT Génie Chimique-Génie des procédés"
     },
     {
-        "name": "GCGP - Parcours Contrôle, Pilotage et Optimisation des Procédés",
+        "name": "Parcours Contrôle, Pilotage et Optimisation des Procédés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Contrôle, Pilotage et Optimisation des Procédés.csv",
-        "message": "BUT GCGP - Parcours Contrôle, Pilotage et Optimisation des Procédés",
-        "category": "Génie Chimique-Génie des procédés"
+        "message": "BUT Génie Chimique-Génie des procédés - Parcours Contrôle, Pilotage et Optimisation des Procédés",
+        "category": "⬡ BUT Génie Chimique-Génie des procédés"
     },
     {
-        "name": "GCGP - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
+        "name": "Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés.csv",
-        "message": "BUT GCGP - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
-        "category": "Génie Chimique-Génie des procédés"
+        "message": "BUT Génie Chimique-Génie des procédés - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
+        "category": "⬡ BUT Génie Chimique-Génie des procédés"
     },
     {
-        "name": "GEA - Parcours Contrôle de gestion et pilotage de la performance",
+        "name": "Parcours Contrôle de gestion et pilotage de la performance",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Contrôle de gestion et pilotage de la performance.csv",
-        "message": "BUT GEA - Parcours Contrôle de gestion et pilotage de la performance",
-        "category": "Gestion des entreprises et des administrations"
+        "message": "BUT Gestion des entreprises et des administrations - Parcours Contrôle de gestion et pilotage de la performance",
+        "category": "⬡ BUT Gestion des entreprises et des administrations"
     },
     {
-        "name": "GEA - Parcours Gestion comptable fiscale et financière",
+        "name": "Parcours Gestion comptable fiscale et financière",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion comptable fiscale et financière.csv",
-        "message": "BUT GEA - Parcours Gestion comptable fiscale et financière",
-        "category": "Gestion des entreprises et des administrations"
+        "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion comptable fiscale et financière",
+        "category": "⬡ BUT Gestion des entreprises et des administrations"
     },
     {
-        "name": "GEA - Parcours Gestion entrepreneuriat et management d’activités",
+        "name": "Parcours Gestion entrepreneuriat et management d’activités",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion entrepreneuriat et management d’activités.csv",
-        "message": "BUT GEA - Parcours Gestion entrepreneuriat et management d’activités",
-        "category": "Gestion des entreprises et des administrations"
+        "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion entrepreneuriat et management d’activités",
+        "category": "⬡ BUT Gestion des entreprises et des administrations"
     },
     {
-        "name": "GEA - Parcours Gestion et pilotage des ressources humaines",
+        "name": "Parcours Gestion et pilotage des ressources humaines",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion et pilotage des ressources humaines.csv",
-        "message": "BUT GEA - Parcours Gestion et pilotage des ressources humaines",
-        "category": "Gestion des entreprises et des administrations"
+        "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion et pilotage des ressources humaines",
+        "category": "⬡ BUT Gestion des entreprises et des administrations"
     },
     {
-        "name": "GEII - Parcours Automatisme et informatique industrielle",
+        "name": "Parcours Automatisme et informatique industrielle",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEII - Parcours Automatisme et informatique industrielle.csv",
-        "message": "BUT GEII - Parcours Automatisme et informatique industrielle",
-        "category": "Génie électrique et informatique industrielle"
+        "message": "BUT Génie électrique et informatique industrielle - Parcours Automatisme et informatique industrielle",
+        "category": "⬡ BUT Génie électrique et informatique industrielle"
     },
     {
-        "name": "Génie Biologique - Parcours Agronomie",
+        "name": "Parcours Agronomie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Biologique - Parcours Agronomie.csv",
         "message": "BUT Génie Biologique - Parcours Agronomie",
-        "category": "Génie Biologique"
+        "category": "⬡ BUT Génie Biologique"
     },
     {
-        "name": "Génie Biologique - Parcours Biologie médicale et biotechnologie",
+        "name": "Parcours Biologie médicale et biotechnologie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Biologique - Parcours Biologie médicale et biotechnologie.csv",
         "message": "BUT Génie Biologique - Parcours Biologie médicale et biotechnologie",
-        "category": "Génie Biologique"
+        "category": "⬡ BUT Génie Biologique"
     },
     {
-        "name": "Génie Biologique - Parcours Diététique et nutrition",
+        "name": "Parcours Diététique et nutrition",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Biologique - Parcours Diététique et nutrition.csv",
         "message": "BUT Génie Biologique - Parcours Diététique et nutrition",
-        "category": "Génie Biologique"
+        "category": "⬡ BUT Génie Biologique"
     },
     {
-        "name": "Génie Biologique - Parcours Sciences de l'Aliment et Biotechnologie",
+        "name": "Parcours Sciences de l'Aliment et Biotechnologie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Biologique - Parcours Sciences de l'Aliment et Biotechnologie.csv",
         "message": "BUT Génie Biologique - Parcours Sciences de l'Aliment et Biotechnologie",
-        "category": "Génie Biologique"
+        "category": "⬡ BUT Génie Biologique"
     },
     {
-        "name": "Génie Biologique - Parcours Sciences de l'Environnement et Ecotechnologies",
+        "name": "Parcours Sciences de l'Environnement et Ecotechnologies",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Biologique - Parcours Sciences de l'Environnement et Ecotechnologies.csv",
         "message": "BUT Génie Biologique - Parcours Sciences de l'Environnement et Ecotechnologies",
-        "category": "Génie Biologique"
+        "category": "⬡ BUT Génie Biologique"
     },
     {
-        "name": "Génie Civil-Construction Durable - Parcours Bureaux d'Études Conception",
+        "name": "Parcours Bureaux d'Études Conception",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Civil-Construction Durable - Parcours Bureaux d'Études Conception.csv",
         "message": "BUT Génie Civil-Construction Durable - Parcours Bureaux d'Études Conception",
-        "category": "Génie Civil-Construction Durable"
+        "category": "⬡ BUT Génie Civil-Construction Durable"
     },
     {
-        "name": "Génie Civil-Construction Durable - Parcours Travaux Bâtiment",
+        "name": "Parcours Travaux Bâtiment",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Civil-Construction Durable - Parcours Travaux Bâtiment.csv",
         "message": "BUT Génie Civil-Construction Durable - Parcours Travaux Bâtiment",
-        "category": "Génie Civil-Construction Durable"
+        "category": "⬡ BUT Génie Civil-Construction Durable"
     },
     {
-        "name": "Génie Civil-Construction Durable - Parcours Travaux Publics",
+        "name": "Parcours Travaux Publics",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Civil-Construction Durable - Parcours Travaux Publics.csv",
         "message": "BUT Génie Civil-Construction Durable - Parcours Travaux Publics",
-        "category": "Génie Civil-Construction Durable"
+        "category": "⬡ BUT Génie Civil-Construction Durable"
     },
     {
-        "name": "Génie Électrique et Informatique Industrielle - Parcours Électricité et maîtrise de l'énergie",
+        "name": "Parcours Électricité et maîtrise de l'énergie",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Électrique et Informatique Industrielle - Parcours Électricité et maîtrise de l'énergie.csv",
         "message": "BUT Génie Électrique et Informatique Industrielle - Parcours Électricité et maîtrise de l'énergie",
-        "category": "Génie Électrique et Informatique Industrielle"
+        "category": "⬡ BUT Génie Électrique et Informatique Industrielle"
     },
     {
-        "name": "Génie Électrique et Informatique Industrielle - Parcours Électronique et systèmes embarqués",
+        "name": "Parcours Électronique et systèmes embarqués",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Électrique et Informatique Industrielle - Parcours Électronique et systèmes embarqués.csv",
         "message": "BUT Génie Électrique et Informatique Industrielle - Parcours Électronique et systèmes embarqués",
-        "category": "Génie Électrique et Informatique Industrielle"
+        "category": "⬡ BUT Génie Électrique et Informatique Industrielle"
+    },
+        {
+        "name": "Parcours Management, méthodes et maintenance",
+        "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance.csv",
+        "message": "BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance",
+        "category": "⬡ BUT Génie Industriel et Maintenance"
     },
     {
-        "name": "Génie Industriel et Maintenance - Parcours Ingénierie des systèmes pluritechniques",
+        "name": "Parcours Ingénierie des systèmes pluritechniques",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Industriel et Maintenance - Parcours Ingénierie des systèmes pluritechniques.csv",
         "message": "BUT Génie Industriel et Maintenance - Parcours Ingénierie des systèmes pluritechniques",
-        "category": "Génie Industriel et Maintenance"
+        "category": "⬡ BUT Génie Industriel et Maintenance"
     }
 ]
