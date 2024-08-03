@@ -363,25 +363,25 @@
         "name": "Parcours Management des fonctions support",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management des fonctions support.csv",
         "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management des fonctions support",
-        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
+        "category": "⬡ BUT Gestion Administrative et Commerciale des Organisations"
     },
     {
         "name": "Parcours MACAST",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours MACAST.csv",
         "message": "BUT Gestion administrative et commerciale des organisations - Parcours MACAST",
-        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
+        "category": "⬡ BUT Gestion Administrative et Commerciale des Organisations"
     },
     {
         "name": "Parcours Management commercial et marketing omnicanal",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management commercial et marketing omnicanal.csv",
         "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management commercial et marketing omnicanal",
-        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
+        "category": "⬡ BUT Gestion Administrative et Commerciale des Organisations"
     },
     {
         "name": "Parcours Management responsable de projets et des organisations",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GACO - Parcours Management responsable de projets et des organisations.csv",
         "message": "BUT Gestion administrative et commerciale des organisations - Parcours Management responsable de projets et des organisations",
-        "category": "⬡ BUT Gestion administrative et commerciale des organisations"
+        "category": "⬡ BUT Gestion Administrative et Commerciale des Organisations"
     },
     {
         "name": "Parcours Réhabilitation et Amélioration des Performances Environnementales des Bâtiments",
@@ -393,49 +393,43 @@
         "name": "Parcours Conception des Procédés et Innovation Technologique",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Conception des Procédés et Innovation Technologique.csv",
         "message": "BUT Génie Chimique-Génie des procédés - Parcours Conception des Procédés et Innovation Technologique",
-        "category": "⬡ BUT Génie Chimique-Génie des procédés"
+        "category": "⬡ BUT Génie Chimique-Génie des Procédés"
     },
     {
         "name": "Parcours Contrôle, Pilotage et Optimisation des Procédés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Contrôle, Pilotage et Optimisation des Procédés.csv",
         "message": "BUT Génie Chimique-Génie des procédés - Parcours Contrôle, Pilotage et Optimisation des Procédés",
-        "category": "⬡ BUT Génie Chimique-Génie des procédés"
+        "category": "⬡ BUT Génie Chimique-Génie des Procédés"
     },
     {
         "name": "Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GCGP - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés.csv",
         "message": "BUT Génie Chimique-Génie des procédés - Parcours Contrôle, Qualité, Environnement et Sécurité des Procédés",
-        "category": "⬡ BUT Génie Chimique-Génie des procédés"
+        "category": "⬡ BUT Génie Chimique-Génie des Procédés"
     },
     {
         "name": "Parcours Contrôle de gestion et pilotage de la performance",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Contrôle de gestion et pilotage de la performance.csv",
         "message": "BUT Gestion des entreprises et des administrations - Parcours Contrôle de gestion et pilotage de la performance",
-        "category": "⬡ BUT Gestion des entreprises et des administrations"
+        "category": "⬡ BUT Gestion des Entreprises et des Administrations"
     },
     {
         "name": "Parcours Gestion comptable fiscale et financière",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion comptable fiscale et financière.csv",
         "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion comptable fiscale et financière",
-        "category": "⬡ BUT Gestion des entreprises et des administrations"
+        "category": "⬡ BUT Gestion des Entreprises et des Administrations"
     },
     {
         "name": "Parcours Gestion entrepreneuriat et management d’activités",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion entrepreneuriat et management d’activités.csv",
         "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion entrepreneuriat et management d’activités",
-        "category": "⬡ BUT Gestion des entreprises et des administrations"
+        "category": "⬡ BUT Gestion des Entreprises et des Administrations"
     },
     {
         "name": "Parcours Gestion et pilotage des ressources humaines",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEA - Parcours Gestion et pilotage des ressources humaines.csv",
         "message": "BUT Gestion des entreprises et des administrations - Parcours Gestion et pilotage des ressources humaines",
-        "category": "⬡ BUT Gestion des entreprises et des administrations"
-    },
-    {
-        "name": "Parcours Automatisme et informatique industrielle",
-        "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEII - Parcours Automatisme et informatique industrielle.csv",
-        "message": "BUT Génie électrique et informatique industrielle - Parcours Automatisme et informatique industrielle",
-        "category": "⬡ BUT Génie électrique et informatique industrielle"
+        "category": "⬡ BUT Gestion des Entreprises et des Administrations"
     },
     {
         "name": "Parcours Agronomie",
@@ -497,7 +491,13 @@
         "message": "BUT Génie Électrique et Informatique Industrielle - Parcours Électronique et systèmes embarqués",
         "category": "⬡ BUT Génie Électrique et Informatique Industrielle"
     },
-        {
+    {
+        "name": "Parcours Automatisme et informatique industrielle",
+        "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT GEII - Parcours Automatisme et informatique industrielle.csv",
+        "message": "BUT Génie électrique et informatique industrielle - Parcours Automatisme et informatique industrielle",
+        "category": "⬡ BUT Génie Électrique et Informatique Industrielle"
+    },
+    {
         "name": "Parcours Management, méthodes et maintenance",
         "path": "https://eldoomcbe.github.io/_mcf_BUT/csv/PN_BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance.csv",
         "message": "BUT Génie Industriel et Maintenance - Parcours Management, méthodes et maintenance",
