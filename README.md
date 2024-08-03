@@ -255,7 +255,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #b32d00;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Carrières Juridiques</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Carrières Juridiques</p>
 </div>
 
 - [x] template
@@ -268,7 +268,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #003366;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Carrières Sociales</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Carrières Sociales</p>
 </div>
 
 - [x] template
@@ -283,7 +283,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #1caf51;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Chimie</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Chimie</p>
 </div>
 
 - [x] template
@@ -297,7 +297,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #00a7b8;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Biologique</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Biologique</p>
 </div>
 
 - [x] template
@@ -312,7 +312,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #004d40;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Chimique-Génie des Procédés</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Chimique-Génie des Procédés</p>
 </div>
 
 - [x] template
@@ -325,7 +325,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #336600;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Civil-Construction Durable</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Civil-Construction Durable</p>
 </div>
 
 - [x] template
@@ -339,7 +339,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #8a005d;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Électrique et Informatique Industrielle</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Électrique et Informatique Industrielle</p>
 </div>
 
 - [x] template
@@ -352,7 +352,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #ff6600;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Industriel et Maintenance</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Industriel et Maintenance</p>
 </div>
 
 - [x] template
@@ -364,7 +364,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #4b0082;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Génie Mécanique et Productique</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Génie Mécanique et Productique</p>
 </div>
 
 - [x] template
@@ -379,7 +379,7 @@
 
 ---
 <div class="container text-center p-3" style="background: #333399;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Gestion Administrative et Commerciale des Organisations</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Gestion Administrative et Commerciale des Organisations</p>
 </div>
 
 - [x] template
@@ -394,7 +394,7 @@ tourisme <kbd>(MACAST)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #f0702f;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Gestion des Entreprises et des Administrations</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Gestion des Entreprises et des Administrations</p>
 </div>
 
 - [x] template
@@ -408,7 +408,7 @@ tourisme <kbd>(MACAST)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #cc0000;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Hygiène-Sécurité-Environnement</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Hygiène-Sécurité-Environnement</p>
 </div>
 
 - [x] template
@@ -420,7 +420,7 @@ technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #0099cc;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Information-Communication</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Information-Communication</p>
 </div>
 
 - [x] template
@@ -435,7 +435,7 @@ technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #bb1e27;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Informatique</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Informatique</p>
 </div>
 
 - [x] template
@@ -449,7 +449,7 @@ technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #660066;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Management de la Logistique et des Transports</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Management de la Logistique et des Transports</p>
 </div>
 
 - [x] template
@@ -461,7 +461,7 @@ technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #6f448d;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Mesures Physiques</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Mesures Physiques</p>
 </div>
 
 - [x] template
@@ -474,7 +474,7 @@ technologiques et environnementaux <kbd>(SDMRPTE)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #ff0000;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Métiers de la Transition et de l'Efficacité Énergétiques</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Métiers de la Transition et de l'Efficacité Énergétiques</p>
 </div>
 
 - [x] template
@@ -490,7 +490,7 @@ l'industrie <kbd>(REAL)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #0055a4;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Métiers du Multimédia et de l'Internet</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Métiers du Multimédia et de l'Internet</p>
 </div>
 
 - [x] template
@@ -503,7 +503,7 @@ l'industrie <kbd>(REAL)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #ff3300;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Packaging, Emballage et Conditionnement</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Packaging, Emballage et Conditionnement</p>
 </div>
 
 - [x] template
@@ -515,7 +515,7 @@ l'industrie <kbd>(REAL)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #003300;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Qualité, Logistique Industrielle et Organisation</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Qualité, Logistique Industrielle et Organisation</p>
 </div>
 
 - [x] template
@@ -529,7 +529,7 @@ l'industrie <kbd>(REAL)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #3366ff;">
-<p class="lead" style="font-size:3em;"> ⬡  BUT Réseaux et Télécommunications</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡  BUT Réseaux et Télécommunications</p>
 </div>
 
 - [x] template
@@ -544,7 +544,7 @@ l'industrie <kbd>(REAL)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #990000;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Science et Génie des Matériaux</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Science et Génie des Matériaux</p>
 </div>
 
 - [x] template
@@ -558,7 +558,7 @@ produits <kbd>(MCEMP)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #004d99;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Statistique et Informatique Décisionnelle</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Statistique et Informatique Décisionnelle</p>
 </div>
 
 - [x] template
@@ -571,7 +571,7 @@ décisionnels <kbd>(VCOD)</kbd>
 
 ---
 <div class="container text-center p-3" style="background: #e94663;">
-<p class="lead" style="font-size:3em;"> ⬡ BUT Techniques de Commercialisation</p>
+<p class="lead" style="font-size:3em; color:white;font-weight:900"> ⬡ BUT Techniques de Commercialisation</p>
 </div>
 
 - [x] template
