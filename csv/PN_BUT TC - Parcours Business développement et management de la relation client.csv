@@ -1,0 +1,219 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT TC BDMRC 2022,BUT TC - Parcours Business développement et management de la relation client,"<div class=""container text-center p-3"" style=""background: #e94663;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/techniques-de-commercialisation/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/05/21642-tc-650-650-050e4452.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Techniques-de-Commercialisation"" data-line=""322""><span style=""color: #ffffff;"">BUT Techniques de Commercialisation</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Business d&eacute;veloppement et management de la relation client</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le parcours business d&eacute;veloppement et management de la relation client vise &agrave; former au d&eacute;veloppement de l&rsquo;activit&eacute; commerciale </span><span style=""color: #ffffff;"">tout en veillant &agrave; la satisfaction client pour b&acirc;tir une relation durable. Les dipl&ocirc;m&eacute;s contribueront au d&eacute;veloppement&nbsp;d&rsquo;affaires et au management de la relation client dans tout type d&rsquo;organisation.</span></p>
+<p data-line=""324""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe25 (PDF-2.15 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/6/spe617_annexe25_1426166.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo;&nbsp;techniques de commercialisation&nbsp;: programme national</a></span></p>
+<p data-line=""4"">&nbsp;</p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT TC BDMRC 2022-C1,🔴 Marketing,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conduire les actions marketing</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en analysant avec des outils pertinents les contextes &eacute;conomiques, juridiques, commerciaux et financiers</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;valuant de mani&egrave;re adapt&eacute;e les principaux acteurs de l&rsquo;offre sur le march&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en quantifiant la demande et en appr&eacute;ciant le comportement du consommateur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en analysant avec les outils appropri&eacute;s les comp&eacute;tences et les ressources de l'entreprise</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;laborant un mix adapt&eacute; &agrave; la cible et positionn&eacute; par rapport aux concurrents</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en adoptant une posture citoyenne, &eacute;thique et &eacute;cologique</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de d&eacute;veloppement d'un produit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de d&eacute;veloppement d'un service</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de d&eacute;veloppement d'une activit&eacute; non marchande</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT TC BDMRC 2022-C2,🟠 Vente,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Vendre une offre commerciale</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant l&rsquo;ordre des &eacute;tapes de la n&eacute;gociation commerciale et une d&eacute;marche &eacute;thique</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;laborant les documents commerciaux adapt&eacute;s &agrave; la situation commerciale et dans le respect de la r&eacute;glementation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en utilisant de fa&ccedil;on efficace des indicateurs de performance fix&eacute;s par l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en prospectant &agrave; l'aide d'outils adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en adaptant sa communication verbale et non verbale &agrave; la situation commerciale</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de vente en B to C</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de vente en B to B</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT TC BDMRC 2022-C3,🟡 Communication commerciale,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Communiquer l'offre commerciale</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;laborant une strat&eacute;gie de communication en coh&eacute;rence avec le mix</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en utilisant les outils de la communication commerciale adapt&eacute;s &agrave; la demande et aux contraintes de l'organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en produisant des supports de communication efficaces et qualitatifs</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant la r&eacute;glementation en vigueur</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de communication de l'offre en tant qu'annonceur</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de communication de l'offre en tant qu'agence de communication</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT TC BDMRC 2022-C4,🟢 Business développement,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>&Eacute;laborer l'identit&eacute; d'une marque</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en identifiant les opportunit&eacute;s de d&eacute;veloppement les plus porteuses</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en manageant efficacement les &eacute;quipes commerciales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;laborant une offre adapt&eacute;e au contexte sectoriel du client</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'activit&eacute; commerciale en B to B</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'activit&eacute; commerciale en B to C</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT TC BDMRC 2022-C5,🔵 Relation client,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Manager la relation client</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en d&eacute;veloppant une culture partag&eacute;e de service client</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en pilotant la satisfaction et l'exp&eacute;rience client tout au long du parcours dans une perspective durable</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en valorisant le portefeuille client par l'exploitation des donn&eacute;es client dans le respect de la r&eacute;glementation</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'activit&eacute; commerciale en B to B</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'activit&eacute; commerciale en B to C</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1,PN LP-BUT TC BDMRC 2022-C1-L1,⭐ Pour construire une offre commerciale simple,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1,PN LP-BUT TC BDMRC 2022-C1-L2,⭐⭐ Pour construire une offre commerciale complexe ou innovante,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1,PN LP-BUT TC BDMRC 2022-C1-L3,⭐⭐⭐ Pour construire une solution client étendue à tous les secteurs d'activités,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2,PN LP-BUT TC BDMRC 2022-C2-L1,⭐ Pour préparer l'entretien de vente,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2,PN LP-BUT TC BDMRC 2022-C2-L2,⭐⭐ Pour mener un entretien de vente simple,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2,PN LP-BUT TC BDMRC 2022-C2-L3,⭐⭐⭐ Pour mener une vente complexe,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3,PN LP-BUT TC BDMRC 2022-C3-L1,⭐ Pour structurer un plan de communication,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3,PN LP-BUT TC BDMRC 2022-C3-L2,⭐⭐ Pour élaborer un plan de communication,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4,PN LP-BUT TC BDMRC 2022-C4-L1,⭐ Pour agir en tant que membre de l'équipe commerciale,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4,PN LP-BUT TC BDMRC 2022-C4-L2,⭐⭐ Pour agir en tant que responsable de l'équipe commerciale,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5,PN LP-BUT TC BDMRC 2022-C5-L1,⭐ Pour agir en tant que membre de l'équipe relation client,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5,PN LP-BUT TC BDMRC 2022-C5-L2,⭐⭐ Pour agir en tant que responsable de l'équipe relation client,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L1,PN LP-BUT TC BDMRC 2022-C1-L1-P1,Analyser l'environnement d'une entreprise en repérant et appréciant les sources d'informations,<p>Analyser l'environnement d'une entreprise en rep&eacute;rant et appr&eacute;ciant les sources d'informations (fiabilit&eacute; et pertinence)</p>,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L1,PN LP-BUT TC BDMRC 2022-C1-L1-P2,Mettre en oeuvre une étude de marché dans un environnement simple,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L1,PN LP-BUT TC BDMRC 2022-C1-L1-P3,Choisir une cible et un positionnement en fonction de la segmentation du marché,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L1,PN LP-BUT TC BDMRC 2022-C1-L1-P4,"Concevoir une offre cohérente et éthique en termes de produits, de prix, de distribution et de commu",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L2,PN LP-BUT TC BDMRC 2022-C1-L2-P1,Diagnostiquer l'environnement en appréhendant les enjeux sociaux et écologiques,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L2,PN LP-BUT TC BDMRC 2022-C1-L2-P2,Mettre en oeuvre une étude de marché dans un environnement complexe,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L2,PN LP-BUT TC BDMRC 2022-C1-L2-P3,Mettre en place une stratégie marketing dans un environnement complexe,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L2,PN LP-BUT TC BDMRC 2022-C1-L2-P4,Concevoir un mix étendu pour une offre complexe,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L3,PN LP-BUT TC BDMRC 2022-C1-L3-P1,Mettre en place des outils de veille pour anticiper les évolutions de l'environnement,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L3,PN LP-BUT TC BDMRC 2022-C1-L3-P2,"Élaborer une stratégie marketing dans un environnement instable (sanitaire, économique ou interne)",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L3,PN LP-BUT TC BDMRC 2022-C1-L3-P3,Faire évoluer l'offre à l'aide de leviers de création de valeur,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C1-L3,PN LP-BUT TC BDMRC 2022-C1-L3-P4,Intégrer la RSE dans la stratégie de l'offre,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P1,Préparer un plan de découverte qui permette de profiler le client et découvir ses besoins,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P2,Concevoir un argumentaire de vente qui permette de proposer une solution adaptée aux clients,<p>Concevoir un argumentaire de vente qui permette de proposer une solution adapt&eacute;e aux besoins du client</p>,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P3,Concevoir des OAV efficaces,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P4,Évaluer la performance commerciale au moyen d'indicateurs,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P5,Recourir aux techniques adaptées à la démarche de prospection,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L1,PN LP-BUT TC BDMRC 2022-C2-L1-P6,Recourir aux codes d'expression spécifiques et professionnels,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P1,Convaincre en exprimant avec empathie l’offre en termes d’avantages personnalisés,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P2,"Négocier le prix : défendre, valoriser l'offre en percevant les stratégies d’achat",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P3,Maîtriser les éléments juridiques et comptables de l'offre,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P4,"Utiliser les OAV (feuille de calcul, supports d’argumentation...) à bon escient pour convaincre",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P5,Organiser le suivi de ses résultats pour gagner en performance au sein de l'équipe commerciale,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L2,PN LP-BUT TC BDMRC 2022-C2-L2-P6,Prendre en compte les enjeux de la fonction achat pour la performance économique de l’entreprise,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L3,PN LP-BUT TC BDMRC 2022-C2-L3-P1,Identifier les techniques d’achat employées par un acheteur professionnel,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L3,PN LP-BUT TC BDMRC 2022-C2-L3-P2,Élaborer des outils de gestion et de calcul efficaces pour la vente complexe,"<p>&Eacute;laborer des outils de gestion et de calcul efficaces (facture, &eacute;ch&eacute;ancier,devis) pour la vente complexe</p>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C2-L3,PN LP-BUT TC BDMRC 2022-C2-L3-P3,Maîtriser les codes propres à l'univers spécifique rencontré,"<p>Ma&icirc;triser les codes propres &agrave; l'univers sp&eacute;cifique rencontr&eacute; : achat, finance, industrie, international, etc</p>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L1,PN LP-BUT TC BDMRC 2022-C3-L1-P1,Identifier les cibles et objectifs de communication en tenant compte de la cohérence du mix,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L1,PN LP-BUT TC BDMRC 2022-C3-L1-P2,Analyser de manière pertinente les moyens de communication commerciale,"<p>Analyser de mani&egrave;re pertinente les moyens de communication commerciale (m&eacute;dias, hors m&eacute;dias, m&eacute;dias sociaux)</p>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L1,PN LP-BUT TC BDMRC 2022-C3-L1-P3,"Élaborer des supports simples (Imprimé Sans Adresse, affiches, dossier de sponsoring, ...)",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L1,PN LP-BUT TC BDMRC 2022-C3-L1-P4,"Analyser les indicateurs post campagne (impact, efficacité)",,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L2,PN LP-BUT TC BDMRC 2022-C3-L2-P1,Élaborer une stratégie de communication adaptée au brief agence,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L2,PN LP-BUT TC BDMRC 2022-C3-L2-P2,Établir une stratégie de moyens en utilisant les indicateurs de choix des supports,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L2,PN LP-BUT TC BDMRC 2022-C3-L2-P3,Proposer un plan de com 360° en élaborant les supports et en veillant à leur efficacité,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C3-L2,PN LP-BUT TC BDMRC 2022-C3-L2-P4,Mettre en œuvre une stratégie digitale,"<p>Mettre en &oelig;uvre une strat&eacute;gie digitale : blog, r&eacute;seaux sociaux, influenceurs, en mesurant leurs performances et en veillant &agrave; l'e-reputation</p>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L1,PN LP-BUT TC BDMRC 2022-C4-L1-P1,Réaliser un diagnostic avant la mise en place d'actions commerciales,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L1,PN LP-BUT TC BDMRC 2022-C4-L1-P2,Mesurer l'importance du choix des cibles commerciales,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L1,PN LP-BUT TC BDMRC 2022-C4-L1-P3,Travailler en équipe tout en respectant le rôle de chacun,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L1,PN LP-BUT TC BDMRC 2022-C4-L1-P4,Adapter l'offre à une demande client,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L2,PN LP-BUT TC BDMRC 2022-C4-L2-P1,Mettre en oeuvre la stratégie marketing et commerciale au sein de l'équipe,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L2,PN LP-BUT TC BDMRC 2022-C4-L2-P2,Fédérer les équipes autour de la réussite des objectifs marketing et commerciaux,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C4-L2,PN LP-BUT TC BDMRC 2022-C4-L2-P3,Co-construire une offre en collaboration avec les parties prenantes concernées,<p>Co-construire une offre en collaboration avec les parties prenantes concern&eacute;es (externes et internes)</p>,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L1,PN LP-BUT TC BDMRC 2022-C5-L1-P1,Intégrer la satisfaction client dans la réussite de la relation commerciale et la réputation,<p>Int&eacute;grer la satisfaction client dans la r&eacute;ussite de la relation commerciale et la r&eacute;putation de l'entreprise</p>,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L1,PN LP-BUT TC BDMRC 2022-C5-L1-P2,Piloter sa relation client au moyen d'indicateurs,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L1,PN LP-BUT TC BDMRC 2022-C5-L1-P3,Traiter les réclamations client pour optimiser l'activité,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L1,PN LP-BUT TC BDMRC 2022-C5-L1-P4,Exploiter de façon pertinente les outils de la relation client,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L2,PN LP-BUT TC BDMRC 2022-C5-L2-P1,Asseoir la réussite de la relation client sur la cohérence globale de l'organisation,"<p>Asseoir la r&eacute;ussite de la relation client sur la coh&eacute;rence globale de l'organisation (outils , processus, communication, structure organisationnelle...)</p>",,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L2,PN LP-BUT TC BDMRC 2022-C5-L2-P2,Optimiser l'expérience client par la mise en place d'un processus d'amélioration continue,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L2,PN LP-BUT TC BDMRC 2022-C5-L2-P3,Contribuer à la diffusion de la culture client au sein de l'organisation,,,,,,,,,,,
+PN LP-BUT TC BDMRC 2022-C5-L2,PN LP-BUT TC BDMRC 2022-C5-L2-P4,Faire évoluer les outils de la relation client,,,,,,,,,,,

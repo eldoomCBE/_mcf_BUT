@@ -1,0 +1,241 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT MMI STRAT-UX 2022,BUT Métiers du Multimédia et de l'Internet - Parcours Strat-UX,"<div class=""container text-center p-3"" style=""background: #0055a4;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/metiers-du-multimedia-et-de-linternet/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/d2/21636-mmi-650-650-d202bc55.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-M%C3%A9tiers-du-Multim%C3%A9dia-et-de-l%E2%80%99Internet"" data-line=""241""><span style=""color: #ffffff;"">BUT M&eacute;tiers du Multim&eacute;dia et de l&rsquo;Internet</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Strat&eacute;gie de communication num&eacute;rique et design d'exp&eacute;rience</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le parcours Strat&eacute;gie de communication num&eacute;rique et design d&rsquo;exp&eacute;rience pr&eacute;pare les &eacute;tudiants &agrave; exercer les fonctions de&nbsp;charg&eacute; de communication num&eacute;rique, chef de projet, product owner, UX designer, sp&eacute;cialiste SEO, r&eacute;dacteur web, community&nbsp;manager, consultant analytics...<br>Les &eacute;tudiants seront form&eacute;s sur les techniques de la strat&eacute;gie de communication, mais aussi sur de la gestion de projet, et enfin&nbsp;sur la mise en place d&rsquo;une exp&eacute;rience utilisateur de qualit&eacute;. Les &eacute;tudiants pourront mobiliser ces connaissances notamment&nbsp;autour des enjeux du web, avec le tronc commun de la premi&egrave;re ann&eacute;e.<br>Les objectifs et les mises en situation dans ce parcours, qui propose un tr&egrave;s large choix de domaine d&rsquo;application peuvent&nbsp;varier selon les d&eacute;partements et les sp&eacute;cificit&eacute;s, notamment au travers des SA&Eacute;.</span></p>
+<p data-line=""243""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe19 (PDF-1.29 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/4/spe617_annexe19_1426154.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; m&eacute;tiers du multim&eacute;dia et de l&rsquo;Internet : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT MMI STRAT-UX 2022-C1,🔴 Comprendre,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Comprendre les &eacute;cosyst&egrave;mes, les besoins des<br>utilisateurs et les dispositifs de communication<br>num&eacute;rique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en int&eacute;grant les enjeux humains, &eacute;cologiques et &eacute;thiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;coutant et observant les utilisateurs</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;appuyant sur des donn&eacute;es quantitatives pertinentes et des outils statistiques adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en sollicitant des mod&egrave;les th&eacute;oriques issus des sciences humaines et sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en restituant les r&eacute;sultats de mani&egrave;re synth&eacute;tique</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prestataire : Les livrables constituent la premi&egrave;re &eacute;tape de la mission, qui se poursuit avec du conseil et de la production (agence de communication digitale, consultant...).</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organisation traditionnelle : Les livrables sont produits par les services de l&rsquo;organisation qui peut &ecirc;tre une entreprise, une administration ou une association.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Start-up : Les livrables sont utilis&eacute;s de fa&ccedil;on it&eacute;rative pour am&eacute;liorer le produit cr&eacute;&eacute; par l&rsquo;organisation, am&eacute;lioration pilot&eacute;e par un product owner.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MMI STRAT-UX 2022-C2,🟠 Concevoir,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Concevoir ou co-concevoir une r&eacute;ponse&nbsp;strat&eacute;gique pertinente &agrave; une probl&eacute;matique&nbsp;complexe</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en optimisant la responsabilit&eacute; sociale et environnementale de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;int&eacute;grant aux &eacute;cosyst&egrave;mes physiques et num&eacute;riques des parties prenantes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;appuyant sur les usages et les modes de communication observ&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en enrichissant sa d&eacute;marche de connaissances sociologiques, esth&eacute;tiques, culturelles et inter-culturelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en pr&eacute;sentant de fa&ccedil;on convaincante la r&eacute;ponse propos&eacute;e, en fran&ccedil;ais, en anglais ou dans d&rsquo;autres langues</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prestataire : Livrables sous forme de recommandation strat&eacute;gique, dans une approche de communication ou de conception de produit / service.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organisation traditionnelle : Direction marketing, communication, DPO, CRM&hellip; dans une entreprise, une administration ou une association.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Start-up : Les livrables sont utilis&eacute;s de fa&ccedil;on it&eacute;rative pour am&eacute;liorer le produit cr&eacute;&eacute; par l&rsquo;organisation, am&eacute;lioration pilot&eacute;e par un product owner.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MMI STRAT-UX 2022-C3,🟡 Exprimer,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Exprimer un message avec les m&eacute;dias&nbsp;num&eacute;riques pour informer et communiquer</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en veillant &agrave; la qualit&eacute; esth&eacute;tique des cr&eacute;ations et en la justifiant par des r&eacute;f&eacute;rences culturelles et artistiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en produisant un discours de qualit&eacute;, appuy&eacute; sur les th&eacute;ories du r&eacute;cit et les traditions narratives</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant la strat&eacute;gie de communication &eacute;tablie</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en veillant &agrave; la qualit&eacute; orthographique, grammaticale et typographique des productions</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">communiquant en fran&ccedil;ais, en anglais ou dans d&rsquo;autres langues</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prestataire : Cr&eacute;ation et r&eacute;alisation de contenu multim&eacute;dia dans une agence g&eacute;n&eacute;raliste ou sp&eacute;cialis&eacute;e (agence de communication digitale, studio graphique, studio digital, production de jeu vid&eacute;o,&nbsp;production vid&eacute;o&hellip;).</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organisation traditionnelle : Service int&eacute;gr&eacute; dans une entreprise, une administration ou une association : production interne et gestion des utilisateurs.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Start-up : It&eacute;rations continues : le discours s&rsquo;adapte aux &eacute;volutions de l&rsquo;entreprise, de son march&eacute; et de sa communaut&eacute;.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MMI STRAT-UX 2022-C4,🟢 Développer,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>D&eacute;velopper pour le web et les m&eacute;dias num&eacute;riques</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en se conformant aux standards du Web et aux normes d&rsquo;accessibilit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;appuyant sur des concepts th&eacute;oriques issus de l&rsquo;informatique et des sciences de l&rsquo;information</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en produisant du code fonctionnel, sobre et r&eacute;utilisable</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en utilisant les outils favorisant un d&eacute;veloppement it&eacute;ratif et collaboratif</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en veillant &agrave; la s&eacute;curit&eacute; des syst&egrave;mes et des donn&eacute;es</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Petite structure : D&eacute;veloppement &agrave; partir de 0, avec une grande libert&eacute; en termes d&rsquo;outils, de technologies, de m&eacute;thodologie et de d&eacute;cision.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Grande organisation : D&eacute;veloppement dans une grande organisation en respectant des processus structur&eacute;s et contraignants.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Maintenance logicielle : Support, maintenance corrective et &eacute;volutive, gestion de la dette technique.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MMI STRAT-UX 2022-C5,🔵 Entreprendre,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Entreprendre dans le secteur du num&eacute;rique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;appuyant sur une veille technologique et des mod&egrave;les de l&rsquo;innovation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en favorisant la collaboration entre les parties prenantes du projet</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant le droit et la vie priv&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en favorisant la sobri&eacute;t&eacute; num&eacute;rique</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en exploitant des cadres de r&eacute;flexion fran&ccedil;ais et internationaux</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prestataire : Gestion de projet classique pour un client, dans une agence g&eacute;n&eacute;raliste ou sp&eacute;cialis&eacute;e (studio graphique, studio digital, production de jeu vid&eacute;o, production vid&eacute;o&hellip;).</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organisation traditionnelle : Accompagnement du changement et intrapreneuriat dans une entreprise, une administration ou une association.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Start-up: Entrepreneuriat et gestion de projet avec une m&eacute;thode d&rsquo;am&eacute;lioration continue.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1,PN LP-BUT MMI STRAT-UX 2022-C1-L1,⭐ Comprendre les éléments de communication et les attentes utilisateurs,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1,PN LP-BUT MMI STRAT-UX 2022-C1-L2,⭐⭐ Comprendre la stratégie de communication et l’expérience utilisateur,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2,PN LP-BUT MMI STRAT-UX 2022-C2-L1,⭐ Concevoir une réponse stratégique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2,PN LP-BUT MMI STRAT-UX 2022-C2-L2,⭐⭐ Co-concevoir une réponse stratégique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2,PN LP-BUT MMI STRAT-UX 2022-C2-L3,⭐⭐⭐ Co-concevoir une réponse stratégique complexe et prospective,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3,PN LP-BUT MMI STRAT-UX 2022-C3-L1,⭐ Exprimer un message par des productions simples,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3,PN LP-BUT MMI STRAT-UX 2022-C3-L2,⭐⭐ Exprimer une identité visuelle et éditoriale transmédia,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4,PN LP-BUT MMI STRAT-UX 2022-C4-L1,⭐ Développer un site web simple et le met en ligne,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4,PN LP-BUT MMI STRAT-UX 2022-C4-L2,⭐⭐ Développer une application Web interactive,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5,PN LP-BUT MMI STRAT-UX 2022-C5-L1,⭐ Entreprendre un projet numérique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5,PN LP-BUT MMI STRAT-UX 2022-C5-L2,⭐⭐ Entreprendre un projet au sein d’un écosystème numérique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5,PN LP-BUT MMI STRAT-UX 2022-C5-L3,⭐⭐⭐ Entreprendre dans le numérique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P1,"Présenter une organisation, ses activités et son environnement","<p>Pr&eacute;senter une organisation, ses activit&eacute;s et son environnement (&eacute;conomique, sociologique, culturel, juridique, technologique, communicationnel et m&eacute;diatique)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P2,"Évaluer un site web, un produit multimédia ou un dispositif interactif existant","<p>&Eacute;valuer un site web, un produit multim&eacute;dia ou un dispositif interactif existant en s&rsquo;appuyant sur des guides de bonnes pratiques</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P3,Produire des analyses statistiques descriptives et les interpréter pour évaluer un contexte,<p>Produire des analyses statistiques descriptives et les interpr&eacute;ter pour &eacute;valuer un contexte socio-&eacute;conomique</p>,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P4,Analyser des formes médiatiques et leur sémiotique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P5,"Identifier les cibles (critères socio-économiques, démographiques, géographiques, culturels...)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L1,PN LP-BUT MMI STRAT-UX 2022-C1-L1-P6,Réaliser des entretiens utilisateurs pour construire des personae et des récits utilisateurs,<p>R&eacute;aliser des entretiens utilisateurs pour construire des personae et des r&eacute;cits utilisateurs (user stories)</p>,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L2,PN LP-BUT MMI STRAT-UX 2022-C1-L2-P1,"Analyser la stratégie de communication ou marketing d’un acteur, d’une organisation","<p>Analyser la strat&eacute;gie de communication ou marketing d&rsquo;un acteur, d&rsquo;une organisation au regard d&rsquo;un secteur ou d&rsquo;un march&eacute; (strat&eacute;gie, mission, valeurs...)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L2,PN LP-BUT MMI STRAT-UX 2022-C1-L2-P2,"Auditer un site web, une marque ou un service, en termes de trafic et de référencement",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L2,PN LP-BUT MMI STRAT-UX 2022-C1-L2-P3,Traiter des données avec des outils statistiques pour faciliter leur analyse et leur exploitation,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L2,PN LP-BUT MMI STRAT-UX 2022-C1-L2-P4,Identifier et décrire les parcours client à partir d’enquêtes de terrain,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C1-L2,PN LP-BUT MMI STRAT-UX 2022-C1-L2-P5,"Cartographier les expériences utilisateur : points de contact, points de friction et de satisfaction","<p>Cartographier les exp&eacute;riences utilisateur : points de contact, points de friction et de satisfaction, carte d&rsquo;empathie.</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L1,PN LP-BUT MMI STRAT-UX 2022-C2-L1-P1,Concevoir un produit ou un service en terme d’usage et de fonctionnalité,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L1,PN LP-BUT MMI STRAT-UX 2022-C2-L1-P2,Construire la proposition de valeur d’un produit ou d’un service,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L1,PN LP-BUT MMI STRAT-UX 2022-C2-L1-P3,"Proposer une recommandation marketing (cibles, objectifs, points de contact)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L1,PN LP-BUT MMI STRAT-UX 2022-C2-L1-P4,Proposer une stratégie de communication,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L2,PN LP-BUT MMI STRAT-UX 2022-C2-L2-P1,"Co-concevoir un produit ou un service (proposition de valeur, fonctionnalités...)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L2,PN LP-BUT MMI STRAT-UX 2022-C2-L2-P2,Produire une recommandation ergonomique à partir des tests utilisateurs,"<p>Produire une recommandation ergonomique &agrave; partir des tests utilisateurs (sur syst&egrave;me fonctionnel, prototype ou maquette interactive)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L2,PN LP-BUT MMI STRAT-UX 2022-C2-L2-P3,Co-construire une recommandation stratégique (en structurant un plan d’action),,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L2,PN LP-BUT MMI STRAT-UX 2022-C2-L2-P4,"Optimiser le référencement d’un site web, d’un produit ou d’un service",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L2,PN LP-BUT MMI STRAT-UX 2022-C2-L2-P5,Mettre en place une présence sur les réseaux sociaux,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L3,PN LP-BUT MMI STRAT-UX 2022-C2-L3-P1,"Projeter les futurs possibles d’une organisation, d’une marque, d’un service, produit ou secteur","<p>Projeter les futurs possibles d&rsquo;une organisation, d&rsquo;une marque, d&rsquo;un service, produit ou secteur (tendances, &eacute;volutions, sc&eacute;narios prospectifs)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L3,PN LP-BUT MMI STRAT-UX 2022-C2-L3-P2,Co-construire un produit ou service de manière itérative,"<p>Co-construire un produit ou service de mani&egrave;re it&eacute;rative (ateliers de cr&eacute;ativit&eacute;, id&eacute;ation, d&eacute;finition de l&rsquo;exp&eacute;rience utilisateur, exploitation des r&eacute;sultats de test)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L3,PN LP-BUT MMI STRAT-UX 2022-C2-L3-P3,"Concevoir et mettre en oeuvre une communication 360, plurimédia ou transmédia",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C2-L3,PN LP-BUT MMI STRAT-UX 2022-C2-L3-P4,Construire des outils de validation et de suivi,"<p>Construire des outils de validation et de suivi (flux, indicateurs de performance, tableaux de bord, r&eacute;f&eacute;rencement, engagement...)</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P1,Écrire pour les médias numériques,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P2,Produire des pistes graphiques et des planches d’inspiration,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P3,"Créer, composer et retoucher des visuels",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P4,"Tourner et monter une vidéo (scénario, captation image et son...)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P5,"Designer une interface web (wireframes, UI)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L1,PN LP-BUT MMI STRAT-UX 2022-C3-L1-P6,Optimiser les médias en fonction de leurs usages et supports de diffusion,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P1,Produire un écrit journalistique sourcé et documenté,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P2,"Définir une iconographie (illustrations, photographies, vidéos)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P3,Créer et décliner une identité visuelle (charte graphique),,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P4,"Imaginer, écrire et scénariser en vue d’une communication multimédia ou transmédia",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P5,"Réaliser, composer et produire pour une communication plurimédia",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C3-L2,PN LP-BUT MMI STRAT-UX 2022-C3-L2-P6,"Élaborer et produire des animations, des designs sonores, des effets spéciaux, de la visualisation","<p>&Eacute;laborer et produire des animations, des designs sonores, des effets sp&eacute;ciaux, de la visualisation de donn&eacute;es ou de la 3D</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P1,Exploiter de manière autonome un environnement de développement efficace et productif,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P2,Produire des pages Web fluides incluant un balisage sémantique efficace et des interactions simples,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P3,Générer des pages Web à partir de données structurées,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P4,Mettre en ligne une application Web en utilisant une solution d’hébergement standard,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P5,Modéliser les données d’une application Web,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L1,PN LP-BUT MMI STRAT-UX 2022-C4-L1-P6,Déployer et personnaliser une application Web en utilisant un CMS ou un framework MVC,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P1,Produire des pages et applications Web responsives,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P2,Mettre en place ou développer un back office,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P3,"Intégrer, produire ou développer des interactions riches ou des dispositifs interactifs",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P4,Modéliser les traitements d’une application Web,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P5,Optimiser une application web en termes de référencement et de temps de chargement,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C4-L2,PN LP-BUT MMI STRAT-UX 2022-C4-L2-P6,Configurer une solution d’hébergement adaptée aux besoins,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P1,Gérer un projet avec une méthode classique,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P2,Budgéter un projet et suivre sa rentabilité,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P3,"Découvrir les écosystèmes d’innovation numérique (fab labs, living labs, tiers-lieux, incubateurs…)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P4,Analyser un produit ou un service innovant en identifiant les propositions de valeurs,<p>Analyser un produit ou un service innovant en identifiant les propositions de valeurs et en &eacute;valuant les solutions propos&eacute;es</p>,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P5,Construire une présence en ligne professionnelle (personal branding),,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P6,Interagir au sein des organisations,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L1,PN LP-BUT MMI STRAT-UX 2022-C5-L1-P7,Produire un message écrit ou oral professionnel,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P1,Gérer un projet avec une méthode d’amélioration continue par exemple une méthode agile,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P2,"Cartographier un écosystème (identification des acteurs, synthèse des propositions de valeur)",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P3,Initier la constitution d’un réseau professionnel,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P4,Collaborer au sein des organisations,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P5,Maitriser les codes des productions écrites et orales professionnelles,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L2,PN LP-BUT MMI STRAT-UX 2022-C5-L2-P6,Prendre en compte les contraintes juridiques,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L3,PN LP-BUT MMI STRAT-UX 2022-C5-L3-P1,"Piloter un produit, un service ou une équipe",,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L3,PN LP-BUT MMI STRAT-UX 2022-C5-L3-P2,Maîtriser la qualité en projet Web ou multimédia,,,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L3,PN LP-BUT MMI STRAT-UX 2022-C5-L3-P3,Concevoir un projet d’entreprise innovante,"<p>Concevoir un projet d&rsquo;entreprise innovante en d&eacute;finissant le nom, l&rsquo;identit&eacute;, la forme juridique et le ton de la marque</p>",,,,,,,,,,
+PN LP-BUT MMI STRAT-UX 2022-C5-L3,PN LP-BUT MMI STRAT-UX 2022-C5-L3-P4,Défendre un projet de manière convaincante,,,,,,,,,,,

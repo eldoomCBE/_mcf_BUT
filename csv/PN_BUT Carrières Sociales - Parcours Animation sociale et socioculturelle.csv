@@ -1,0 +1,237 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT CS ASSC 2022,BUT Carrières Sociales - Parcours Animation sociale et socioculturelle,"<div class=""container text-center p-3"" style=""background: #003366;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/carrieres-sociales/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://raw.githubusercontent.com/eldoomCBE/_mcf_BUT/main/uncashed/21603-cs-650-650-7c622dba.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Carri%C3%A8res-Sociales"" data-line=""6""><span style=""color: #ffffff;"">BUT Carri&egrave;res Sociales</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Animation sociale et socioculturelle</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le Bachelor Universitaire de Technologie (BUT) Carri&egrave;res sociales parcours Animation Sociale et Socio-Culturelle couvre&nbsp;les secteurs d&rsquo;activit&eacute; en lien avec les domaines d&rsquo;intervention suivants : l&rsquo;animation socioculturelle et l&rsquo;&eacute;ducation non formelle,&nbsp;proches de la vie associative et des f&eacute;d&eacute;rations de l&rsquo;&Eacute;ducation populaire (M.J.C., Centres Sociaux, etc.), l&rsquo;action sociale (les&nbsp;dispositifs d&rsquo;int&eacute;gration et d&rsquo;insertion dans des lieux sp&eacute;cifiques comme les maisons de retraite, les foyers logement, les centres&nbsp;pour handicap&eacute;s, ...), l&rsquo;action culturelle, la m&eacute;diation, le d&eacute;veloppement local, le tourisme, les pratiques de loisir. Le professionnel&nbsp;titulaire du B.U.T. Carri&egrave;res sociales, option animation sociale et socioculturelle, con&ccedil;oit, coordonne et g&egrave;re les projets&nbsp;d&rsquo;animation d&rsquo;un service, d&rsquo;une entreprise, d&rsquo;une structure, d&rsquo;un secteur ou d&rsquo;un territoire dans le secteur associatif, public,&nbsp;semi-public ou relevant des collectivit&eacute;s locales.</span></p>
+<p data-line=""8""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe3 (PDF-3.20 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/0/spe617_annexe3_1426120.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; carri&egrave;res sociales : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT CS ASSC 2022-C1,🔴 Concevoir des interventions,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conception d'interventions adapt&eacute;es aux enjeux de la soci&eacute;t&eacute;</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant de mani&egrave;re pertinente les apports des sciences humaines et sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les publics, leurs caract&eacute;ristiques et leurs probl&eacute;matiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture attentive &agrave; la diversit&eacute; des publics et ouverte &agrave; l&rsquo;alt&eacute;rit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant des techniques de recherche documentaire et d&rsquo;investigation de terrain de mani&egrave;re adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En forgeant un point de vue argument&eacute; sur les th&eacute;matiques relevant de l&rsquo;intervention sociale et de la coh&eacute;sion des territoires</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en oeuvre d'une d&eacute;marche de constat diagnostic</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Production de donn&eacute;es originales et/ou r&eacute;f&eacute;renc&eacute;es</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; des d&eacute;marches de recherche-action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exploitation d'une veille professionnelle</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ASSC 2022-C2,🟠 Construire des dynamiques,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Construction de dynamiques partenariales</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En ma&icirc;trisant le cadre institutionnel et la dynamique des acteurs &agrave; toutes les &eacute;chelles territoriales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture professionnelle &eacute;thique et en faisant &eacute;voluer ses pratiques professionnelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans un travail d'&eacute;quipe et collaboratif dans un environnement pluri-professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur des outils de communication et de m&eacute;diation adapt&eacute;s au contexte partenarial</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les ressources financi&egrave;res, mat&eacute;rielles et humaines</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant une veille dans le champ professionnel</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Pr&eacute;sentation de l&rsquo;institution et de ses missions dans le cadre d&rsquo;un projet partenarial</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;ation d'espaces de partage des informations, des exp&eacute;riences et des ressources</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mobilisation de r&eacute;seaux d'acteurs et d&eacute;veloppement de communaut&eacute;s d&rsquo;action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribution &agrave; l&rsquo;articulation des actions men&eacute;es avec les partenaires</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement des publics &agrave; l&rsquo;acc&egrave;s aux droits et d&eacute;veloppement de solidarit&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ASSC 2022-C3,🟡 Renforcer,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Renforcement des capacit&eacute;s d'action individuelles&nbsp;et collectives des publics</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En co-construisant et en co-pilotant des projets, des dispositifs qui font sens pour tous les participants</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En inscrivant les actions / les projets dans une approche capacitaire des publics</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les sp&eacute;cificit&eacute;s du territoire et des contextes d&rsquo;intervention</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En impliquant les publics &agrave; toutes les &eacute;tapes de la d&eacute;marche de projet (du diagnostic &agrave; la valorisation)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En inscrivant les publics dans une d&eacute;marche et les valeurs de l&rsquo;&eacute;ducation populaire</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">(Co)-conception, (co)-mise en oeuvre, (Co)-&eacute;valuation d&rsquo;un projet d&rsquo;animation &agrave; destination de publics vari&eacute;s (visibles/invisibles), bas&eacute; sur l&rsquo;identification des attentes et besoins des publics, en s&rsquo;appuyant&nbsp;sur un diagnostic de projet.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Coordination d&rsquo;un projet collectif d&rsquo;animation favorisant l&rsquo;expression, la participation pour d&eacute;velopper le pouvoir d&rsquo;agir des publics.</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ASSC 2022-C4,🟢 Mettre en œuvre des démarches,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Mise en &oelig;uvre des d&eacute;marches &eacute;ducatives et des techniques d'animation dans une d&eacute;marche de projet</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En se r&eacute;f&eacute;rant aux fondamentaux de l&rsquo;&eacute;ducation populaire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans le projet global de sa structure, de son service</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En cr&eacute;ant les conditions de l&rsquo;inclusion</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En &eacute;tablissant et maintenant une relation de confiance qui s&rsquo;appuie sur une &eacute;thique et une posture professionnelle adapt&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En &eacute;laborant des sc&eacute;narios p&eacute;dagogiques et des d&eacute;marches d&rsquo;&eacute;valuation</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Animation d&rsquo;activit&eacute;s socio-&eacute;ducatives, d&rsquo;activit&eacute;s d&rsquo;animation de loisirs et de culture, d&rsquo;animation sociale, de lien social et de vie locale dans les centres de loisirs, les EHPAD, les maisons de quartier,&nbsp;centres sociaux, services jeunesses, habitat jeune et foyers logement, etc.</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Projet d&rsquo;animation et/ou de d&eacute;veloppement social et socioculturel</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ASSC 2022-C5,🔵 Contribuer,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Contribution au d&eacute;veloppement du champ&nbsp;professionnel de l&rsquo;animation</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En valorisant l&rsquo;action et les projets au niveau individuel et collectif</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant les valeurs et principes de l&rsquo;animation et de l&rsquo;&eacute;ducation populaire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En organisant le partage d&rsquo;exp&eacute;riences et en s&rsquo;appuyant sur la recherche</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En inscrivant l&rsquo;intervention dans la dur&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En concevant des strat&eacute;gies de communication et des supports adapt&eacute;s et diversifi&eacute;s dans une vis&eacute;e de diffusion et de partage</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Elaborations de strat&eacute;gies et d&rsquo;outils de communication</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Elaborations de strat&eacute;gies de d&eacute;veloppement professionnel</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1,PN LP-BUT CS ASSC 2022-C1-L1,⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats.</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1,PN LP-BUT CS ASSC 2022-C1-L2,⭐⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats.</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1,PN LP-BUT CS ASSC 2022-C1-L3,"⭐⭐⭐ Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2,PN LP-BUT CS ASSC 2022-C2-L1,⭐ Identifier et participer à l’échange avec les acteurs institutionnels et socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2,PN LP-BUT CS ASSC 2022-C2-L2,⭐⭐ Animer le partenariat en associant les acteurs concernés,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2,PN LP-BUT CS ASSC 2022-C2-L3,⭐⭐⭐ Déployer et pérenniser le réseau,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3,PN LP-BUT CS ASSC 2022-C3-L1,⭐ Élaborer des projets qui s’appuient sur une identification précise,"<p>&Eacute;laborer des projets qui s&rsquo;appuient<br>sur une identification pr&eacute;cise des<br>caract&eacute;ristiques, comp&eacute;tences et<br>contextes des publics</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3,PN LP-BUT CS ASSC 2022-C3-L2,⭐⭐ Co-élaborer des projets qui se structurent sur les ressources et l’engagement de chacun,<p>Co-&eacute;laborer des projets qui se<br>structurent sur les ressources et<br>l&rsquo;engagement de chacun pour<br>Renforcer le pouvoir d&rsquo;agir des<br>publics</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3,PN LP-BUT CS ASSC 2022-C3-L3,⭐⭐⭐ Développer une posture d’accompagnateur de projet pour renforcer les capacités d’action,<p>D&eacute;velopper une posture<br>d&rsquo;accompagnateur de projet pour<br>renforcer les capacit&eacute;s d&rsquo;action des<br>publics en d&eacute;veloppant</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4,PN LP-BUT CS ASSC 2022-C4-L1,⭐ Mettre en oeuvre des animations socioéducatives définies au sein d’une équipe,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4,PN LP-BUT CS ASSC 2022-C4-L2,"⭐⭐ Mettre en oeuvre des animations socioéducatives, inscrites dans le cadre d’un projet",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4,PN LP-BUT CS ASSC 2022-C4-L3,⭐⭐⭐ Mettre en oeuvre et coordonner des animations socioéducatives originales,<p>Mettre en oeuvre et coordonner des<br>animations socio&eacute;ducatives<br>originales inscrites dans le cadre<br>des projets de la structure et du<br>territoire</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5,PN LP-BUT CS ASSC 2022-C5-L1,⭐ Appréhender et rendre compte des dimensions et des enjeux de l’action,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5,PN LP-BUT CS ASSC 2022-C5-L2,⭐⭐ Élaborer et partager sa compréhension des dimensions et des enjeux de l’intervention,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5,PN LP-BUT CS ASSC 2022-C5-L3,"⭐⭐⭐ Modéliser, diffuser, participer à la création de ressources dans son champ professionnel",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L1,PN LP-BUT CS ASSC 2022-C1-L1-P1,"Repérer les sources d’analyse et de diagnostic, être en capacité d’y accéder",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L1,PN LP-BUT CS ASSC 2022-C1-L1-P2,"Appréhender les grands enjeux culturels, historiques et les fondamentaux sociétaux",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L1,PN LP-BUT CS ASSC 2022-C1-L1-P3,Relever les éléments de contextes et interroger les acteurs concernés,"<p>Relever les &eacute;l&eacute;ments de contextes (sociaux, &eacute;conomiques, culturels, d&eacute;mographiques, politiques, territoriaux, &eacute;ducatifs, &hellip;) et interroger les acteurs concern&eacute;s</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L1,PN LP-BUT CS ASSC 2022-C1-L1-P4,Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et aux contextes et pr&eacute;senter les r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L2,PN LP-BUT CS ASSC 2022-C1-L2-P1,"Analyser les attentes, les besoins des populations et des publics, et en comprendre les enjeux",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L2,PN LP-BUT CS ASSC 2022-C1-L2-P2,Repérer les dynamiques propres à des publics spécifiques,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L2,PN LP-BUT CS ASSC 2022-C1-L2-P3,"Sélectionner, référencer les sources et justifier ses choix méthodologiques",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L2,PN LP-BUT CS ASSC 2022-C1-L2-P4,"Mobiliser les outils pertinents pour analyser, représenter des données multiples","<p>Mobiliser les outils pertinents pour analyser, repr&eacute;senter des donn&eacute;es multiples et discuter les r&eacute;sultats</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L2,PN LP-BUT CS ASSC 2022-C1-L2-P5,"Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L3,PN LP-BUT CS ASSC 2022-C1-L3-P1,Proposer des réponses et des actions cohérentes avec les analyses réalisées,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L3,PN LP-BUT CS ASSC 2022-C1-L3-P2,Mettre au débat ses analyses et les propositions qui en découlent,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L3,PN LP-BUT CS ASSC 2022-C1-L3-P3,Concevoir des outils de veille et de prospective avec les parties prenantes,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C1-L3,PN LP-BUT CS ASSC 2022-C1-L3-P4,Impliquer les différents acteurs de la société dans les propositions de remédiations/action,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L1,PN LP-BUT CS ASSC 2022-C2-L1-P1,Repérer les acteurs socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L1,PN LP-BUT CS ASSC 2022-C2-L1-P2,Adopter une posture et une communication adaptée aux contextes et aux acteurs,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L1,PN LP-BUT CS ASSC 2022-C2-L1-P3,Mobiliser des partenaires et diversifier ses contacts,"<p>Mobiliser des partenaires et diversifier ses contacts (&eacute;tendue g&eacute;ographique, inclusion de tous les publics, diversit&eacute;s des domaines de comp&eacute;tences &hellip;)</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L1,PN LP-BUT CS ASSC 2022-C2-L1-P4,Identifier les politiques sociales et les dispositifs d’action sociale,<p>Identifier les politiques sociales et les dispositifs d&rsquo;action sociale n&eacute;cessaires &agrave; la mise en oeuvre d&rsquo;un projet partenarial</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L2,PN LP-BUT CS ASSC 2022-C2-L2-P1,Distinguer les différentes catégories de partenariat,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L2,PN LP-BUT CS ASSC 2022-C2-L2-P2,Reconnaitre et intégrer les enjeux et les logiques à l’oeuvre dans les dynamiques partenariales,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L2,PN LP-BUT CS ASSC 2022-C2-L2-P3,Construire un argumentaire et faire des propositions,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L2,PN LP-BUT CS ASSC 2022-C2-L2-P4,S'intégrer à un réseau d’acteurs adapté au contexte,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L3,PN LP-BUT CS ASSC 2022-C2-L3-P1,Réaliser une veille au sein de ses réseaux pour identifier de nouvelles attentes et nouveaux besoins,<p>R&eacute;aliser une veille au sein de ses r&eacute;seaux pour identifier de nouvelles attentes et nouveaux besoins sociaux (exp&eacute;rimentation)</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L3,PN LP-BUT CS ASSC 2022-C2-L3-P2,Analyser les enjeux de la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L3,PN LP-BUT CS ASSC 2022-C2-L3-P3,Évaluer l’adéquation entre le partenariat existant et les projets,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L3,PN LP-BUT CS ASSC 2022-C2-L3-P4,Développer le réseau en mobilisant les ressources pour collaborer à un projet ou une action collecti,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C2-L3,PN LP-BUT CS ASSC 2022-C2-L3-P5,Créer les conditions pour entretenir la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L1,PN LP-BUT CS ASSC 2022-C3-L1-P1,Identifier et prendre en compte les caractéristiques des publics,"<p>Identifier et prendre en compte les caract&eacute;ristiques des publics, tant leurs fragilit&eacute;s que leurs ressources et comp&eacute;tences (expertise, savoirs et exp&eacute;riences)</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L1,PN LP-BUT CS ASSC 2022-C3-L1-P2,Identifier et prendre en compte les caractéristiques du contexte professionnel (interne/externe),,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L1,PN LP-BUT CS ASSC 2022-C3-L1-P3,S’approprier les méthodes et outils de l’expression et de la participation des publics,<p>S&rsquo;approprier les m&eacute;thodes et outils de l&rsquo;expression et de la participation des publics pour les int&eacute;grer &agrave; chaque &eacute;tape de la d&eacute;marche de projet (de la conception &agrave; la valorisation)</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L2,PN LP-BUT CS ASSC 2022-C3-L2-P1,Réaliser un diagnostic partagé de projet en mobilisant tous les acteurs,<p>R&eacute;aliser un diagnostic partag&eacute; de projet en mobilisant tous les acteurs et partenaires potentiels du projet</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L2,PN LP-BUT CS ASSC 2022-C3-L2-P2,Co-Elaborer un projet (de la conception à la valorisation) en sollicitant la participation de tous,<p>Co-Elaborer un projet (de la conception &agrave; la valorisation) en sollicitant la participation de tous les publics (visibles/invisibles) et partenaires du projet</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L3,PN LP-BUT CS ASSC 2022-C3-L3-P1,Assumer une posture de facilitateur de projet visant à développer l’autonomisation des publics,<p>Assumer une posture de facilitateur de projet visant &agrave; d&eacute;velopper l&rsquo;autonomisation des publics dans toutes les &eacute;tapes de la d&eacute;marche de projet</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C3-L3,PN LP-BUT CS ASSC 2022-C3-L3-P2,Maintenir la dynamique participative dans la durée,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L1,PN LP-BUT CS ASSC 2022-C4-L1-P1,Expérimenter et se constituer un répertoire de pratiques,"<p>Exp&eacute;rimenter et se constituer un r&eacute;pertoire de pratiques appartenant au domaine de l&rsquo;animation socioculturelle (domaine artistique, culturel, scientifique, sportif&hellip;)</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L1,PN LP-BUT CS ASSC 2022-C4-L1-P2,Formuler des objectifs clairs et identifiés,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L1,PN LP-BUT CS ASSC 2022-C4-L1-P3,Maîtriser une palette d’outils et de techniques d’animation adaptés,"<p>Ma&icirc;triser une palette d&rsquo;outils et de techniques d&rsquo;animation adapt&eacute;s &agrave; diff&eacute;rents publics, objectifs et sujets</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L1,PN LP-BUT CS ASSC 2022-C4-L1-P4,"Disposer d’un choix de démarches pédagogiques adaptées à différents publics, objectifs et sujets",,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L1,PN LP-BUT CS ASSC 2022-C4-L1-P5,Gérer la conduite d’une animation en favorisant la participation de tous,<p>G&eacute;rer la conduite d&rsquo;une animation en favorisant la participation de tous dans un cadre s&eacute;curis&eacute; et bienveillant</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L2,PN LP-BUT CS ASSC 2022-C4-L2-P1,Approfondir la maîtrise d’un ensemble de techniques et de pratiques,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L2,PN LP-BUT CS ASSC 2022-C4-L2-P2,Identifier et s’approprier des ressources existantes,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L2,PN LP-BUT CS ASSC 2022-C4-L2-P3,"Adapter des ressources existantes (techniques, outils, pratiques d’animation)","<p>Adapter des ressources existantes (techniques, outils, pratiques d&rsquo;animation) en fonction des publics, objectifs et sujets abord&eacute;s</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L2,PN LP-BUT CS ASSC 2022-C4-L2-P4,Construire une progression pédagogique,<p>Construire une progression p&eacute;dagogique en accord avec le projet dans lequel s&rsquo;inscrivent les animations</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L2,PN LP-BUT CS ASSC 2022-C4-L2-P5,Gérer la conduite d’une animation en s’appuyant sur la dynamique du collectif,<p>G&eacute;rer la conduite d&rsquo;une animation en s&rsquo;appuyant sur la dynamique du collectif et en visant le d&eacute;veloppement de la curiosit&eacute; et l&rsquo;ouverture &agrave; la nouveaut&eacute; des publics</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L3,PN LP-BUT CS ASSC 2022-C4-L3-P1,Développer une expertise sur des techniques et des pratiques,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L3,PN LP-BUT CS ASSC 2022-C4-L3-P2,"Construire de nouvelles ressources (techniques, outils, pratiques) en prenant appui sur l’existant","<p>Construire de nouvelles ressources (techniques, outils, pratiques) en prenant appui sur l&rsquo;existant (ressources, contextes, publics)</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L3,PN LP-BUT CS ASSC 2022-C4-L3-P3,Concevoir des démarches éducatives dans une démarche de coéducation avec différents partenaires,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L3,PN LP-BUT CS ASSC 2022-C4-L3-P4,Coordonner des interventions à l’échelle de projets de structures et de territoires,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C4-L3,PN LP-BUT CS ASSC 2022-C4-L3-P5,Mettre en oeuvre des interventions visant l’émancipation des individus,<p>Mettre en oeuvre des interventions visant l&rsquo;&eacute;mancipation des individus et des groupes et le d&eacute;veloppement des ressources du territoire</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L1,PN LP-BUT CS ASSC 2022-C5-L1-P1,Maîtriser les fondamentaux des différents modes et registres d’expression,"<p>Ma&icirc;triser les fondamentaux des diff&eacute;rents modes et registres d&rsquo;expression (langue fran&ccedil;aise &eacute;crite et orale, langues &eacute;trang&egrave;res, communication visuelle, espaces num&eacute;riques)</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L1,PN LP-BUT CS ASSC 2022-C5-L1-P2,Expliciter et formaliser le sens de l’action en s’appuyant sur des concepts et la méthodologie,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L1,PN LP-BUT CS ASSC 2022-C5-L1-P3,Identifier les différents paramètres à l’oeuvre dans les situations professionnelles,<p>Identifier les diff&eacute;rents param&egrave;tres &agrave; l&rsquo;oeuvre dans les situations professionnelles relevant du champ de l&rsquo;animation</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L2,PN LP-BUT CS ASSC 2022-C5-L2-P1,Être capable de développer sa pensée à l’oral et à l’écrit,<p>&Ecirc;tre capable de d&eacute;velopper sa pens&eacute;e &agrave; l&rsquo;oral et &agrave; l&rsquo;&eacute;crit en mobilisant des supports et modes d&rsquo;expression adapt&eacute;s aux contextes et situations de communication</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L2,PN LP-BUT CS ASSC 2022-C5-L2-P2,Expliquer l’articulation des différentes actions,<p>Expliquer l&rsquo;articulation des diff&eacute;rentes actions s&rsquo;inscrivant dans le cadre d&rsquo;un projet d&rsquo;intervention</p>,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L2,PN LP-BUT CS ASSC 2022-C5-L2-P3,Produire de l’analyse distanciée et impliquée par rapport aux situations professionnelles,,,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L3,PN LP-BUT CS ASSC 2022-C5-L3-P1,Se donner les moyens de maîtriser les différents modes et registres d’expression,"<p>Se donner les moyens de ma&icirc;triser les diff&eacute;rents modes et registres d&rsquo;expression (langue fran&ccedil;aise &eacute;crite et orale, langues &eacute;trang&egrave;res, communication visuelle, espaces&nbsp;num&eacute;riques) dans des situations de communication vari&eacute;es</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L3,PN LP-BUT CS ASSC 2022-C5-L3-P2,"Opérer un retour sur expérience dans le but de développer les pratiques, la compréhension du champ..","<p>Op&eacute;rer un retour sur exp&eacute;rience dans le but de d&eacute;velopper les pratiques, la compr&eacute;hension du champ et ses orientations strat&eacute;giques.</p>",,,,,,,,,,""
+PN LP-BUT CS ASSC 2022-C5-L3,PN LP-BUT CS ASSC 2022-C5-L3-P3,"Participer à des débats de métiers, promouvoir son champ professionnel","<p>Participer &agrave; des d&eacute;bats de m&eacute;tiers, promouvoir son champ professionnel dans les contextes d&rsquo;intervention intersectoriels</p>",,,,,,,,,,""

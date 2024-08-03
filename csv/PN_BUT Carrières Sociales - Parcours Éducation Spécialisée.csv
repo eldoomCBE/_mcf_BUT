@@ -1,0 +1,287 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT CS ES 2022,BUT Carrières Sociales - Parcours Éducation Spécialisée,"<div class=""container text-center p-3"" style=""background: #003366;"">
+<h2 data-line=""2""><a target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://raw.githubusercontent.com/eldoomCBE/_mcf_BUT/main/uncashed/21603-cs-650-650-7c622dba.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Carri%C3%A8res-Sociales"" data-line=""6""><span style=""color: #ffffff;"">BUT Carri&egrave;res Sociales</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Education Sp&eacute;cialis&eacute;e</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le Bachelor Universitaire de Technologie (BUT) Carri&egrave;res sociales&nbsp; parcours &Eacute;ducation Sp&eacute;cialis&eacute;e couvre les secteurs d&rsquo;activit&eacute;s en lien avec les domaines d&rsquo;intervention suivants :<br>L&rsquo;&eacute;ducateur sp&eacute;cialis&eacute; intervient dans le cadre des politiques partenariales de pr&eacute;vention, de protection et d&rsquo;insertion. L&rsquo;&eacute;ducateur<br>sp&eacute;cialis&eacute; travaille aupr&egrave;s d&rsquo;enfants, adultes, familles et groupes en difficult&eacute; en situation de vuln&eacute;rabilit&eacute; ou de handicap&nbsp;aupr&egrave;s desquels il contribue &agrave; cr&eacute;er les conditions pour qu&rsquo;ils soient prot&eacute;g&eacute;s et accompagn&eacute;s, consid&eacute;r&eacute;s dans leurs droits et<br>puissent les faire valoir. Les lieux d&rsquo;intervention des &eacute;ducateurs sp&eacute;cialis&eacute;s sont :<br>&ndash; l&rsquo;aide sociale &agrave; l&rsquo;enfance et la protection de l&rsquo;enfance et de la famille (les Maisons d&rsquo;Enfants &agrave; Caract&egrave;re Social, les<br>foyers maternels, les clubs de Pr&eacute;vention Sp&eacute;cialis&eacute;e, les mesures d&rsquo;Assistance &Eacute;ducative en Milieu Ouvert qu&rsquo;elles<br>soient judiciaires, etc.) ;<br>&ndash; le secteur du handicap avec d&eacute;ficiences (Institut M&eacute;dico-&Eacute;ducatif, Institut d&rsquo;&Eacute;ducation Motrice, Service d&rsquo;&eacute;ducation sp&eacute;ciale<br>et de soins &agrave; domicile, Foyers d&rsquo;Accueil M&eacute;dicalis&eacute;, etc .) ;<br>&ndash; le secteur de la sant&eacute; mentale (Services de p&eacute;dopsychiatrie, H&ocirc;pitaux de jour, Centres M&eacute;dico-Psychologiques, etc.) ;<br>&ndash; le secteur judiciaire et p&eacute;nitentiaire (L&rsquo;accompagnement des d&eacute;tenus en Maison d&rsquo;Arr&ecirc;t et &agrave; leur sortie, les centres<br>&eacute;ducatifs renforc&eacute;s, etc.) ;<br>&ndash; le secteur de l&rsquo;action et de l&rsquo;insertion sociale (Le SAMU social, les Centres d&rsquo;H&eacute;bergement et de R&eacute;insertion Sociale<br>(CHRS), Accompagnement des personnes manifestant des conduites additives, etc.</span></p>
+<p data-line=""8""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe3 (PDF-3.20 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/0/spe617_annexe3_1426120.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; carri&egrave;res sociales : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT CS ES 2022-C1,🔴 Concevoir des interventions,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conception d'interventions adapt&eacute;es aux enjeux de la soci&eacute;t&eacute;</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant de mani&egrave;re pertinente les apports des sciences humaines et sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les publics, leurs caract&eacute;ristiques et leurs probl&eacute;matiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture attentive &agrave; la diversit&eacute; des publics et ouverte &agrave; l&rsquo;alt&eacute;rit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant des techniques de recherche documentaire et d&rsquo;investigation de terrain de mani&egrave;re adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En forgeant un point de vue argument&eacute; sur les th&eacute;matiques relevant de l&rsquo;intervention sociale et de la coh&eacute;sion des territoires</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en oeuvre d'une d&eacute;marche de constat diagnostic</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Production de donn&eacute;es originales et/ou r&eacute;f&eacute;renc&eacute;es</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; des d&eacute;marches de recherche-action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exploitation d'une veille professionnelle</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ES 2022-C2,🟠 Construire des dynamiques,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Construction de dynamiques partenariales</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En ma&icirc;trisant le cadre institutionnel et la dynamique des acteurs &agrave; toutes les &eacute;chelles territoriales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture professionnelle &eacute;thique et en faisant &eacute;voluer ses pratiques professionnelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans un travail d'&eacute;quipe et collaboratif dans un environnement pluri-professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur des outils de communication et de m&eacute;diation adapt&eacute;s au contexte partenarial</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les ressources financi&egrave;res, mat&eacute;rielles et humaines</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant une veille dans le champ professionnel</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Pr&eacute;sentation de l&rsquo;institution et de ses missions dans le cadre d&rsquo;un projet partenarial</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;ation d'espaces de partage des informations, des exp&eacute;riences et des ressources</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mobilisation de r&eacute;seaux d'acteurs et d&eacute;veloppement de communaut&eacute;s d&rsquo;action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribution &agrave; l&rsquo;articulation des actions men&eacute;es avec les partenaires</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement des publics &agrave; l&rsquo;acc&egrave;s aux droits et d&eacute;veloppement de solidarit&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ES 2022-C3,🟡 Instaurer une relation,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Instauration d&rsquo;une relation propice au travail&nbsp;&eacute;ducatif</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En accueillant la personne dans le respect de son identit&eacute; et de sa singularit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En identifiant les potentialit&eacute;s des personnes et leur parcours de vie</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En favorisant l&rsquo;expression des personnes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En se saisissant des opportunit&eacute;s du quotidien pour faire vivre la relation &eacute;ducative</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En interrogeant sa posture professionnelle</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Aller &agrave; la rencontre des personnes et/ou des groupes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Partage du quotidien des individus et/ou des groupes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mettre &agrave; profit tout type d'&eacute;change pour favoriser l'expression des personnes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;er des espaces de disponibilit&eacute; et des espaces de cr&eacute;ativit&eacute;</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ES 2022-C4,🟢 Adapter l'acccompagnement,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Adaptation de l&rsquo;accompagnement aux&nbsp;probl&eacute;matiques et sp&eacute;cificit&eacute;s des publics</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En am&eacute;nageant la rencontre en fonction des personnes, de la sp&eacute;cificit&eacute; de la demande et des besoins</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En analysant les besoins, les attentes, les ressources de la personne ou du groupe et les &eacute;l&eacute;ments de contexte li&eacute;s &agrave; leur situation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En explicitant l&rsquo;&eacute;volution de sa posture professionnelle</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En facilitant l&rsquo;expression des aspirations et le d&eacute;veloppement des potentialit&eacute;s des personnes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En soutenant les personnes dans l'exercice de leurs droits individuellement et collectivement</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Conception d&rsquo;accompagnement &eacute;ducatif adapt&eacute; &agrave; la situation de la personne, et en coh&eacute;rence avec son projet personnalis&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement et soutien de la personne (ou du groupe) pour qu&rsquo;elle (il) donne du sens &agrave; ses choix et &agrave; ses actions</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exercice d&rsquo;une fonction symbolique pour aider la personne (ou le groupe) au discernement pour lui permettre d&rsquo;int&eacute;grer les dimensions structurantes d&rsquo;une soci&eacute;t&eacute; et de s&rsquo;y situer</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ES 2022-C5,🔵 Piloter un projet,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Pilotage du projet &eacute;ducatif</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant la personne et son environnement dans l&rsquo;&eacute;laboration du projet</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En l&rsquo;inscrivant dans une dynamique collective</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En se basant sur le r&eacute;sultat d&rsquo;une observation et d&rsquo;une analyse des situations &eacute;ducatives</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des informations transmises par l&rsquo;&eacute;quipe pluriprofessionnelle &agrave; propos de la personne ou du groupe</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En coconstruisant un projet &eacute;ducatif &agrave; partir d&rsquo;un diagnostic socio-&eacute;ducatif partag&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en oeuvre le projet et en &eacute;valuant les actions men&eacute;es</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Conception et mise en oeuvre de projet socio-&eacute;ducatif</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en oeuvre d&rsquo;une intervention socio-&eacute;ducative individuelle ou collective</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;ajustement des pratiques dans le cadre du projet socio-&eacute;ducatif</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS ES 2022-C6,🟣 Travailler en équipe,"<div class=""container"" style=""border: solid 4px #8d65c5; padding-top: 1em; background: linear-gradient(180deg,rgba(141, 101, 197,1)0%,rgba(141, 101, 197,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Travailler en&nbsp;&eacute;quipe</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En situant son action dans le cadre des missions de l&rsquo;institution et de son projet</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En inscrivant sa d&eacute;marche au sein d&rsquo;une &eacute;quipe pluridisciplinaire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur les comp&eacute;tences collectives de chaque membre de l&rsquo;&eacute;quipe pour atteindre les objectifs fix&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte de l&rsquo;enjeu de la coh&eacute;rence de l&rsquo;action &eacute;ducative</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En d&eacute;veloppant une communication efficace dans une attitude de coop&eacute;ration</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En participant avec l&rsquo;&eacute;quipe &agrave; l&rsquo;&eacute;laboration d&rsquo;hypoth&egrave;ses de travail adapt&eacute;es aux besoins rep&eacute;r&eacute;s</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Organisation de son travail en relation avec celui de son &eacute;quipe</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&Eacute;laboration, gestion et transmission de l&rsquo;information</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;daction des &eacute;crits professionnels</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; des groupes d&rsquo;analyse des pratiques professionnelles</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;unions d&rsquo;&eacute;quipe</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Prendre des d&eacute;cisions qui rel&egrave;vent de son domaine de comp&eacute;tence en autonomie, en &eacute;quipe</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1,PN LP-BUT CS ES 2022-C1-L1,⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1,PN LP-BUT CS ES 2022-C1-L2,⭐⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1,PN LP-BUT CS ES 2022-C1-L3,"⭐⭐⭐ Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2,PN LP-BUT CS ES 2022-C2-L1,⭐ Identifier et participer à l’échange avec les acteurs institutionnels et socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2,PN LP-BUT CS ES 2022-C2-L2,⭐⭐ Animer le partenariat en associant les acteurs concernés,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2,PN LP-BUT CS ES 2022-C2-L3,⭐⭐⭐ Déployer et pérenniser le réseau,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3,PN LP-BUT CS ES 2022-C3-L1,⭐ Aptitude à créer un cadre relationnel,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3,PN LP-BUT CS ES 2022-C3-L2,⭐⭐ Concevoir et mettre en oeuvre des médiations éducatives adaptées,"<p>Concevoir et mettre en oeuvre des<br>m&eacute;diations &eacute;ducatives adapt&eacute;es<br>aux besoins, aux attentes et &agrave; la<br>situation de la personne ou du<br>groupe</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3,PN LP-BUT CS ES 2022-C3-L3,⭐⭐⭐ Créer les conditions pour que la personne soit auteure de ses choix,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4,PN LP-BUT CS ES 2022-C4-L1,"⭐ Identifier et analyser les besoins, les attentes et les ressources de la personne ","<p>Identifier et analyser les besoins,<br>les attentes et les ressources de la<br>personne ou du groupe en fonction<br>de leurs probl&eacute;matiques</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4,PN LP-BUT CS ES 2022-C4-L2,"⭐⭐ Aménager la rencontre en fonction des personnes, de la spécificité de la demande et des besoins",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4,PN LP-BUT CS ES 2022-C4-L3,"⭐⭐⭐ Soutenir les dynamiques collectives en respectant les déficiences, les vulnérabilités...","<p>Soutenir les dynamiques collectives<br>en respectant les d&eacute;ficiences, les<br>vuln&eacute;rabilit&eacute;s et les handicaps des<br>personnes</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5,PN LP-BUT CS ES 2022-C5-L1,⭐ Faire un diagnostic de la situation et du potentiel des personnes,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5,PN LP-BUT CS ES 2022-C5-L2,⭐⭐ Fixer des objectifs d’activités personnalisés et évaluer les compétences acquises,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5,PN LP-BUT CS ES 2022-C5-L3,⭐⭐⭐ Organiser les ressources et faciliter la réalisation d’un projet socio-éducatif,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6,PN LP-BUT CS ES 2022-C6-L1,⭐ Décrire l’organisation des institutions et des services,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6,PN LP-BUT CS ES 2022-C6-L2,⭐⭐ Communiquer au sein d’une équipe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6,PN LP-BUT CS ES 2022-C6-L3,⭐⭐⭐ Favoriser la cohésion d’un travail en équipe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L1,PN LP-BUT CS ES 2022-C1-L1-P1,"Repérer les sources d’analyse et de diagnostic, être en capacité d’y accéder",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L1,PN LP-BUT CS ES 2022-C1-L1-P2,"Appréhender les grands enjeux culturels, historiques et les fondamentaux sociétaux",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L1,PN LP-BUT CS ES 2022-C1-L1-P3,Relever les éléments de contextes et interroger les acteurs concernés,"<p>Relever les &eacute;l&eacute;ments de contextes (sociaux, &eacute;conomiques, culturels, d&eacute;mographiques, politiques, territoriaux, &eacute;ducatifs, &hellip;) et interroger les acteurs concern&eacute;s</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L1,PN LP-BUT CS ES 2022-C1-L1-P4,Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes et présenter les résultat,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L2,PN LP-BUT CS ES 2022-C1-L2-P1,"Analyser les attentes, les besoins des populations et des publics, et en comprendre les enjeux",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L2,PN LP-BUT CS ES 2022-C1-L2-P2,Repérer les dynamiques propres à des publics spécifiques,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L2,PN LP-BUT CS ES 2022-C1-L2-P3,"Sélectionner, référencer les sources et justifier ses choix méthodologiques",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L2,PN LP-BUT CS ES 2022-C1-L2-P4,"Mobiliser les outils pertinents pour analyser, représenter des données multiples","<p>Mobiliser les outils pertinents pour analyser, repr&eacute;senter des donn&eacute;es multiples et discuter les r&eacute;sultats</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L2,PN LP-BUT CS ES 2022-C1-L2-P5,"Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L3,PN LP-BUT CS ES 2022-C1-L3-P1,Proposer des réponses et des actions cohérentes avec les analyses réalisées,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L3,PN LP-BUT CS ES 2022-C1-L3-P2,Mettre au débat ses analyses et les propositions qui en découlent,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L3,PN LP-BUT CS ES 2022-C1-L3-P3,Concevoir des outils de veille et de prospective avec les parties prenantes,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C1-L3,PN LP-BUT CS ES 2022-C1-L3-P4,Impliquer les différents acteurs de la société dans les propositions de remédiations/action,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L1,PN LP-BUT CS ES 2022-C2-L1-P1,Repérer les acteurs socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L1,PN LP-BUT CS ES 2022-C2-L1-P2,Adopter une posture et une communication adaptée aux contextes et aux acteurs,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L1,PN LP-BUT CS ES 2022-C2-L1-P3,Mobiliser des partenaires et diversifier ses contacts,"<p>Mobiliser des partenaires et diversifier ses contacts (&eacute;tendue g&eacute;ographique, inclusion de tous les publics, diversit&eacute;s des domaines de comp&eacute;tences &hellip;)</p>",,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L1,PN LP-BUT CS ES 2022-C2-L1-P4,Identifier les politiques sociales et les dispositifs d’action sociale,<p>Identifier les politiques sociales et les dispositifs d&rsquo;action sociale n&eacute;cessaires &agrave; la mise en oeuvre d&rsquo;un projet partenarial</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L2,PN LP-BUT CS ES 2022-C2-L2-P1,Distinguer les différentes catégories de partenariat,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L2,PN LP-BUT CS ES 2022-C2-L2-P2,Reconnaitre et intégrer les enjeux et les logiques à l’oeuvre dans les dynamiques partenariales,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L2,PN LP-BUT CS ES 2022-C2-L2-P3,Construire un argumentaire et faire des propositions,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L2,PN LP-BUT CS ES 2022-C2-L2-P4,S'intégrer à un réseau d’acteurs adapté au contexte,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L3,PN LP-BUT CS ES 2022-C2-L3-P1,Réaliser une veille au sein de ses réseaux pour identifier de nouvelles attentes et nouveaux besoins,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L3,PN LP-BUT CS ES 2022-C2-L3-P2,Analyser les enjeux de la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L3,PN LP-BUT CS ES 2022-C2-L3-P3,Évaluer l’adéquation entre le partenariat existant et les projets,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L3,PN LP-BUT CS ES 2022-C2-L3-P4,Développer le réseau en mobilisant les ressources pour collaborer à une action collective,<p>D&eacute;velopper le r&eacute;seau en mobilisant les ressources pour collaborer &agrave; un projet ou une action collective</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C2-L3,PN LP-BUT CS ES 2022-C2-L3-P5,Créer les conditions pour entretenir la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L1,PN LP-BUT CS ES 2022-C3-L1-P1,S’engager dans la ou les relation(s),,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L1,PN LP-BUT CS ES 2022-C3-L1-P2,"Identifier les ressources de la personne, de la famille ou du groupe et de l’environnement",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L1,PN LP-BUT CS ES 2022-C3-L1-P3,Identifier les cadres dans lesquels s’inscrit la relation et leurs enjeux,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L1,PN LP-BUT CS ES 2022-C3-L1-P4,Repérer les dynamiques qui sont en jeu dans des situations d’interaction,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L2,PN LP-BUT CS ES 2022-C3-L2-P1,Comprendre les enjeux d’une médiation éducative et en définir les objectifs,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L2,PN LP-BUT CS ES 2022-C3-L2-P2,Mettre en oeuvre des médiations et leurs supports,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L2,PN LP-BUT CS ES 2022-C3-L2-P3,Faire un bilan critique de l’action entreprise,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L3,PN LP-BUT CS ES 2022-C3-L3-P1,Prendre conscience de la nécessité de s’effacer partiellement,<p>Prendre conscience de la n&eacute;cessit&eacute; de s&rsquo;effacer partiellement afin de favoriser l&rsquo;initiative des personnes et/ou des groupes</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L3,PN LP-BUT CS ES 2022-C3-L3-P2,Connaître et choisir les outils permettant d’optimiser l’expression des désirs,<p>Conna&icirc;tre et choisir les outils permettant d&rsquo;optimiser l&rsquo;expression des d&eacute;sirs dans la perspective de favoriser le pouvoir d&rsquo;agir</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C3-L3,PN LP-BUT CS ES 2022-C3-L3-P3,Co-construire un bilan critique sur la participation des personnes et/ou des groupes,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L1,PN LP-BUT CS ES 2022-C4-L1-P1,Observer la personne ou le groupe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L1,PN LP-BUT CS ES 2022-C4-L1-P2,Écouter les demandes de la personne ou du groupe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L1,PN LP-BUT CS ES 2022-C4-L1-P3,Décoder les demandes de la personne ou du groupe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L2,PN LP-BUT CS ES 2022-C4-L2-P1,Connaître le spécificités des publics,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L2,PN LP-BUT CS ES 2022-C4-L2-P2,Se décentrer et mettre à distance ses représentations,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L2,PN LP-BUT CS ES 2022-C4-L2-P3,Assurer la relation en posant un cadre d’intervention,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L3,PN LP-BUT CS ES 2022-C4-L3-P1,Contribuer au développement et au maintien de l’autonomie de la personne,<p>Contribuer au d&eacute;veloppement et au maintien de l&rsquo;autonomie de la personne en tenant compte de ses capacit&eacute;s</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L3,PN LP-BUT CS ES 2022-C4-L3-P2,"Faciliter l’expression , les aspirations et potentialités des personnes",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C4-L3,PN LP-BUT CS ES 2022-C4-L3-P3,Favoriser et soutenir les dynamiques collectives,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L1,PN LP-BUT CS ES 2022-C5-L1-P1,Identifier la situation,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L1,PN LP-BUT CS ES 2022-C5-L1-P2,Analyser la situation,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L1,PN LP-BUT CS ES 2022-C5-L1-P3,Évaluer les potentialités des personnes,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L2,PN LP-BUT CS ES 2022-C5-L2-P1,Formuler des objectifs,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L2,PN LP-BUT CS ES 2022-C5-L2-P2,Communiquer les objectifs à la personne ou au groupe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L2,PN LP-BUT CS ES 2022-C5-L2-P3,Recueillir le point de vue de la personne sur les objectifs fixés,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L2,PN LP-BUT CS ES 2022-C5-L2-P4,Établir des critères d’évaluation de la réussite des objectifs,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L3,PN LP-BUT CS ES 2022-C5-L3-P1,Créer les ressources support des activités,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L3,PN LP-BUT CS ES 2022-C5-L3-P2,Soutenir la réalisation du projet,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C5-L3,PN LP-BUT CS ES 2022-C5-L3-P3,Évaluer les adaptations mises en oeuvre pour la réalisation du projet,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L1,PN LP-BUT CS ES 2022-C6-L1-P1,"Identifier les statuts, les fonctions et les rôles de chaque membre d’une équipe pluridisciplinaire",,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L1,PN LP-BUT CS ES 2022-C6-L1-P2,Comprendre les relations fonctionnelles et hiérarchiques dans le travail en équipe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L1,PN LP-BUT CS ES 2022-C6-L1-P3,Repérer les différents types d’écrits professionnels,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L2,PN LP-BUT CS ES 2022-C6-L2-P1,Transmettre ses observations et argumenter ses analyses à partir de son domaine d’intervention,<p>Transmettre ses observations et argumenter ses analyses &agrave; partir de son domaine d&rsquo;intervention &agrave; l&rsquo;&eacute;quipe</p>,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L2,PN LP-BUT CS ES 2022-C6-L2-P2,Partager des informations dans le respect du cadre juridique et dans le respect des droits de la per,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L2,PN LP-BUT CS ES 2022-C6-L2-P3,Rédiger des écrits professionnels,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L3,PN LP-BUT CS ES 2022-C6-L3-P1,Négocier et participer à des décisions institutionnelles,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L3,PN LP-BUT CS ES 2022-C6-L3-P2,Participer à la recherche collective de solutions pour dépasser un conflit au sein d’une équipe,,,,,,,,,,,""
+PN LP-BUT CS ES 2022-C6-L3,PN LP-BUT CS ES 2022-C6-L3-P3,Faire valoir un point de vue critique en l’argumentant auprès de l’équipe,,,,,,,,,,,""

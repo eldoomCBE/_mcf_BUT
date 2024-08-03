@@ -1,0 +1,235 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT SGM MCEMP 2022,BUT Science et Génie des Matériaux - Parcours MCEMP,"<div class=""container text-center p-3"" style=""background: #990000;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/science-et-genie-des-materiaux/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/36/21640-sgm-650-650-36f731d6.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Science-et-G%C3%A9nie-des-Mat%C3%A9riaux"" data-line=""295""><span style=""color: #ecf0f1;"">BUT Science et G&eacute;nie des Mat&eacute;riaux</span></h2>
+<h3><span style=""color: #ecf0f1;"">Parcours M&eacute;tiers de la caract&eacute;risation et de l'expertise des mat&eacute;riaux et des&nbsp;produits</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ecf0f1;"">Garantir la qualit&eacute; des mat&eacute;riaux et des produits est un enjeu fondamental pour r&eacute;pondre aux normes de plus en plus exigeantes&nbsp;de notre soci&eacute;t&eacute;. Le parcours M&eacute;tiers de la caract&eacute;risation et de l&rsquo;expertise des mat&eacute;riaux et des produits formera des&nbsp;dipl&ocirc;m&eacute;s capables de mettre en oeuvre les techniques d&rsquo;analyse les plus adapt&eacute;es pour v&eacute;rifier la conformit&eacute; du produit avec le&nbsp;cahier des charges et de faire le lien entre param&egrave;tres de fabrication et propri&eacute;t&eacute;s du produit. Leurs comp&eacute;tences int&eacute;resseront&nbsp;les laboratoires d&rsquo;analyse, d&rsquo;expertise et les services qualit&eacute;.</span></p>
+<p data-line=""297""><span style=""color: #ffffff;""><a style=""color: #ffffff;"" title=""spe617_annexe23 (PDF-1.21 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/2/spe617_annexe23_1426162.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo;&nbsp;science et g&eacute;nie des mat&eacute;riaux&nbsp;: programme national</a></span></p>
+<p data-line=""4"">&nbsp;</p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT SGM MCEMP 2022-C1,🔴 Élaborer,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>&Eacute;laborer des mat&eacute;riaux</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les r&egrave;gles HSE</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant la possibilit&eacute; de recyclage</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant un cahier des charges (CDC)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les normes et protocoles standards</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de d&eacute;veloppement d&rsquo;un nouveau mat&eacute;riau ou produit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation d'am&eacute;lioration d&rsquo;un mat&eacute;riau ou d&rsquo;un produit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation d&rsquo;am&eacute;lioration de la mise en oeuvre</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SGM MCEMP 2022-C2,🟠 Eco-concevoir,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Eco-concevoir : du mat&eacute;riau au produit</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une d&eacute;marche globale Produit-Proc&eacute;d&eacute;-Mat&eacute;riau</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte l&rsquo;impact environnemental</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte du besoin exprim&eacute; par l'utilisateur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant l'existant et l'expertise des autres acteurs</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de r&eacute;alisation d&rsquo;un bilan carbone dans un cabinet d'audit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de r&eacute;alisation d'une ACV (Analyse du Cycle de Vie) simplifi&eacute;e d'un produit dans un cabinet d'audit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un bureau d'&eacute;tudes (BE)</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SGM MCEMP 2022-C3,🟡 Mettre en forme,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Mettre en forme les mat&eacute;riaux</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En comprenant l'incidence du proc&eacute;d&eacute; sur les propri&eacute;t&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les normes et contraintes d'HSE</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En r&eacute;alisant un produit fonctionnel avec un proc&eacute;d&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un atelier, en responsabilit&eacute; d'un appareil de production</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un bureau des m&eacute;thodes (BM) en r&eacute;digeant les documents techniques li&eacute;s &agrave; la production</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un atelier de prototypage</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SGM MCEMP 2022-C4,🟢 Caractériser,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Caract&eacute;riser des mat&eacute;riaux et des produits</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En choisissant la ou les techniques pour une caract&eacute;risation donn&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en oeuvre l&rsquo;essai ou l'analyse en toute s&eacute;curit&eacute; suivant un protocole</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En exploitant avec pertinence les r&eacute;sultats exp&eacute;rimentaux</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En pr&eacute;parant les &eacute;chantillons suivant une norme ou un protocole</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un laboratoire de caract&eacute;risation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un laboratoire de contr&ocirc;le non destructif (CND)</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un service qualit&eacute; pour le contr&ocirc;le et la validation d'un proc&eacute;d&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de travail au sein d'un service qualit&eacute; pour le contr&ocirc;le et la validation d'un produit</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SGM MCEMP 2022-C5,🔵 Expertiser,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Expertiser les mat&eacute;riaux et les produits</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En collectant les informations en lien avec l'expertise</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en oeuvre une m&eacute;thodologie de caract&eacute;risation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En choisissant les techniques de caract&eacute;risation adapt&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En ma&icirc;trisant l&rsquo;&eacute;chantillonnage</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En rendant compte</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En proposant des actions correctives</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de technicien r&eacute;pondant &agrave; un besoin de caract&eacute;risation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de technicien responsable d'un appareil et le g&eacute;rant</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de contr&ocirc;ler une conformit&eacute; vis-&agrave;-vis d'une r&eacute;glementation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation d'expertise dans un centre technique ou une assurance</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de r&eacute;daction d'un rapport d'expertise</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Situation de veille technologique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1,PN LP-BUT SGM MCEMP 2022-C1-L1,⭐ En suivant un protocole établi,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1,PN LP-BUT SGM MCEMP 2022-C1-L2,⭐⭐ En adaptant un protocole simple,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1,PN LP-BUT SGM MCEMP 2022-C1-L3,⭐⭐⭐ En définissant les paramètres d'un protocole selon un CDC,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2,PN LP-BUT SGM MCEMP 2022-C2-L1,⭐ En utilisant les outils de la conception,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2,PN LP-BUT SGM MCEMP 2022-C2-L2,⭐⭐ En concevant une pièce,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2,PN LP-BUT SGM MCEMP 2022-C2-L3,⭐⭐⭐ En concevant un produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3,PN LP-BUT SGM MCEMP 2022-C3-L1,⭐ En exécutant une procédure,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3,PN LP-BUT SGM MCEMP 2022-C3-L2,⭐⭐ En utilisant un procédé en autonomie,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3,PN LP-BUT SGM MCEMP 2022-C3-L3,⭐⭐⭐ En ajustant les paramètres pour être conforme au cahier des charges,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4,PN LP-BUT SGM MCEMP 2022-C4-L1,⭐ En réalisant un essai ou une analyse simple,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4,PN LP-BUT SGM MCEMP 2022-C4-L2,⭐⭐ En justifiant le choix des paramètres d'essai,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4,PN LP-BUT SGM MCEMP 2022-C4-L3,⭐⭐⭐ En choisissant une technique de caractérisation,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5,PN LP-BUT SGM MCEMP 2022-C5-L1,⭐ En adaptant le protocole à l'échantillon et à son historique,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5,PN LP-BUT SGM MCEMP 2022-C5-L2,⭐⭐ En menant une démarche d'expertise simple,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L1,PN LP-BUT SGM MCEMP 2022-C1-L1-P1,Suivre un protocole ou une norme,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L1,PN LP-BUT SGM MCEMP 2022-C1-L1-P2,Rendre compte du déroulement de l'élaboration et relever les éventuels écarts,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L1,PN LP-BUT SGM MCEMP 2022-C1-L1-P3,Respecter les règles HSE,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L1,PN LP-BUT SGM MCEMP 2022-C1-L1-P4,Identifier un matériau,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L2,PN LP-BUT SGM MCEMP 2022-C1-L2-P1,Choisir le procédé d'élaboration,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L2,PN LP-BUT SGM MCEMP 2022-C1-L2-P2,Relier les propriétés du matériau à la mise en oeuvre et à la composition,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L2,PN LP-BUT SGM MCEMP 2022-C1-L2-P3,Comprendre l'influence des dérives de l'application du protocole,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L2,PN LP-BUT SGM MCEMP 2022-C1-L2-P4,Identifier les possibilités de recyclage,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L3,PN LP-BUT SGM MCEMP 2022-C1-L3-P1,Adapter le procédé et la composition en fonction des propriétés attendues,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L3,PN LP-BUT SGM MCEMP 2022-C1-L3-P2,Rédiger le protocole,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C1-L3,PN LP-BUT SGM MCEMP 2022-C1-L3-P3,Définir les essais à réaliser pour caractériser le matériau obtenu,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L1,PN LP-BUT SGM MCEMP 2022-C2-L1-P1,Identifier les notions de performance du produit et de propriétés des matériaux,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L1,PN LP-BUT SGM MCEMP 2022-C2-L1-P2,Identifier les étapes de l'ACV (Analyse du Cycle de Vie) d'un produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L1,PN LP-BUT SGM MCEMP 2022-C2-L1-P3,Utiliser un logiciel de DAO et dessiner une pièce suivant les normes du dessin technique,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L1,PN LP-BUT SGM MCEMP 2022-C2-L1-P4,"Établir le lien étroit entre le design d'un produit, le procédé et le matériau",,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L2,PN LP-BUT SGM MCEMP 2022-C2-L2-P1,"Définir le design d'une pièce à partir d'un CDC, d'un matériau et d'un procédé",,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L2,PN LP-BUT SGM MCEMP 2022-C2-L2-P2,Choisir des matériaux répondant à un CDC,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L2,PN LP-BUT SGM MCEMP 2022-C2-L2-P3,Évaluer l’impact environnemental d’un produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L2,PN LP-BUT SGM MCEMP 2022-C2-L2-P4,Être acteur dans un groupe projet,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L3,PN LP-BUT SGM MCEMP 2022-C2-L3-P1,Être autonome dans un projet,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L3,PN LP-BUT SGM MCEMP 2022-C2-L3-P2,Élaborer un CDC avec un client,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L3,PN LP-BUT SGM MCEMP 2022-C2-L3-P3,Choisir et utiliser des modèles simples (mécanique et physique) et en interpréter les résultats,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C2-L3,PN LP-BUT SGM MCEMP 2022-C2-L3-P4,Créer une veille technologique,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L1,PN LP-BUT SGM MCEMP 2022-C3-L1-P1,"Découvrir le lien entre matériau, produit et procédé",,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L1,PN LP-BUT SGM MCEMP 2022-C3-L1-P2,Exécuter différentes mises en oeuvre du matériau,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L1,PN LP-BUT SGM MCEMP 2022-C3-L1-P3,Relever des paramètres de production,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L1,PN LP-BUT SGM MCEMP 2022-C3-L1-P4,Appliquer les règles HSE,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L1,PN LP-BUT SGM MCEMP 2022-C3-L1-P5,Identifier les procédés utilisés sur un produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L2,PN LP-BUT SGM MCEMP 2022-C3-L2-P1,Établir le lien entre les paramètres de fabrication et les propriétés du matériau,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L2,PN LP-BUT SGM MCEMP 2022-C3-L2-P2,Réaliser les mises en oeuvre en autonomie,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L2,PN LP-BUT SGM MCEMP 2022-C3-L2-P3,Identifier les contraintes imposées par le procédé sur le produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L3,PN LP-BUT SGM MCEMP 2022-C3-L3-P1,Optimiser un procédé en fonction des propriétés attendues du matériau,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L3,PN LP-BUT SGM MCEMP 2022-C3-L3-P2,Rédiger une gamme de fabrication,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C3-L3,PN LP-BUT SGM MCEMP 2022-C3-L3-P3,Réaliser une maintenance et un dépannage de niveau 1 des machines de mise en forme,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L1,PN LP-BUT SGM MCEMP 2022-C4-L1-P1,Réaliser les essais en respectant les règles HSE,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L1,PN LP-BUT SGM MCEMP 2022-C4-L1-P2,Relier les propriétés aux familles de matériaux,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L1,PN LP-BUT SGM MCEMP 2022-C4-L1-P3,Estimer la pertinence d'un résultat d'essai,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L1,PN LP-BUT SGM MCEMP 2022-C4-L1-P4,Rédiger le rapport d'essai,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L1,PN LP-BUT SGM MCEMP 2022-C4-L1-P5,Identifier les principes de caractérisation utilisés,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L2,PN LP-BUT SGM MCEMP 2022-C4-L2-P1,Relier les propriétés à la structure des matériaux,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L2,PN LP-BUT SGM MCEMP 2022-C4-L2-P2,Choisir les paramètres de l'analyse à réaliser,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L2,PN LP-BUT SGM MCEMP 2022-C4-L2-P3,Appliquer une norme,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P1,Proposer et ordonner différents moyens de caractérisation en fonction de la propriété à étudier,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P2,Interpréter les résultats en fonction de l'environnement global,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P3,Choisir les normes adaptées à l'essai,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P4,Réaliser la maintenance de niveau 1 d'un appareil de caractérisation,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P5,Gérer un ensemble d'appareils de caractérisation,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C4-L3,PN LP-BUT SGM MCEMP 2022-C4-L3-P6,Former un opérateur à une technique de caractérisation,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L1,PN LP-BUT SGM MCEMP 2022-C5-L1-P1,Réaliser des prélèvements d’échantillons et adapter leur conditionnement,<p>R&eacute;aliser des pr&eacute;l&egrave;vements d&rsquo;&eacute;chantillons et adapter leur conditionnement en fonction de leur origine et de leur nature</p>,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L1,PN LP-BUT SGM MCEMP 2022-C5-L1-P2,Collecter et exploiter les informations,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L1,PN LP-BUT SGM MCEMP 2022-C5-L1-P3,"Faire le lien entre propriétés, structure et procédé",,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L1,PN LP-BUT SGM MCEMP 2022-C5-L1-P4,Choisir et suivre une norme,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L2,PN LP-BUT SGM MCEMP 2022-C5-L2-P1,Identifier les causes potentielles d'une défaillance produit,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L2,PN LP-BUT SGM MCEMP 2022-C5-L2-P2,Proposer et réaliser des analyses pour valider les hypothèses,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L2,PN LP-BUT SGM MCEMP 2022-C5-L2-P3,Proposer des solutions face à une défaillance sur des cas simples,,,,,,,,,,,
+PN LP-BUT SGM MCEMP 2022-C5-L2,PN LP-BUT SGM MCEMP 2022-C5-L2-P4,"Planifier, documenter, synthétiser et rédiger un rapport",,,,,,,,,,,

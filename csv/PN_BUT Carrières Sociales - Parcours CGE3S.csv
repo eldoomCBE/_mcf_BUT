@@ -1,0 +1,252 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT CS CGE3S 2022,BUT Carrières Sociales - Parcours CGE3S,"<div class=""container text-center p-3"" style=""background: #003366;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/carrieres-sociales/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://raw.githubusercontent.com/eldoomCBE/_mcf_BUT/main/uncashed/21603-cs-650-650-7c622dba.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Carri%C3%A8res-Sociales"" data-line=""6""><span style=""color: #ffffff;"">BUT Carri&egrave;res Sociales</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Coordination et Gestion des &Eacute;tablissements et Services Sanitaires et Sociaux</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le Bachelor Universitaire de Technologie (BUT) Carri&egrave;res Sociales parcours Coordination et Gestion des &Eacute;tablissements&nbsp;et Services Sanitaires et Sociaux concerne des m&eacute;tiers en lien avec la gestion, la coordination et l&rsquo;encadrement d&rsquo;&eacute;quipe&nbsp;dans des structures et services sanitaires et sociaux mais &eacute;galement la gestion de projet, le suivi qualit&eacute;, les parcours de&nbsp;sant&eacute;-social. Cela concerne donc des services &agrave; domicile, des SSIAD, des SAAD, SPASAD, r&eacute;sidences autonomie, CCAS et&nbsp;EHPA(D).</span></p>
+<p data-line=""8""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe3 (PDF-3.20 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/0/spe617_annexe3_1426120.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; carri&egrave;res sociales : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT CS CGE3S 2022-C1,🔴 Concevoir des interventions,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conception d'interventions adapt&eacute;es aux enjeux de la soci&eacute;t&eacute;</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant de mani&egrave;re pertinente les apports des sciences humaines et sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les publics, leurs caract&eacute;ristiques et leurs probl&eacute;matiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture attentive &agrave; la diversit&eacute; des publics et ouverte &agrave; l&rsquo;alt&eacute;rit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant des techniques de recherche documentaire et d&rsquo;investigation de terrain de mani&egrave;re adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En forgeant un point de vue argument&eacute; sur les th&eacute;matiques relevant de l&rsquo;intervention sociale et de la coh&eacute;sion des territoires</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en oeuvre d'une d&eacute;marche de constat diagnostic</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Production de donn&eacute;es originales et/ou r&eacute;f&eacute;renc&eacute;es</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; des d&eacute;marches de recherche-action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exploitation d'une veille professionnelle</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS CGE3S 2022-C2,🟠 Construire des dynamiques,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Construction de dynamiques partenariales</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En ma&icirc;trisant le cadre institutionnel et la dynamique des acteurs &agrave; toutes les &eacute;chelles territoriales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture professionnelle &eacute;thique et en faisant &eacute;voluer ses pratiques professionnelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans un travail d'&eacute;quipe et collaboratif dans un environnement pluri-professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur des outils de communication et de m&eacute;diation adapt&eacute;s au contexte partenarial</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les ressources financi&egrave;res, mat&eacute;rielles et humaines</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant une veille dans le champ professionnel</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Pr&eacute;sentation de l&rsquo;institution et de ses missions dans le cadre d&rsquo;un projet partenarial</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;ation d'espaces de partage des informations, des exp&eacute;riences et des ressources</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mobilisation de r&eacute;seaux d'acteurs et d&eacute;veloppement de communaut&eacute;s d&rsquo;action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribution &agrave; l&rsquo;articulation des actions men&eacute;es avec les partenaires</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement des publics &agrave; l&rsquo;acc&egrave;s aux droits et d&eacute;veloppement de solidarit&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS CGE3S 2022-C3,🟡 Conduire des projets,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conduite de projet pour des &eacute;tablissements et des<br>services sanitaires et sociaux</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant les contraintes du milieu professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En recourant &agrave; une d&eacute;marche s'appuyant sur des m&eacute;thodologies et outils adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte le contexte institutionnel et r&eacute;glementaire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant une analyse des besoins sur un territoire donn&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Conduite d'un projet pour des &eacute;tablissements et services sanitaires et sociaux</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; la mise en oeuvre et/ou suivi d'une d&eacute;marche qualit&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;ponse &agrave; une commande et sollicitation des moyens adapt&eacute;s dans le cadre d'un &eacute;tablissement-service sanitaire et social</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;alisation d'un diagnostic pr&eacute;alable &agrave; un projet</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation au d&eacute;veloppement et &agrave; la promotion d'une structure ou d'un service</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS CGE3S 2022-C4,🟢 Construire des accompagnements adaptés,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Construction d'accompagnements adapt&eacute;s</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les logiques de parcours sur le territoire, mobilisant diff&eacute;rents acteurs</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les sp&eacute;cificit&eacute;s des publics, des personnes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant une r&eacute;flexion &eacute;thique-d&eacute;ontologique</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant les objectifs des politiques publiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En contribuant &agrave; un environnement de vie favorisant les interactions sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En proposant des solutions technologiques pertinentes</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Orientation des diff&eacute;rents publics vers les aides et accompagnements mobilisables dans le cadre de la coordination des parcours</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&Eacute;laboration d'une &eacute;valuation des besoins pr&eacute;alable &agrave; la prise en charge en &eacute;tablissement ou &agrave; domicile</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Identification et information des publics sur les solutions technologiques et/ou num&eacute;riques</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement des publics dans le respect des contraintes budg&eacute;taires et r&eacute;glementaires</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS CGE3S 2022-C5,🔵 Encadrer et Coordonner,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Encadrement et coordination</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant des d&eacute;marches, outils et techniques de gestion</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les r&eacute;f&eacute;rentiels bonnes pratiques et recommandations professionnelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant la r&eacute;glementation du travail, commerciale...</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adaptant les pratiques manag&eacute;riales &agrave; l'intervention sociale et en sant&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En veillant &agrave; la qualit&eacute; des conditions de travail et de prises en charge</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; l'encadrement des &eacute;quipes et &agrave; la coordination des acteurs</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en place de politiques-pratiques RH adapt&eacute;es aux besoins des secteurs sanitaires et sociaux</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribution &agrave; une d&eacute;marche de pr&eacute;vention des risques professionnels et d'am&eacute;lioration des conditions de travail</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; la mise en place du projet d'&eacute;tablissement ou de service</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1,PN LP-BUT CS CGE3S 2022-C1-L1,⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1,PN LP-BUT CS CGE3S 2022-C1-L2,⭐⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1,PN LP-BUT CS CGE3S 2022-C1-L3,"⭐⭐⭐ Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2,PN LP-BUT CS CGE3S 2022-C2-L1,⭐ Identifier et participer à l’échange avec les acteurs institutionnels et socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2,PN LP-BUT CS CGE3S 2022-C2-L2,⭐⭐ Animer le partenariat en associant les acteurs concernés,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2,PN LP-BUT CS CGE3S 2022-C2-L3,⭐⭐⭐ Déployer et pérenniser le réseau,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3,PN LP-BUT CS CGE3S 2022-C3-L1,⭐ Appréhender une commande et réaliser un diagnostic,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3,PN LP-BUT CS CGE3S 2022-C3-L2,⭐⭐ Proposer des solutions et des démarches de mise en oeuvre,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3,PN LP-BUT CS CGE3S 2022-C3-L3,⭐⭐⭐ Répondre à un appel à projet,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4,PN LP-BUT CS CGE3S 2022-C4-L1,⭐ Analyser les besoins et attentes des personnes,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4,PN LP-BUT CS CGE3S 2022-C4-L2,⭐⭐ Orienter les différents publics,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4,PN LP-BUT CS CGE3S 2022-C4-L3,⭐⭐⭐ Construire un accompagnement,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5,PN LP-BUT CS CGE3S 2022-C5-L1,⭐ Utiliser différents outils pour s'intégrer dans une équipe de travail,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5,PN LP-BUT CS CGE3S 2022-C5-L2,⭐⭐ Appliquer les bonnes pratiques dans la conduite d'équipe,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5,PN LP-BUT CS CGE3S 2022-C5-L3,⭐⭐⭐ Manager une équipe,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L1,PN LP-BUT CS CGE3S 2022-C1-L1-P1,"Repérer les sources d’analyse et de diagnostic, être en capacité d’y accéder",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L1,PN LP-BUT CS CGE3S 2022-C1-L1-P2,"Appréhender les grands enjeux culturels, historiques et les fondamentaux sociétaux",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L1,PN LP-BUT CS CGE3S 2022-C1-L1-P3,Relever les éléments de contextes et interroger les acteurs concernés,"<p>Relever les &eacute;l&eacute;ments de contextes (sociaux, &eacute;conomiques, culturels, d&eacute;mographiques, politiques, territoriaux, &eacute;ducatifs, &hellip;) et interroger les acteurs concern&eacute;s</p>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L1,PN LP-BUT CS CGE3S 2022-C1-L1-P4,Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes et présenter les résultat,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L2,PN LP-BUT CS CGE3S 2022-C1-L2-P1,"Analyser les attentes, les besoins des populations et des publics, et en comprendre les enjeux",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L2,PN LP-BUT CS CGE3S 2022-C1-L2-P2,Repérer les dynamiques propres à des publics spécifiques,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L2,PN LP-BUT CS CGE3S 2022-C1-L2-P3,"Sélectionner, référencer les sources et justifier ses choix méthodologiques",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L2,PN LP-BUT CS CGE3S 2022-C1-L2-P4,"Mobiliser les outils pertinents pour analyser, représenter des données multiples","<p>Mobiliser les outils pertinents pour analyser, repr&eacute;senter des donn&eacute;es multiples et discuter les r&eacute;sultats</p>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L2,PN LP-BUT CS CGE3S 2022-C1-L2-P5,"Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L3,PN LP-BUT CS CGE3S 2022-C1-L3-P1,Proposer des réponses et des actions cohérentes avec les analyses réalisées,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L3,PN LP-BUT CS CGE3S 2022-C1-L3-P2,Mettre au débat ses analyses et les propositions qui en découlent,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L3,PN LP-BUT CS CGE3S 2022-C1-L3-P3,Concevoir des outils de veille et de prospective avec les parties prenantes,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C1-L3,PN LP-BUT CS CGE3S 2022-C1-L3-P4,Impliquer les différents acteurs de la société dans les propositions de remédiations/action,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L1,PN LP-BUT CS CGE3S 2022-C2-L1-P1,Repérer les acteurs socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L1,PN LP-BUT CS CGE3S 2022-C2-L1-P2,Adopter une posture et une communication adaptée aux contextes et aux acteurs,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L1,PN LP-BUT CS CGE3S 2022-C2-L1-P3,Mobiliser des partenaires et diversifier ses contacts,"<p>Mobiliser des partenaires et diversifier ses contacts (&eacute;tendue g&eacute;ographique, inclusion de tous les publics, diversit&eacute;s des domaines de comp&eacute;tences &hellip;)</p>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L1,PN LP-BUT CS CGE3S 2022-C2-L1-P4,Identifier les politiques sociales et les dispositifs d’action sociale,<p>Identifier les politiques sociales et les dispositifs d&rsquo;action sociale n&eacute;cessaires &agrave; la mise en oeuvre d&rsquo;un projet partenarial</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L2,PN LP-BUT CS CGE3S 2022-C2-L2-P1,Distinguer les différentes catégories de partenariat,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L2,PN LP-BUT CS CGE3S 2022-C2-L2-P2,Reconnaitre et intégrer les enjeux et les logiques à l’oeuvre dans les dynamiques partenariales,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L2,PN LP-BUT CS CGE3S 2022-C2-L2-P3,Construire un argumentaire et faire des propositions,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L2,PN LP-BUT CS CGE3S 2022-C2-L2-P4,S'intégrer à un réseau d’acteurs adapté au contexte,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L3,PN LP-BUT CS CGE3S 2022-C2-L3-P1,Réaliser une veille au sein de ses réseaux pour identifier de nouvelles attentes et nouveaux besoins,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L3,PN LP-BUT CS CGE3S 2022-C2-L3-P2,Analyser les enjeux de la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L3,PN LP-BUT CS CGE3S 2022-C2-L3-P3,Évaluer l’adéquation entre le partenariat existant et les projets,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L3,PN LP-BUT CS CGE3S 2022-C2-L3-P4,Développer le réseau en mobilisant les ressources pour collaborer à une action collective,<p>D&eacute;velopper le r&eacute;seau en mobilisant les ressources pour collaborer &agrave; un projet ou une action collective</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C2-L3,PN LP-BUT CS CGE3S 2022-C2-L3-P5,Créer les conditions pour entretenir la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L1,PN LP-BUT CS CGE3S 2022-C3-L1-P1,Comprendre une commande et se l'approprier,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L1,PN LP-BUT CS CGE3S 2022-C3-L1-P2,Identifier le réseau des acteurs pouvant intervenir dans le projet ainsi que leur(s) rôle(s),,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L1,PN LP-BUT CS CGE3S 2022-C3-L1-P3,Recueillir des éléments de constat spécifiques aux établissements-services sanitaires-sociaux,"<p>Recueillir des &eacute;l&eacute;ments de constat sp&eacute;cifiques aux &eacute;tablissements-services sanitaires-sociaux (SAAD, SIAD, EHPAD...)</p>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L1,PN LP-BUT CS CGE3S 2022-C3-L1-P4,Formaliser un diagnostic dans le cadre d'un projet,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L2,PN LP-BUT CS CGE3S 2022-C3-L2-P1,"Définir, mettre en oeuvre et coordonner une démarche méthodologique",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L2,PN LP-BUT CS CGE3S 2022-C3-L2-P2,Mobiliser des outils de la démarche qualité et/ou de conduite de projet,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L2,PN LP-BUT CS CGE3S 2022-C3-L2-P3,Apporter et défendre des solutions-actions adaptées par rapport au diagnostic dans un contexte,<p>Apporter et d&eacute;fendre des solutions-actions adapt&eacute;es par rapport au diagnostic dans un contexte sp&eacute;cifique</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L2,PN LP-BUT CS CGE3S 2022-C3-L2-P4,Définir des indicateurs de réussite ou d'avancement des actions,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L3,PN LP-BUT CS CGE3S 2022-C3-L3-P1,Identifier des outils de veille pour repérer les appels à projets,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L3,PN LP-BUT CS CGE3S 2022-C3-L3-P2,Formaliser un budget et suivre celui-ci dans le respect des contraintes réglementaires,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L3,PN LP-BUT CS CGE3S 2022-C3-L3-P3,Rendre le dossier d'appel à projets dans les conditions imparties,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C3-L3,PN LP-BUT CS CGE3S 2022-C3-L3-P4,Présenter la réponse à l'appel à projets au(x) commanditaire(s),,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L1,PN LP-BUT CS CGE3S 2022-C4-L1-P1,"Analyser les attentes, les besoins des populations et des publics spécifiques","<p>Analyser les attentes, les besoins des populations et des publics sp&eacute;cifiques aux structures sanitaires et sociales (SAAD, SIAD, EHPAD...)</p>",,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L1,PN LP-BUT CS CGE3S 2022-C4-L1-P2,Mobiliser une posture et une communication professionnelles adaptées aux publics rencontrés,<p>Mobiliser une posture et une communication professionnelles adapt&eacute;es aux publics rencontr&eacute;s et &agrave; leur situation personnelle</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L1,PN LP-BUT CS CGE3S 2022-C4-L1-P3,Accueillir les différents publics dans le respect des recommandations,<p>Accueillir les diff&eacute;rents publics dans le respect des recommandations professionnelles et d&eacute;ontologiques</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L2,PN LP-BUT CS CGE3S 2022-C4-L2-P1,Identifier les principaux acteurs institutionnels et politiques publiques,<p>Identifier les principaux acteurs institutionnels et politiques publiques &agrave; diff&eacute;rents niveaux territoriaux</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L2,PN LP-BUT CS CGE3S 2022-C4-L2-P2,Proposer les aides et accompagnements mobilisables aux publics,<p>Proposer les aides et accompagnements mobilisables aux publics en recourant &agrave; une &eacute;valuation des besoins</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L2,PN LP-BUT CS CGE3S 2022-C4-L2-P3,Accompagner les publics dans leurs démarches administratives ou de demandes d'aides,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L2,PN LP-BUT CS CGE3S 2022-C4-L2-P4,Identifier des solutions technologiques et/ou numériques mobilisables,Identifier des solutions technologiques et/ou numériques mobilisables et les règles éthiques-déontologiques à respecter,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L3,PN LP-BUT CS CGE3S 2022-C4-L3-P1,Adapter les aides-accompagnements-prises en charge en prenant en compte leur environnement,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L3,PN LP-BUT CS CGE3S 2022-C4-L3-P2,"Respecter le cadre légal et réglementaire, budgétaire",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L3,PN LP-BUT CS CGE3S 2022-C4-L3-P3,Mobiliser des outils-démarches innovants d'adaptation de l'environnement des publics,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L3,PN LP-BUT CS CGE3S 2022-C4-L3-P4,Participer à la mise en place de parcours de santé,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C4-L3,PN LP-BUT CS CGE3S 2022-C4-L3-P5,Informer les publics et/ou les structures sur les conditions de mise en oeuvre,Informer les publics et/ou les structures sur les conditions de mise en oeuvre et les contraintes des solutions technologiques et/ou numériques existantes,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L1,PN LP-BUT CS CGE3S 2022-C5-L1-P1,Communiquer de façon professionnelle dans une équipe en s'adaptant à son public,<p>Communiquer de fa&ccedil;on professionnelle dans une &eacute;quipe en s'adaptant &agrave; son public (oralement et par &eacute;crit)</p>,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L1,PN LP-BUT CS CGE3S 2022-C5-L1-P2,Mobiliser les outils professionnels de travaux bureautiques et/ou collaboratifs,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L1,PN LP-BUT CS CGE3S 2022-C5-L1-P3,Se positionner dans un collectif de travail et une organisation,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P1,Utiliser des techniques d'animation et de gestion d'équipe,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P2,Participer à des dispositifs d'échanges avec les collaborateurs-partenaires sociaux,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P3,Prévenir et gérer des conflits,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P4,Mettre en place des pratiques RH adaptées aux besoins des secteurs sanitaires et sociaux,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P5,Renseigner les tableaux de bord de gestion existants,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L2,PN LP-BUT CS CGE3S 2022-C5-L2-P6,Planifier les activités et les plannings des professionnels,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P1,"Décliner les politiques RH de l'établissement, du service ou du groupe",,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P2,Entretenir et favoriser la motivation de l'équipe,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P3,Ajuster les actions à partir des indicateurs issus des tableaux de bord de gestion existants,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P4,Contribuer à la mise en place de démarches de prévention et d'amélioration,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P5,Intégrer des principes et démarches d'organisation innovants,,,,,,,,,,,""
+PN LP-BUT CS CGE3S 2022-C5-L3,PN LP-BUT CS CGE3S 2022-C5-L3-P6,Améliorer les pratiques de planification et faire face aux imprévus,,,,,,,,,,,""

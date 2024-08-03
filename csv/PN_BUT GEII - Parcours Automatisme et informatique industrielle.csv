@@ -1,0 +1,165 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT GEII AII 2022,BUT GEII - Parcours Automatisme et informatique industrielle,"<div class=""container text-center p-3"" style=""background: #8a005d;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/genie-electrique-et-informatique-industrielle/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/36/21628-geii-650-650-3616bfdb.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-G%C3%A9nie-%C3%89lectrique-et-Informatique-Industrielle"" data-line=""96""><span style=""color: #ffffff;"">BUT G&eacute;nie &Eacute;lectrique et Informatique Industrielle</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Automatisme et informatique industrielle</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">&Agrave; travers sa coloration, ce parcours met l&rsquo;accent sur l&rsquo;automatisme et la robotique, domaines incontournables dans le secteur&nbsp;de la production industrielle. Avec la r&eacute;volution num&eacute;rique de l&rsquo;industrie du futur, ce parcours a pour objectif de rendre apte&nbsp;&agrave; installer et &agrave; programmer des syst&egrave;mes automatis&eacute;s (automates, robots et vision) qui assureront la conduite et le contr&ocirc;le&nbsp;des proc&eacute;d&eacute;s industriels. Les &eacute;tudiants d&eacute;couvriront ce que l&rsquo;industrie du futur apporte comme nouvelle fa&ccedil;on d&rsquo;organiser les&nbsp;moyens de production, en pla&ccedil;ant le num&eacute;rique (l&rsquo;internet des objets (IoT), le jumeau num&eacute;rique, la r&eacute;alit&eacute; augment&eacute;e ou&nbsp;virtuelle, l&rsquo;intelligence artificielle, le Cloud, le Big Data, la cybers&eacute;curit&eacute;, etc.) au coeur des moyens de fabrication.<br>Ces outils communicants, gr&acirc;ce &agrave; l&rsquo;essor des nouveaux r&eacute;seaux informatiques industriels, apporteront aux dipl&ocirc;m&eacute;s des solutions&nbsp;pour mettre en place des syst&egrave;mes de contr&ocirc;le (supervision et Interface Homme-Machine) qui permettront l&rsquo;aide &agrave; la&nbsp;conduite des installations, leur surveillance, la tra&ccedil;abilit&eacute; des produits et le suivi de la consommation d&rsquo;&eacute;nergies.</span></p>
+<p data-line=""98""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe8 (PDF-1.30 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/0/spe617_annexe8_1426130.pdf"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; g&eacute;nie &eacute;lectrique et informatique industrielle&nbsp;: programme national</a></span></p>
+<p data-line=""4"">&nbsp;</p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT GEII AII 2022-C1,🔴 Concevoir,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Concevoir la partie GEII d&rsquo;un syst&egrave;me</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une approche holistique int&eacute;grant les innovations technologiques en lien avec la strat&eacute;gie de l&rsquo;entreprise pour r&eacute;pondre un&nbsp;besoin client.</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En produisant l&rsquo;ensemble des documents n&eacute;cessaires pour le client et les diff&eacute;rents prestataires</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En communiquant de fa&ccedil;on adapt&eacute;e avec les diff&eacute;rents acteurs avant et pendant la phase de conception.</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Conseil au client en menant une &eacute;tude de faisabilit&eacute; &agrave; partir d'un cahier des charges</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Chiffrage pour la r&eacute;alisation d'un prototype ou d&rsquo;un syst&egrave;me industriel en GEII</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Conception d&rsquo;un prototype ou d&rsquo;un sous syst&egrave;me &agrave; partir d'un cahier des charges partiel</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GEII AII 2022-C2,🟠 Vérifier,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>V&eacute;rifier la partie GEII d&rsquo;un syst&egrave;me</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des sp&eacute;cificit&eacute;s mat&eacute;rielles, r&eacute;glementaires et contextuelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en oeuvre un plan d&rsquo;essais et d&rsquo;&eacute;valuations, dans une vis&eacute;e d'analyse qualitative et corrective</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des enjeux &eacute;conomiques, environnementaux et r&eacute;glementaires de la soci&eacute;t&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en place d'un protocole de tests et de mesures dans les domaines de la gestion, production et ma&icirc;trise de l&rsquo;&eacute;nergie</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en place d'un protocole de tests et de mesures dans les process industriels</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en place d'un protocole de tests et de mesures dans les syst&egrave;mes embarqu&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GEII AII 2022-C3,🟡 Maintenir,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Assurer le maintien en condition op&eacute;rationnelle&nbsp;d'un syst&egrave;me</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une communication proactive avec les diff&eacute;rents acteurs</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une approche holistique int&eacute;grant les nouvelles technologies et la transformation digitale</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Maintenance corrective, pr&eacute;ventive et am&eacute;liorative dans les domaines de la gestion, production et ma&icirc;trise de l&rsquo;&eacute;nergie</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Maintenance corrective, pr&eacute;ventive et am&eacute;liorative dans les process industriels</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Maintenance corrective, pr&eacute;ventive et am&eacute;liorative dans les syst&egrave;mes embarqu&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GEII AII 2022-C4,🟢 Intégrer,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Int&eacute;grer un syst&egrave;me de commande et de contr&ocirc;le<br>dans un proc&eacute;d&eacute; industriel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En garantissant un accompagnement client amont, aval et transverse dans une d&eacute;marche qualit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les normes et les contraintes r&eacute;glementaires y compris dans un contexte international</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En g&eacute;rant les r&eacute;seaux industriels de communication pour une meilleure disponibilit&eacute; et s&eacute;curit&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Planification d&rsquo;op&eacute;rations d&rsquo;installation d&rsquo;un syst&egrave;me automatis&eacute; et/ou d&rsquo;une architecture r&eacute;seau</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Montage et installation d&rsquo;&eacute;l&eacute;ments ou sous-ensembles d&rsquo;un syst&egrave;me automatis&eacute; et/ou d&rsquo;une architecture r&eacute;seau</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en service d&rsquo;un syst&egrave;me automatis&eacute; et/ou d&rsquo;une architecture r&eacute;seau</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">&Eacute;tude d&rsquo;implantation d&rsquo;un syst&egrave;me automatis&eacute; et/ou d&rsquo;une architecture r&eacute;seau dans un contexte industriel</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1,PN LP-BUT GEII AII 2022-C1-L1,⭐ Mener une conception partielle intégrant une démarche projet,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1,PN LP-BUT GEII AII 2022-C1-L2,⭐⭐ Concevoir un système en fiabilisant les solutions proposées,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1,PN LP-BUT GEII AII 2022-C1-L3,⭐⭐⭐ Concevoir un système en adoptant une approche sélective dans ses choix technologiques,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2,PN LP-BUT GEII AII 2022-C2-L1,⭐ Effectuer les tests et mesures nécessaires à une vérification d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2,PN LP-BUT GEII AII 2022-C2-L2,⭐⭐ Mettre en place un protocole de tests pour valider le fonctionnement d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2,PN LP-BUT GEII AII 2022-C2-L3,⭐⭐⭐ Élaborer une procédure intégrant une démarche qualité pour valider un système,<p>&Eacute;laborer une proc&eacute;dure int&eacute;grant<br>une d&eacute;marche qualit&eacute; pour valider<br>le fonctionnement d&rsquo;un syst&egrave;me</p>,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3,PN LP-BUT GEII AII 2022-C3-L1,⭐ Intervenir sur un système pour effectuer une opération de maintenance,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3,PN LP-BUT GEII AII 2022-C3-L2,⭐⭐ Mettre en place une stratégie de maintenance pour garantir un fonctionnement optimal,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4,PN LP-BUT GEII AII 2022-C4-L1,⭐ Procéder à une installation ou à une mise en service en suivant un protocole,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4,PN LP-BUT GEII AII 2022-C4-L2,"⭐⭐ Interagir avec les différents acteurs, depuis l’élaboration du protocole jusqu’à l’installation","<p>Interagir avec les diff&eacute;rents acteurs,<br>depuis l&rsquo;&eacute;laboration du protocole<br>jusqu&rsquo;&agrave; l&rsquo;installation, dans une vis&eacute;e<br>de d&eacute;marche qualit&eacute;</p>",,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L1,PN LP-BUT GEII AII 2022-C1-L1-P1,Produire une analyse fonctionnelle d’un système simple,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L1,PN LP-BUT GEII AII 2022-C1-L1-P2,Réaliser un prototype pour des solutions techniques matériel et/ou logiciel,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L1,PN LP-BUT GEII AII 2022-C1-L1-P3,Rédiger un dossier de fabrication à partir d'un dossier de conception,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L2,PN LP-BUT GEII AII 2022-C1-L2-P1,Proposer des solutions techniques liées à l'analyse fonctionnelle,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L2,PN LP-BUT GEII AII 2022-C1-L2-P2,Dérisquer les solutions techniques retenues,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L3,PN LP-BUT GEII AII 2022-C1-L3-P1,Contribuer à la rédaction d'un cahier des charges,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L3,PN LP-BUT GEII AII 2022-C1-L3-P2,Prouver la pertinence de ses choix technologiques,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C1-L3,PN LP-BUT GEII AII 2022-C1-L3-P3,Rédiger un dossier de conception,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L1,PN LP-BUT GEII AII 2022-C2-L1-P1,Appliquer une procédure d’essais,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L1,PN LP-BUT GEII AII 2022-C2-L1-P2,Identifier un dysfonctionnement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L1,PN LP-BUT GEII AII 2022-C2-L1-P3,Décrire un dysfonctionnement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L2,PN LP-BUT GEII AII 2022-C2-L2-P1,Identifier les tests et mesures à mettre en place pour valider le fonctionnement d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L2,PN LP-BUT GEII AII 2022-C2-L2-P2,Certifier le fonctionnement d’un nouvel équipement industriel,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L3,PN LP-BUT GEII AII 2022-C2-L3-P1,Évaluer la cause racine d’un dysfonctionnement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L3,PN LP-BUT GEII AII 2022-C2-L3-P2,Proposer une solution corrective à un dysfonctionnement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C2-L3,PN LP-BUT GEII AII 2022-C2-L3-P3,Produire une procédure d’essais pour valider la conformité d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L1,PN LP-BUT GEII AII 2022-C3-L1-P1,Exécuter l’entretien et le contrôle d’un système en respectant une procédure,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L1,PN LP-BUT GEII AII 2022-C3-L1-P2,"Exécuter une opération de maintenance (corrective, préventive, améliorative)",,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L1,PN LP-BUT GEII AII 2022-C3-L1-P3,Diagnostiquer un dysfonctionnement dans un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L1,PN LP-BUT GEII AII 2022-C3-L1-P4,Identifier la cause racine du dysfonctionnement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L2,PN LP-BUT GEII AII 2022-C3-L2-P1,Proposer une solution de maintenance,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L2,PN LP-BUT GEII AII 2022-C3-L2-P2,Évaluer les coûts d’indisponibilité et de maintenance d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L2,PN LP-BUT GEII AII 2022-C3-L2-P3,Produire une procédure de maintenance,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C3-L2,PN LP-BUT GEII AII 2022-C3-L2-P4,Proposer un appui technique aux différents acteurs à l'échelle nationale et internationale,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4-L1,PN LP-BUT GEII AII 2022-C4-L1-P1,Appliquer la procédure d’installation d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4-L1,PN LP-BUT GEII AII 2022-C4-L1-P2,Exécuter la mise en service d’un système en respectant la procédure,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4-L2,PN LP-BUT GEII AII 2022-C4-L2-P1,Planifier l’installation et la mise en service d’un nouvel équipement,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4-L2,PN LP-BUT GEII AII 2022-C4-L2-P2,Produire une procédure d’installation et de mise en service d’un système,,,,,,,,,,,
+PN LP-BUT GEII AII 2022-C4-L2,PN LP-BUT GEII AII 2022-C4-L2-P3,Produire le dossier de conformité du système en gérant le versionnage,,,,,,,,,,,

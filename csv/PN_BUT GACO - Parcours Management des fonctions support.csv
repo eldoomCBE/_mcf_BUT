@@ -1,0 +1,240 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT GACO MDFS 2022,BUT GACO - Parcours Management des fonctions support,"<div class=""container text-center p-3"" style=""background: #333399;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/gestion-administrative-et-commerciale/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/ea/21612-gaco-650-650-ea03a7e5.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Gestion-Administrative-et-Commerciale-des-Organisations"" data-line=""135""><span style=""color: #ffffff;"">BUT Gestion Administrative et Commerciale des Organisations</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Management des fonctions support</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le parcours Management des fonctions supports couvre particuli&egrave;rement les secteurs d&rsquo;activit&eacute; en lien avec le pilotage des&nbsp;ressources humaines et l&rsquo;approche de conseil &agrave; une entreprise ou une organisation quelle qu&rsquo;elle soit. Le dipl&ocirc;m&eacute; pourra ainsi&nbsp;exercer les m&eacute;tiers d&rsquo;assistant comptable, d&rsquo;assistant en ressources humaines, d&rsquo;assistant de direction ou encore d&rsquo;assistant&nbsp;de gestion en PME.</span></p>
+<p data-line=""137""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe11 (PDF-1.73 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/13/8/spe617_annexe11_1426138.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; gestion administrative et commerciale des organisations : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT GACO MDFS 2022-C1,🔴 Gérer un projet,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>G&eacute;rer un projet interne ou externe &agrave; l'organisation</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en tenant compte des attentes et des valeurs de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s&rsquo;inscrivant dans une d&eacute;marche collaborative</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en proposant une m&eacute;thodologie coh&eacute;rente</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en formulant des pr&eacute;conisations r&eacute;alistes et pertinentes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant les outils les plus adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en tenant compte des caract&eacute;ristiques inter-culturelles d'une gestion de projet</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'engagement dans un &eacute;quipe projet en vue de fournir un livrable</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de r&eacute;alisation d&rsquo;un diagnostic</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de mise en oeuvre d&rsquo;un projet conforme &agrave; la strat&eacute;gie de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de communiquer en langues &eacute;trang&egrave;res dans un contexte professionnel authentique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT GACO MDFS 2022-C2,🟠 Participer au pilotage,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Participer au pilotage interne de l'organisation</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant la strat&eacute;gie de l'organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en collaborant efficacement &agrave; la strat&eacute;gie</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant les sp&eacute;cificit&eacute;s des diff&eacute;rentes fonctions de l'organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s'assurant que les actions men&eacute;es permettent d'atteindre les objectifs</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de collaboration au sein d'un service</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de collaboration entre les services</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de collaboration avec les partenaires externes de l'organisation</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT GACO MDFS 2022-C3,🟡 Concevoir la démarche marketing,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Concevoir la d&eacute;marche marketing</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en r&eacute;alisant des &eacute;tudes du march&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mobilisant les outils appropri&eacute;s du marketing d'&eacute;tude</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mettant en oeuvre un mix marketing conforme au positionnement strat&eacute;gique de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mobilisant les outils de communication adapt&eacute;s</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en r&eacute;alisant une &eacute;tude du march&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de diagnostic interne et externe</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en d&eacute;finissant une strat&eacute;gie, sa mise en oeuvre et en mobilisant les outils d'analyse pour optimiser des op&eacute;rations marketing</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en r&eacute;pondant &agrave; une probl&eacute;matique de d&eacute;veloppement &agrave; l'international</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT GACO MDFS 2022-C4,🟢 Participer au pilotage RH de l'organisation,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Participer au pilotage RH de l'organisation</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en faisant correspondre les comp&eacute;tences des collaborateurs et les besoins de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en participant &agrave; la gestion et l&rsquo;administration du personnel au quotidien</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mettant en oeuvre une veille informationnelle en mati&egrave;re de ressources humaines</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de gestion des emplois et des comp&eacute;tences</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'administration des postes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation d'appr&eacute;hension des situations conflictuelles</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT GACO MDFS 2022-C5,🔵 Développer une approche conseil,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>D&eacute;velopper une approche conseil aupr&egrave;s des<br>parties prenantes</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en traitant les donn&eacute;es du syst&egrave;me d&rsquo;information de l&rsquo;organisation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;tant force de proposition aupr&egrave;s des parties prenantes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en respectant le cadre r&eacute;glementaire et juridique</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de relation avec les parties prenantes internes</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en situation de relation avec les parties prenantes externes</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1,PN LP-BUT GACO MDFS 2022-C1-L1,⭐ Participer à la réalisation d'un projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1,PN LP-BUT GACO MDFS 2022-C1-L2,⭐⭐ Collaborer à la gestion de projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1,PN LP-BUT GACO MDFS 2022-C1-L3,⭐⭐⭐ Piloter un projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2,PN LP-BUT GACO MDFS 2022-C2-L1,⭐ S'insérer dans le pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2,PN LP-BUT GACO MDFS 2022-C2-L2,⭐⭐ Collaborer au pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2,PN LP-BUT GACO MDFS 2022-C2-L3,⭐⭐⭐ Participer activement à l'amélioration du pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3,PN LP-BUT GACO MDFS 2022-C3-L1,⭐ Participer à la démarche marketing,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3,PN LP-BUT GACO MDFS 2022-C3-L2,⭐⭐ Collaborer à la démarche marketing,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3,PN LP-BUT GACO MDFS 2022-C3-L3,⭐⭐⭐ Piloter la démarche marketing à l'international,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4,PN LP-BUT GACO MDFS 2022-C4-L1,⭐ Collaborer à la gestion des ressources humaines de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4,PN LP-BUT GACO MDFS 2022-C4-L2,⭐⭐ Participer activement au déploiement de la stratégie RH dans l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5,PN LP-BUT GACO MDFS 2022-C5-L1,⭐ Collaborer aux problématiques d'une ou plusieurs fonctions supports,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5,PN LP-BUT GACO MDFS 2022-C5-L2,⭐⭐ Participer activement aux problématiques d'une ou plusieurs fonctions supports,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P1,Communiquer avec les acteurs du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P2,Compléter les outils de suivi,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P3,Évaluer l’atteinte des résultats par rapport aux objectifs fixés,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P4,Lier les éléments du cahier des charges avec les enjeux du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P5,Lire un budget,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P6,Générer des idées au sein d'ateliers de créativité,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L1,PN LP-BUT GACO MDFS 2022-C1-L1-P7,Tenir compte des champs de connaissances transversaux au projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P1,Intégrer les champs de connaissances transversaux au projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P2,Évaluer les risques de tout ou partie d’un projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P3,Chiffrer tout ou partie d'un projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P4,Animer une équipe,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P5,Rendre compte aux acteurs du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P6,Participer à l’élaboration de la communication du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L2,PN LP-BUT GACO MDFS 2022-C1-L2-P7,Expliquer les écarts entre les objectifs fixés et les résultats,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P1,Orienter vers des champs de connaissances transversaux au projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P2,Définir les responsabilités et mettre en adéquation les ressources,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P3,Manager les acteurs du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P4,Gérer et ajuster un budget,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P5,Définir et élaborer les éléments de communication du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P6,Ajuster ou recadrer des éléments du projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C1-L3,PN LP-BUT GACO MDFS 2022-C1-L3-P7,Clore un projet,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P1,Caractériser les différentes fonctions de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P2,Identifier l'environnement juridique de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P3,Identifier les enjeux humains du pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P4,Identifier les indicateurs fondamentaux utiles pour le pilotage interne,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P5,Positionner l'organisation dans son environnement économique,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L1,PN LP-BUT GACO MDFS 2022-C2-L1-P6,Produire une information pertinente pour le pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L2,PN LP-BUT GACO MDFS 2022-C2-L2-P1,Situer l'organisation dans son environnement international,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L2,PN LP-BUT GACO MDFS 2022-C2-L2-P2,Analyser une situation juridique,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L2,PN LP-BUT GACO MDFS 2022-C2-L2-P3,Restituer une situation juridique donnée et assimiler la solution judiciaire,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L2,PN LP-BUT GACO MDFS 2022-C2-L2-P4,Évaluer la situation financière de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L2,PN LP-BUT GACO MDFS 2022-C2-L2-P5,Déterminer les coûts et la profitabilité pour le pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L3,PN LP-BUT GACO MDFS 2022-C2-L3-P1,Élaborer et suivre les différents tableaux de bord nécessaires au pilotage de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L3,PN LP-BUT GACO MDFS 2022-C2-L3-P2,Proposer une solution juridique à une situation donnée,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L3,PN LP-BUT GACO MDFS 2022-C2-L3-P3,Arbitrer entre les solutions de financement pour une situation donnée,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C2-L3,PN LP-BUT GACO MDFS 2022-C2-L3-P4,Contribuer à la démarche qualité de l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L1,PN LP-BUT GACO MDFS 2022-C3-L1-P1,Analyser l’influence de l’environnement sur le fonctionnement du marché,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L1,PN LP-BUT GACO MDFS 2022-C3-L1-P2,Identifier les acteurs du marché pour déterminer les objectifs de la stratégie marketing,"<p>Identifier les acteurs du march&eacute; : producteurs/fabricants, concurrents, distributeurs, consommateurs, influenceurs, pour d&eacute;terminer les objectifs de la strat&eacute;gie marketing</p>",,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L1,PN LP-BUT GACO MDFS 2022-C3-L1-P3,Identifier les composantes du mix produit - prix - distribution - communication,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L1,PN LP-BUT GACO MDFS 2022-C3-L1-P4,Utiliser les outils de l’étude de marché par la recherche documentaire,<p>Utiliser les outils de l&rsquo;&eacute;tude de march&eacute; par la recherche documentaire et la mise en oeuvre de techniques d&rsquo;exploration quantitatives et qualitatives</p>,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L2,PN LP-BUT GACO MDFS 2022-C3-L2-P1,Participer à l’audit et à la formulation stratégique pour aboutir à une proposition,"<p>Participer &agrave; l&rsquo;audit et &agrave; la formulation strat&eacute;gique pour aboutir &agrave; une proposition de segmentation, ciblage et positionnement, en prenant en compte les forces et faiblesses de&nbsp;l&rsquo;organisation avec une d&eacute;marche durable en utilisant des logiciels d&rsquo;analyse statistique</p>",,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L2,PN LP-BUT GACO MDFS 2022-C3-L2-P2,Élaborer le mix produit - prix - distribution - communication,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L2,PN LP-BUT GACO MDFS 2022-C3-L2-P3,"Concevoir les outils de communication du marketing mix, dans le respect de la législation","<p>Concevoir les outils de communication du marketing mix, dans le respect de la l&eacute;gislation, en utilisant les outils num&eacute;riques et la communication &eacute;crite</p>",,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L2,PN LP-BUT GACO MDFS 2022-C3-L2-P4,Mesurer l’impact des opérations de communication à l’aide des indicateurs de performance,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L3,PN LP-BUT GACO MDFS 2022-C3-L3-P1,"Participer à la stratégie export de l’organisation, en anticipant les risques",,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L3,PN LP-BUT GACO MDFS 2022-C3-L3-P2,"Mettre en oeuvre les opérations de vente, de logistique et de transport","<p>Mettre en oeuvre de fa&ccedil;on adapt&eacute;e et responsable, les op&eacute;rations de vente, de logistique et de transport, pour d&eacute;ployer &agrave; l&rsquo;international les activit&eacute;s de l&rsquo;organisation</p>",,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C3-L3,PN LP-BUT GACO MDFS 2022-C3-L3-P3,Communiquer efficacement en deux langues étrangères pour réaliser des tâches associées,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L1,PN LP-BUT GACO MDFS 2022-C4-L1-P1,Utiliser les outils et techniques de management et de travail en équipe,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L1,PN LP-BUT GACO MDFS 2022-C4-L1-P2,Utiliser les outils et techniques de recrutement,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L1,PN LP-BUT GACO MDFS 2022-C4-L1-P3,Contribuer à la réalisation de la paie,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L1,PN LP-BUT GACO MDFS 2022-C4-L1-P4,Collecter les informations juridiques pertinentes,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P1,Identifier une stratégie de Ressources Humaines,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P2,S’entraîner à manager une équipe en situation de conflit,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P3,Participer activement au processus de recrutement,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P4,Participer activement à l'administration du personnel au quotidien,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P5,Recenser les compétences des collaborateurs et proposer un plan de développement des compétences,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C4-L2,PN LP-BUT GACO MDFS 2022-C4-L2-P6,Établir une politique de rémunération et participation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L1,PN LP-BUT GACO MDFS 2022-C5-L1-P1,Identifier les attentes et contraintes des parties prenantes internes,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L1,PN LP-BUT GACO MDFS 2022-C5-L1-P2,Répondre aux demandes des parties prenantes internes,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L1,PN LP-BUT GACO MDFS 2022-C5-L1-P3,Contribuer au dialogue entre la ou les fonctions supports et les parties prenantes externes,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L1,PN LP-BUT GACO MDFS 2022-C5-L1-P4,Répondre aux obligations réglementaires,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P1,Élaborer des documents de synthèse,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P2,Réaliser un diagnostic,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P3,Identifier des pistes d’amélioration,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P4,Mettre en oeuvre les changements validés par l'organisation,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P5,Participer activement au dialogue entre la ou les fonctions supports et les parties prenantes extern,,,,,,,,,,,""
+PN LP-BUT GACO MDFS 2022-C5-L2,PN LP-BUT GACO MDFS 2022-C5-L2-P6,Anticiper pour la ou les fonctions supports les évolutions de l'environnement,,,,,,,,,,,""

@@ -1,0 +1,176 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT CJ EA 2022,BUT Carrières Juridiques - Parcours Entreprise et Association,"<div class=""container text-center p-3"" style=""background: #b32d00;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/carrieres-juridiques/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://raw.githubusercontent.com/eldoomCBE/_mcf_BUT/main/uncashed/21597-but-cj-650-650-66875e2f.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Carri%C3%A8res-Juridiques"" data-line=""2""><span style=""color: #ffffff;"">BUT Carri&egrave;res Juridiques</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Entreprise et Association</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le parcours Entreprise et Association pr&eacute;pare les &eacute;tudiants &agrave; int&eacute;grer les entreprises priv&eacute;es ou publiques, les cabinets lib&eacute;raux et le monde associatif en exer&ccedil;ant des fonctions juridiques, administratives, fiscales, comptables et la gestion des ressources humaines.</span></p>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Les d&eacute;bouch&eacute;s professionnels :<br><em>Juriste d&rsquo;entreprise et d&rsquo;association, Collaborateur juridique financier et comptable, Collaborateur d&rsquo;expertise comptable, Assistant&nbsp;de gestion administrative et comptable, Attach&eacute; de service juridique, Collaborateur d&rsquo;huissier de justice, Collaborateur RH,&nbsp;Charg&eacute; de recrutement, Assistant de direction, Gestionnaire de paye.</em></span></p>
+<p data-line=""4""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe2 (PDF-1.14 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/10/2/spe617_annexe2_1426102.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; carri&egrave;res juridiques&nbsp;: programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT CJ EA 2022-C1,🔴 Piloter,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3><strong>Piloter&nbsp;</strong>des t&acirc;ches et activit&eacute;s d'ordre juridique, comptable, financier, organisationnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En appliquant avec rigueur les proc&eacute;dures existantes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En organisant ses actions de fa&ccedil;on optimale</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En recourant aux ressources et moyens adapt&eacute;s &agrave; l&rsquo;environnement professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&eacute;lectionnant les informations pertinentes &agrave; des fins d&rsquo;analyse</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Assistance aux fonctions support dans une structure priv&eacute;e ou publique</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Traitement de dossiers contentieux</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Traitement de dossiers non contentieux</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CJ EA 2022-C2,🟠 Conseiller,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3><strong>Conseiller&nbsp;</strong>sur des questions d'ordre juridique, comptable, financier, organisationnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adaptant la r&eacute;ponse &agrave; l&rsquo;interlocuteur et au contexte dans lequel la question est pos&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En apportant une r&eacute;ponse pr&eacute;cise, rigoureuse et &agrave; jour &agrave; la question pos&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant une communication fluide en interne comme vers l&rsquo;ext&eacute;rieur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En recourant &agrave; bon escient aux personnes ressources</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Assistance aux fonctions support dans une structure priv&eacute;e ou publique</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accueil et orientation dans un contexte amiable</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;ponse &agrave; une question contentieuse</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CJ EA 2022-C3,🟡 Sécuriser,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3><strong>S&eacute;curiser </strong>les relations et les donn&eacute;es d&rsquo;ordre&nbsp;juridique, comptable, financier, organisationnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les r&egrave;gles de d&eacute;ontologie et d&rsquo;&eacute;thique</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;assurant de la r&eacute;gularit&eacute; des documents</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant les technologies appropri&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En exploitant une veille juridique pertinente</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Assistance &agrave; la prise de d&eacute;cision publique (institutions administratives et judiciaires)</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Traitement des donn&eacute;es au sein de structures priv&eacute;es ou publiques (RGPD)</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en conformit&eacute; de d&eacute;cisions priv&eacute;es (entreprises et associations)</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CJ EA 2022-C4,🟢 Rédiger,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3><strong>R&eacute;diger </strong>des actes et documents d&rsquo;ordre juridique, comptable, financier, organisationnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant syst&eacute;matiquement le formalisme ad&eacute;quat aux productions &eacute;crites</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En synth&eacute;tisant utilement les ressources disponibles pour &eacute;tablir des documents</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En optimisant les relations avec les acteurs impliqu&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant de fa&ccedil;on rigoureuse la terminologie appropri&eacute;e</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;daction d&rsquo;actes juridiques dans une structure priv&eacute;e ou publique</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;daction de documents extrajuridiques dans une structure priv&eacute;e ou publique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1,PN LP-BUT CJ EA 2022-C1-L1,⭐ Piloter les activités élémentaires sous contrôle,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1,PN LP-BUT CJ EA 2022-C1-L2,⭐⭐ Piloter les activités essentielles en soutien,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1,PN LP-BUT CJ EA 2022-C1-L3,⭐⭐⭐ Piloter les activités complexes en autonomie,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2,PN LP-BUT CJ EA 2022-C2-L1,⭐ Conseiller en tant que contributeur à la mission de conseil,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2,PN LP-BUT CJ EA 2022-C2-L2,⭐⭐ Conseiller en tant qu’acteur de la mission de conseil,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2,PN LP-BUT CJ EA 2022-C2-L3,⭐⭐⭐ Conseiller en tant que responsable de la mission de conseil,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3,PN LP-BUT CJ EA 2022-C3-L1,⭐ Exercer une sécurisation ponctuelle,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3,PN LP-BUT CJ EA 2022-C3-L2,⭐⭐ Réaliser une sécurisation sectorielle,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4,PN LP-BUT CJ EA 2022-C4-L1,⭐ Exprimer un raisonnement simple à l'écrit,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4,PN LP-BUT CJ EA 2022-C4-L2,⭐⭐ Formuler un raisonnement composite à l'écrit,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4,PN LP-BUT CJ EA 2022-C4-L3,⭐⭐⭐ Élaborer un raisonnement complexe à l'écrit,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L1,PN LP-BUT CJ EA 2022-C1-L1-P1,Se projeter dans un planning intégrant plusieurs facteurs,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L1,PN LP-BUT CJ EA 2022-C1-L1-P2,Sélectionner les informations et ressources pertinentes,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L1,PN LP-BUT CJ EA 2022-C1-L1-P3,Respecter les procédures prédéfinies,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L2,PN LP-BUT CJ EA 2022-C1-L2-P1,Hiérarchiser les étapes de réalisation d’une tâche,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L2,PN LP-BUT CJ EA 2022-C1-L2-P2,Interpréter les directives de réalisation d’une mission,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L2,PN LP-BUT CJ EA 2022-C1-L2-P3,Interroger ses méthodes pour les rendre plus efficaces,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L3,PN LP-BUT CJ EA 2022-C1-L3-P1,Choisir la procédure la plus efficiente,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L3,PN LP-BUT CJ EA 2022-C1-L3-P2,Conduire une mission dans son intégralité,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C1-L3,PN LP-BUT CJ EA 2022-C1-L3-P3,Prévoir les besoins liés à l’activité,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L1,PN LP-BUT CJ EA 2022-C2-L1-P1,Prendre conscience des enjeux de communication dans les relations interpersonnelles,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L1,PN LP-BUT CJ EA 2022-C2-L1-P2,Interpréter en droit le discours d’un client ou usager,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L1,PN LP-BUT CJ EA 2022-C2-L1-P3,S’engager dans l’interaction professionnelle,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L1,PN LP-BUT CJ EA 2022-C2-L1-P4,Mobiliser les personnes-ressources en fonction des besoins,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L2,PN LP-BUT CJ EA 2022-C2-L2-P1,Faire entendre ses idées au sein d’une équipe,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L2,PN LP-BUT CJ EA 2022-C2-L2-P2,Accepter la critique de façon constructive,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L2,PN LP-BUT CJ EA 2022-C2-L2-P3,Proposer des solutions et les défendre,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L2,PN LP-BUT CJ EA 2022-C2-L2-P4,Reformuler en droit le discours d’un client ou usager,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L3,PN LP-BUT CJ EA 2022-C2-L3-P1,Assumer la responsabilité d'une prise de position,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L3,PN LP-BUT CJ EA 2022-C2-L3-P2,Construire un discours structuré et finalisé,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L3,PN LP-BUT CJ EA 2022-C2-L3-P3,Animer un travail collectif,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C2-L3,PN LP-BUT CJ EA 2022-C2-L3-P4,Intégrer les règles déontologiques dans la communication professionnelle,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L1,PN LP-BUT CJ EA 2022-C3-L1-P1,Adopter les exigences de discrétion et confidentialité des échanges,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L1,PN LP-BUT CJ EA 2022-C3-L1-P2,Se documenter pour progresser,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L1,PN LP-BUT CJ EA 2022-C3-L1-P3,Intégrer les enjeux liés à la protection des données,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L2,PN LP-BUT CJ EA 2022-C3-L2-P1,Sélectionner les informations à transmettre en fonction de l’interlocuteur,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L2,PN LP-BUT CJ EA 2022-C3-L2-P2,Alerter à bon escient en cas de risque pour la sécurité juridique,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C3-L2,PN LP-BUT CJ EA 2022-C3-L2-P3,Cibler les éléments essentiels à la régularité des actes accomplis,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L1,PN LP-BUT CJ EA 2022-C4-L1-P1,Utiliser un langage professionnel adapté,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L1,PN LP-BUT CJ EA 2022-C4-L1-P2,Attribuer utilement un écrit à un contexte prédéfini,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L1,PN LP-BUT CJ EA 2022-C4-L1-P3,Intégrer les modes de communication en vigueur au sein d’une structure,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L2,PN LP-BUT CJ EA 2022-C4-L2-P1,Construire des écrits accessibles à différents publics,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L2,PN LP-BUT CJ EA 2022-C4-L2-P2,Articuler le fond et la forme,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L2,PN LP-BUT CJ EA 2022-C4-L2-P3,Adapter son mode d’expression suivant le contexte,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L3,PN LP-BUT CJ EA 2022-C4-L3-P1,Choisir de façon sûre un acte en fonction du contexte,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L3,PN LP-BUT CJ EA 2022-C4-L3-P2,Assumer une prise de position écrite,,,,,,,,,,,""
+PN LP-BUT CJ EA 2022-C4-L3,PN LP-BUT CJ EA 2022-C4-L3-P3,Planifier la rédaction d’un document,,,,,,,,,,,

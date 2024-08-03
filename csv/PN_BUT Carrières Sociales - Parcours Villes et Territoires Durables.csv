@@ -1,0 +1,266 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT CS VTD 2022,BUT Carrières Sociales - Parcours Villes et Territoires Durables,"<div class=""container text-center p-3"" style=""background: #003366;"">
+<h2 data-line=""2""><a target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://raw.githubusercontent.com/eldoomCBE/_mcf_BUT/main/uncashed/21603-cs-650-650-7c622dba.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Carri%C3%A8res-Sociales"" data-line=""6""><span style=""color: #ffffff;"">BUT Carri&egrave;res Sociales</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Villes et Territoires Durables</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le Bachelor Universitaire de Technologie (BUT) Carri&egrave;res sociales parcours Villes et Territoires Durables couvre les secteurs&nbsp;d&rsquo;activit&eacute; en lien avec les domaines d&rsquo;intervention suivants : politique de la ville et coh&eacute;sion sociale ; logement et habitat ;&nbsp;urbanisme et am&eacute;nagement urbain ; mobilit&eacute;, d&eacute;placements, transports urbains ; environnement, &eacute;nergie, climat, gestion de&nbsp;proximit&eacute; des d&eacute;chets ; d&eacute;veloppement &eacute;conomique local ; organisation et animation de projets culturels ; architecture-paysage.<br>Le B.U.T. VTD forme des professionnels polyvalents capables de relever des d&eacute;fis importants : changement climatique, &eacute;rosion&nbsp;de la biodiversit&eacute;, fractures sociales, s&eacute;gr&eacute;gation spatiale...Ils se saisissent d&rsquo;enjeux qui y sont li&eacute;s et les articulent au regard&nbsp;de la complexit&eacute; des territoires urbains. Charg&eacute;s de cr&eacute;er des liens entre la conception de projet et sa mise en oeuvre, ces&nbsp;professionnels tiendront un r&ocirc;le essentiel d&rsquo;organisation, de coordination et d&rsquo;animation d&rsquo;initiatives locales, &agrave; la jonction de&nbsp;multiples acteurs et enjeux sociaux, environnementaux, &eacute;conomiques et politiques.</span></p>
+<p data-line=""8""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe3 (PDF-3.20 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/0/spe617_annexe3_1426120.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; carri&egrave;res sociales : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT CS VTD 2022-C1,🔴 Concevoir des interventions,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conception d'interventions adapt&eacute;es aux enjeux de la soci&eacute;t&eacute;</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En int&eacute;grant de mani&egrave;re pertinente les apports des sciences humaines et sociales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les publics, leurs caract&eacute;ristiques et leurs probl&eacute;matiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture attentive &agrave; la diversit&eacute; des publics et ouverte &agrave; l&rsquo;alt&eacute;rit&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mobilisant des techniques de recherche documentaire et d&rsquo;investigation de terrain de mani&egrave;re adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En forgeant un point de vue argument&eacute; sur les th&eacute;matiques relevant de l&rsquo;intervention sociale et de la coh&eacute;sion des territoires</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en oeuvre d'une d&eacute;marche de constat diagnostic</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Production de donn&eacute;es originales et/ou r&eacute;f&eacute;renc&eacute;es</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Participation &agrave; des d&eacute;marches de recherche-action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Exploitation d'une veille professionnelle</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS VTD 2022-C2,🟠 Construire des dynamiques,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Construction de dynamiques partenariales</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En ma&icirc;trisant le cadre institutionnel et la dynamique des acteurs &agrave; toutes les &eacute;chelles territoriales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adoptant une posture professionnelle &eacute;thique et en faisant &eacute;voluer ses pratiques professionnelles</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans un travail d'&eacute;quipe et collaboratif dans un environnement pluri-professionnel</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur des outils de communication et de m&eacute;diation adapt&eacute;s au contexte partenarial</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte les ressources financi&egrave;res, mat&eacute;rielles et humaines</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant une veille dans le champ professionnel</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Pr&eacute;sentation de l&rsquo;institution et de ses missions dans le cadre d&rsquo;un projet partenarial</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Cr&eacute;ation d'espaces de partage des informations, des exp&eacute;riences et des ressources</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mobilisation de r&eacute;seaux d'acteurs et d&eacute;veloppement de communaut&eacute;s d&rsquo;action</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contribution &agrave; l&rsquo;articulation des actions men&eacute;es avec les partenaires</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Accompagnement des publics &agrave; l&rsquo;acc&egrave;s aux droits et d&eacute;veloppement de solidarit&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS VTD 2022-C3,🟡 Élaborer des diagnostics,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>&Eacute;laboration de diagnostics de territoires</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant des m&eacute;thodes de collecte et de production de donn&eacute;es qualitatives et quantitatives (observation, questionnaire, entretien,&nbsp;analyse documentaire &hellip;)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En prenant en compte la pluralit&eacute; des acteurs et de leurs attentes, et la diversit&eacute; de la composition des territoires (espace public, logement,&nbsp;populations&hellip;)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur les documents d&rsquo;urbanisme et de programmation</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En se r&eacute;f&eacute;rant au cadre r&eacute;glementaire du diagnostic</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre de l'&eacute;laboration d'un document d'urbanisme</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre du d&eacute;veloppement social local</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre d'un projet urbain</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre d'une &eacute;tude prospective</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS VTD 2022-C4,🟢 Communiquer,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Communication avec les publics et les acteurs&nbsp;territoriaux</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant des m&eacute;thodes de communication, de repr&eacute;sentation et de m&eacute;diation adapt&eacute;es &agrave; la figuration du territoire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En privil&eacute;giant la proximit&eacute; avec les publics (habitants, usagers) et les acteurs territoriaux</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En facilitant et valorisant la ma&icirc;trise d&rsquo;usage (en s&rsquo;appuyant sur les savoirs et l&rsquo;expertise des habitants et des usagers)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans une approche sensible et sensorielle des territoires</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tirant le meilleur parti des outils, des ressources et des usages num&eacute;riques</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre de projets urbains, de projets de territoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre d'actions de sensibilisation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre d'actions de concertation ou de m&eacute;diation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre de la mise en valeur d'un territoire</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+,PN LP-BUT CS VTD 2022-C5,🔵 Conduire des projets,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Conduite de projets pour des territoires en&nbsp;transition</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En adaptant les moyens et modes d&rsquo;&eacute;valuation aux objectifs du projet</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En veillant aux imp&eacute;ratifs de justice sociale et d&rsquo;&eacute;galit&eacute; des droits</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En veillant aux imp&eacute;ratifs de durabilit&eacute; et de transition &eacute;cologique et sociale</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En situant son action au regard des grands enjeux internationaux et de leurs r&eacute;percussions locales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;appuyant sur les sp&eacute;cificit&eacute;s culturelles, historiques et patrimoniales du territoire</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre du d&eacute;veloppement urbain, social, culturel du territoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans un contexte de renouvellement urbain durable ou d&rsquo;urbanisme temporaire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le cadre de la pr&eacute;vention des risques et de l'adaptation au changement climatique</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">En r&eacute;ponse &agrave; une commande ou &agrave; un appel &agrave; projets &eacute;manant d'acteurs publics ou priv&eacute;s</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1,PN LP-BUT CS VTD 2022-C1-L1,⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1,PN LP-BUT CS VTD 2022-C1-L2,⭐⭐ Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes,<p>Mettre en place des outils<br>d&rsquo;enqu&ecirc;tes adapt&eacute;s aux publics et<br>aux contextes et pr&eacute;senter les<br>r&eacute;sultats</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1,PN LP-BUT CS VTD 2022-C1-L3,"⭐⭐⭐ Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2,PN LP-BUT CS VTD 2022-C2-L1,⭐ Identifier et participer à l’échange avec les acteurs institutionnels et socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2,PN LP-BUT CS VTD 2022-C2-L2,⭐⭐ Animer le partenariat en associant les acteurs concernés,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2,PN LP-BUT CS VTD 2022-C2-L3,⭐⭐⭐ Déployer et pérenniser le réseau,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3,PN LP-BUT CS VTD 2022-C3-L1,⭐ Élaborer un diagnostic de territoire dans un cadre exploratoire,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3,PN LP-BUT CS VTD 2022-C3-L2,⭐⭐ Élaborer un diagnostic de territoire dans un cadre opérationnel,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3,PN LP-BUT CS VTD 2022-C3-L3,⭐⭐⭐ Élaborer un diagnostic de territoire en réponse à une commande,<p>&Eacute;laborer un diagnostic de territoire<br>en r&eacute;ponse &agrave; une commande et<br>orient&eacute; vers un objectif de<br>transformation du territoire</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4,PN LP-BUT CS VTD 2022-C4-L1,⭐ Communiquer avec les publics et les acteurs territoriaux dans un cadre exploratoire,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4,PN LP-BUT CS VTD 2022-C4-L2,⭐⭐ Communiquer avec les publics et les acteurs territoriaux dans un cadre opérationnel,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4,PN LP-BUT CS VTD 2022-C4-L3,⭐⭐⭐ Communiquer avec les publics et les acteurs territoriaux dans un cadre partenarial,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5,PN LP-BUT CS VTD 2022-C5-L1,⭐ Monter des projets pour des territoires en transition dans un cadre exploratoire,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5,PN LP-BUT CS VTD 2022-C5-L2,⭐⭐ Mettre en oeuvre des projets pour des territoires en transition dans un cadre opérationnel,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5,PN LP-BUT CS VTD 2022-C5-L3,⭐⭐⭐ Conduire en autonomie des projets pour des territoires en transition,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L1,PN LP-BUT CS VTD 2022-C1-L1-P1,"Repérer les sources d’analyse et de diagnostic, être en capacité d’y accéder",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L1,PN LP-BUT CS VTD 2022-C1-L1-P2,"Appréhender les grands enjeux culturels, historiques et les fondamentaux sociétaux",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L1,PN LP-BUT CS VTD 2022-C1-L1-P3,Relever les éléments de contextes et interroger les acteurs concernés,"<p>Relever les &eacute;l&eacute;ments de contextes (sociaux, &eacute;conomiques, culturels, d&eacute;mographiques, politiques, territoriaux, &eacute;ducatifs, &hellip;) et interroger les acteurs concern&eacute;s</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L1,PN LP-BUT CS VTD 2022-C1-L1-P4,Mettre en place des outils d’enquêtes adaptés aux publics et aux contextes et présenter les résultat,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L2,PN LP-BUT CS VTD 2022-C1-L2-P1,"Analyser les attentes, les besoins des populations et des publics, et en comprendre les enjeux",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L2,PN LP-BUT CS VTD 2022-C1-L2-P2,Repérer les dynamiques propres à des publics spécifiques,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L2,PN LP-BUT CS VTD 2022-C1-L2-P3,"Sélectionner, référencer les sources et justifier ses choix méthodologiques",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L2,PN LP-BUT CS VTD 2022-C1-L2-P4,"Mobiliser les outils pertinents pour analyser, représenter des données multiples","<p>Mobiliser les outils pertinents pour analyser, repr&eacute;senter des donn&eacute;es multiples et discuter les r&eacute;sultats</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L2,PN LP-BUT CS VTD 2022-C1-L2-P5,"Présenter, partager des résultats et formuler des ébauches de préconisations",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L3,PN LP-BUT CS VTD 2022-C1-L3-P1,Proposer des réponses et des actions cohérentes avec les analyses réalisées,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L3,PN LP-BUT CS VTD 2022-C1-L3-P2,Mettre au débat ses analyses et les propositions qui en découlent,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L3,PN LP-BUT CS VTD 2022-C1-L3-P3,Concevoir des outils de veille et de prospective avec les parties prenantes,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C1-L3,PN LP-BUT CS VTD 2022-C1-L3-P4,Impliquer les différents acteurs de la société dans les propositions de remédiations/action,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L1,PN LP-BUT CS VTD 2022-C2-L1-P1,Repérer les acteurs socio-économiques,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L1,PN LP-BUT CS VTD 2022-C2-L1-P2,Adopter une posture et une communication adaptée aux contextes et aux acteurs,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L1,PN LP-BUT CS VTD 2022-C2-L1-P3,Mobiliser des partenaires et diversifier ses contacts,"<p>Mobiliser des partenaires et diversifier ses contacts (&eacute;tendue g&eacute;ographique, inclusion de tous les publics, diversit&eacute;s des domaines de comp&eacute;tences &hellip;)</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L1,PN LP-BUT CS VTD 2022-C2-L1-P4,Identifier les politiques sociales et les dispositifs d’action sociale,<p>Identifier les politiques sociales et les dispositifs d&rsquo;action sociale n&eacute;cessaires &agrave; la mise en oeuvre d&rsquo;un projet partenarial</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L2,PN LP-BUT CS VTD 2022-C2-L2-P1,Distinguer les différentes catégories de partenariat,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L2,PN LP-BUT CS VTD 2022-C2-L2-P2,Reconnaitre et intégrer les enjeux et les logiques à l’oeuvre dans les dynamiques partenariales,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L2,PN LP-BUT CS VTD 2022-C2-L2-P3,Construire un argumentaire et faire des propositions,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L2,PN LP-BUT CS VTD 2022-C2-L2-P4,S'intégrer à un réseau d’acteurs adapté au contexte,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L3,PN LP-BUT CS VTD 2022-C2-L3-P1,Réaliser une veille au sein de ses réseaux pour identifier de nouvelles attentes et nouveaux besoins,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L3,PN LP-BUT CS VTD 2022-C2-L3-P2,Analyser les enjeux de la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L3,PN LP-BUT CS VTD 2022-C2-L3-P3,Évaluer l’adéquation entre le partenariat existant et les projets,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L3,PN LP-BUT CS VTD 2022-C2-L3-P4,Développer le réseau en mobilisant les ressources pour collaborer à une action collective,<p>D&eacute;velopper le r&eacute;seau en mobilisant les ressources pour collaborer &agrave; un projet ou une action collective</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C2-L3,PN LP-BUT CS VTD 2022-C2-L3-P5,Créer les conditions pour entretenir la dynamique partenariale,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P1,Réaliser un état des lieux,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P2,Formaliser un questionnement sur un territoire donné,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P3,Mobiliser des grilles de lecture des territoires,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P4,Formuler des hypothèses,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P5,Expérimenter un protocole d’enquête,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L1,PN LP-BUT CS VTD 2022-C3-L1-P6,Restituer les analyses produites,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P1,Réaliser un état des lieux argumenté,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P2,Construire une problématique répondant à des enjeux identifiés du territoire,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P3,Formuler des hypothèses documentées,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P4,Construire et mettre en oeuvre un protocole d’enquête adapté,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P5,Comprendre et analyser le fonctionnement d’un territoire,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L2,PN LP-BUT CS VTD 2022-C3-L2-P6,Restituer le diagnostic,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P1,Comprendre et analyser la commande,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P2,Réaliser un état des lieux en rendant compte de la dimension systémique du territoire,"<p>R&eacute;aliser un &eacute;tat des lieux en rendant compte de la dimension syst&eacute;mique du territoire (institutions, populations, partenariats et jeux d&rsquo;acteurs)</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P3,Construire une problématique dans le cadre de la commande et formuler des hypothèses documentées,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P4,Construire et mettre en oeuvre un dispositif d’observation territoriale,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P5,Restituer le diagnostic en formulant des préconisations et des scénarii prospectifs,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C3-L3,PN LP-BUT CS VTD 2022-C3-L3-P6,Apprécier la réception des propositions,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P1,Produire un document descriptif et narratif,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P2,Formuler une demande ou une réponse à l’écrit et à l’oral,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P3,Acquérir les bases de sémiologie cartographique et de dessin,"<p>Acqu&eacute;rir les bases de s&eacute;miologie cartographique et de dessin en s&rsquo;appuyant sur des ressources cartographiques en ligne, des relev&eacute;s et la d&eacute;couverte de logiciels</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P4,Expérimenter et saisir les usages professionnels des démarches et outils de création,<p>Exp&eacute;rimenter et saisir les usages professionnels des d&eacute;marches et outils de cr&eacute;ation visuelle et audiovisuelle</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P5,Expérimenter et saisir les usages professionnels des médias et applications numériques,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L1,PN LP-BUT CS VTD 2022-C4-L1-P6,Expérimenter et saisir les usages professionnels des dispositifs de médiation de terrain,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P1,Produire un document de travail analytique et synthétique,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P2,Échanger des idées et interagir pour expliciter son point de vue et le défendre,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P3,"Concevoir des cartes thématiques, statistiques et représentations paysagères exploitables","<p>Concevoir des cartes th&eacute;matiques, statistiques et repr&eacute;sentations paysag&egrave;res exploitables dans un contexte professionnel, en s&rsquo;appuyant sur l&rsquo;approfondissement des logiciels et&nbsp;des ressources en ligne</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P4,Réaliser des créations visuelles et audiovisuelles exploitables dans un contexte professionnel,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P5,"Créer, alimenter, animer des médias et applications numériques exploitables","<p>Cr&eacute;er, alimenter, animer des m&eacute;dias et applications num&eacute;riques exploitables dans un contexte professionnel</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L2,PN LP-BUT CS VTD 2022-C4-L2-P6,Concevoir un dispositif de médiation de terrain exploitable dans un contexte professionnel,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P1,Produire et restituer un document complexe auprès d’acteurs territoriaux,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P2,"Animer une réunion, un débat, une médiation impliquant des acteurs territoriaux",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P3,"Concevoir des cartes thématiques, statistiques et représentations paysagères appliquées à un projet","<p>Concevoir des cartes th&eacute;matiques, statistiques et repr&eacute;sentations paysag&egrave;res appliqu&eacute;es &agrave; un projet, en int&eacute;grant les fonctions avanc&eacute;es des logiciels</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P4,Réaliser des créations visuelles et audiovisuelles exploitées par des acteurs territoriaux,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P5,"Créer, alimenter, animer des médias et applications numériques exploités dans le cadre d’un projet",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C4-L3,PN LP-BUT CS VTD 2022-C4-L3-P6,Concevoir un dispositif de médiation de terrain exploité par des acteurs territoriaux,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L1,PN LP-BUT CS VTD 2022-C5-L1-P1,Formaliser les objectifs et les actions d’un projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L1,PN LP-BUT CS VTD 2022-C5-L1-P2,S’initier à la méthodologie de projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L1,PN LP-BUT CS VTD 2022-C5-L1-P3,Mobiliser des outils de gestion de projets,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L1,PN LP-BUT CS VTD 2022-C5-L1-P4,Identifier les acteurs-ressources,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L1,PN LP-BUT CS VTD 2022-C5-L1-P5,S’initier aux principes et démarches du développement durable,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P1,Décoder le jeu des acteurs pour faciliter le déroulement du projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P2,Sensibiliser les différents publics au projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P3,Manipuler des dispositifs de programmation de projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P4,Elaborer un cahier des charges,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P5,"Intégrer les contraintes budgétaires, saisir la logique des disponibilités foncières","<p>Int&eacute;grer les contraintes budg&eacute;taires, saisir la logique des disponibilit&eacute;s fonci&egrave;res (jeux d&rsquo;acteurs, enjeux institutionnels et financiers)</p>",,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P6,Se familiariser avec les principes et méthodes d’évaluation,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P7,Utiliser les indicateurs de développement durable,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L2,PN LP-BUT CS VTD 2022-C5-L2-P8,Produire des rapports d’activité efficaces et structurés,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P1,Identifier des attentes et/ou respecter une commande,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P2,Comprendre et répondre à un appel à projet,,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P3,"Élaborer des indicateurs de suivi et d’évaluation, y compris sur les questions de transition",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P4,Construire des rapports d’activité efficaces et structurés portant sur l’avancement du projet,<p>Construire des rapports d&rsquo;activit&eacute; efficaces et structur&eacute;s portant sur l&rsquo;avancement du projet (supports r&eacute;unions &hellip;) associer les acteurs et les publics &agrave; une d&eacute;marche participative</p>,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P5,"Intégrer les contraintes de l’équilibre économique du projet, établir un budget",,,,,,,,,,,""
+PN LP-BUT CS VTD 2022-C5-L3,PN LP-BUT CS VTD 2022-C5-L3-P6,Envisager des modalités de financement,"<p>Envisager des modalit&eacute;s de financement (budget participatif, appels &agrave; projets institutionnels, recours aux partenariats priv&eacute;s&hellip;)</p>",,,,,,,,,,""

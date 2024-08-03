@@ -1,0 +1,233 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT GCGP CPOP 2022,"BUT GCGP - Parcours Contrôle, Pilotage et Optimisation des Procédés","<div class=""container text-center p-3"" style=""background: #004d40;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/genie-chimique-genie-des-procedes/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/f2/21619-gcgp-650-650-f21b1513.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-G%C3%A9nie-Chimique-G%C3%A9nie-des-Proc%C3%A9d%C3%A9s"" data-line=""67""><span style=""color: #ffffff;"">BUT G&eacute;nie Chimique-G&eacute;nie des Proc&eacute;d&eacute;s</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Contr&ocirc;le, Pilotage et Optimisation des Proc&eacute;d&eacute;s</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">&ndash; Le parcours Contr&ocirc;le, Pilotage et Optimisation des Proc&eacute;d&eacute;s permet aux dipl&ocirc;m&eacute;s de s&rsquo;int&eacute;grer dans les unit&eacute;s de&nbsp;production des industries cit&eacute;es ci-dessus. Ils conduisent et pilotent les ateliers automatis&eacute;s de production afin d&rsquo;optimiser&nbsp;leur fonctionnement pour garantir la qualit&eacute; des produits, en veillant &agrave; la s&eacute;curit&eacute; et &agrave; l&rsquo;environnement et en limitant<br>les consommations de ressources (mati&egrave;res premi&egrave;res et &eacute;nergie). Les dipl&ocirc;m&eacute;s de ce parcours exercent la fonction de&nbsp;technicien de production, technicien proc&eacute;d&eacute;s ou chef de poste en industrie.<br>Pour des raisons de s&eacute;curit&eacute;, certains Travaux pratiques doivent comporter des effectifs plus restreints de 7 &agrave; 9 &eacute;tudiants au&nbsp;maximum par enseignant. Il s&rsquo;agit des travaux pratiques r&eacute;alis&eacute;s sur des appareillages industriels des halls demi-grands ou des&nbsp;manipulations en laboratoire.</span></p>
+<p data-line=""69""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe6 (PDF-1.38 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/12/6/spe617_annexe6_1426126.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; g&eacute;nie chimique-g&eacute;nie des proc&eacute;d&eacute;s : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT GCGP CPOP 2022-C1,🔴 Production,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Produire avec une installation industrielle de&nbsp;transformation de la mati&egrave;re et de l&rsquo;&eacute;nergie par voie chimique ou biologique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les modes op&eacute;ratoires et les proc&eacute;dures de fabrication</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant la s&eacute;curit&eacute; des biens et des personnes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des contraintes de production (d&eacute;lais, sp&eacute;cifications produits, disponibilit&eacute;s mati&egrave;res premi&egrave;res, moyens mat&eacute;riels et&nbsp;humains)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En atteignant les objectifs de qualit&eacute; de produit et de quantit&eacute; de production</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En r&eacute;duisant au maximum l&rsquo;impact environnemental et sanitaire de l&rsquo;activit&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Pr&eacute;paration, planification, mise en route et arr&ecirc;t d'une production</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Suivi de production</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Apr&egrave;s la production : analyse de la production et communication d'un rapport</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Analyse des dysfonctionnements et pr&eacute;vision des op&eacute;rations de maintenance</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GCGP CPOP 2022-C2,🟠 Dimensionner,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Concevoir des &eacute;quipements de production&nbsp;industrielle de transformation de la mati&egrave;re et de&nbsp;l&rsquo;&eacute;nergie par voie chimique ou biologique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant un cahier des charges</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les r&egrave;gles de s&eacute;curit&eacute; et de protection de l'environnement</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s'appuyant sur de la documentation technique ad&eacute;quate</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s'assurant de la fiabilit&eacute; des propositions techniques &eacute;labor&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En r&eacute;duisant la consommation des ressources et la consommation &eacute;nerg&eacute;tique</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dimensionnement d'&eacute;quipements</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Aide au choix d'&eacute;quipements</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">R&eacute;alisation de sch&eacute;mas techniques</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Transformation et conception d'unit&eacute;s de production</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GCGP CPOP 2022-C3,🟡 Contrôler,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Contr&ocirc;ler la qualit&eacute; des mati&egrave;res premi&egrave;res et des&nbsp;produits</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En respectant les bonnes pratiques de laboratoire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En maintenant une tra&ccedil;abilit&eacute; des r&eacute;sultats</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En choisissant un protocole adapt&eacute;</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Analyse physico-chimique ou microbiologique d'un produit</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">D&eacute;tection d'une impuret&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Contr&ocirc;le des param&egrave;tres de production</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GCGP CPOP 2022-C4,🟢 Piloter,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Piloter une installation automatis&eacute;e de&nbsp;transformation de la mati&egrave;re et de l&rsquo;&eacute;nergie par&nbsp;voie chimique ou biologique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En r&eacute;agissant de fa&ccedil;on adapt&eacute;e aux al&eacute;as pour assurer la continuit&eacute; de la production</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En communiquant de mani&egrave;re efficace avec les &eacute;quipes de production et les services support</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant la s&eacute;curit&eacute; des personnes et des outils de production</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Mise en route et arr&ecirc;t d'une production automatis&eacute;e</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Fonctionnement d'une installation en interagissant avec l'automatisme</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Gestion d'incidents, de d&eacute;rives, d'anomalies, de dysfonctionnements</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Aide &agrave; la d&eacute;cision concernant le choix de mat&eacute;riel</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT GCGP CPOP 2022-C5,🔵 Optimiser,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Optimiser la production d'une installation&nbsp;industrielle de transformation de la mati&egrave;re et de&nbsp;l&rsquo;&eacute;nergie par voie chimique ou biologique</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des contraintes de production (d&eacute;lais, sp&eacute;cifications produits, disponibilit&eacute;s mati&egrave;res premi&egrave;res, moyens mat&eacute;riels et&nbsp;humains)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des contraintes environnementales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En am&eacute;liorant la s&eacute;curit&eacute; des personnes et des biens</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Planification d'une production (c&ocirc;t&eacute; ordonnancement, m&eacute;thodes)</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Optimisation des r&eacute;glages et des param&egrave;tres de fonctionnement</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Analyse des dysfonctionnements dans un but d'optimisation</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Apr&egrave;s la production : analyse de la production et communication d'un rapport</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1,PN LP-BUT GCGP CPOP 2022-C1-L1,⭐ Conduire un équipement de production dans une posture d'opérateur,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1,PN LP-BUT GCGP CPOP 2022-C1-L2,⭐⭐ Assurer le bon fonctionnement d'une installation dans une posture de technicien,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1,PN LP-BUT GCGP CPOP 2022-C1-L3,⭐⭐⭐ Gérer une unité de production dans une posture de chef d'équipe,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2,PN LP-BUT GCGP CPOP 2022-C2-L1,⭐ Choisir des appareils et dimensionner des réseaux d'utilité,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2,PN LP-BUT GCGP CPOP 2022-C2-L2,⭐⭐ Prédimensionner des appareillages de réaction et de séparation,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2,PN LP-BUT GCGP CPOP 2022-C2-L3,⭐⭐⭐ Prédimensionner des appareillages complexes et faire des choix technologiques,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3,PN LP-BUT GCGP CPOP 2022-C3-L1,⭐ Analyser des produits par des méthodes simples - Laborantin,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3,PN LP-BUT GCGP CPOP 2022-C3-L2,⭐⭐ Identifier et quantifier des constituants par des méthodes adaptées - Technicien de laboratoire,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4,PN LP-BUT GCGP CPOP 2022-C4-L1,⭐ Piloter une installation automatisée dans une posture de technicien,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4,PN LP-BUT GCGP CPOP 2022-C4-L2,⭐⭐ Gérer la production et conduire des actions d'amélioration d'une installation automatisée,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5,PN LP-BUT GCGP CPOP 2022-C5-L1,"⭐ Identifier les paramètres critiques d'une production, analyser les déviations",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5,PN LP-BUT GCGP CPOP 2022-C5-L2,⭐⭐ Optimiser la production en tant que chef d'équipe ou assistant ingénieur,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P1,Démarrer un équipement et vérifier son bon fonctionnement,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P2,Faire fonctionner un équipement en fonctionnement normal et l'arrêter,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P3,Faire des relevés de grandeurs physico-chimiques sur un équipement ou une installation,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P4,Détecter des écarts par rapport au régime nominal,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P5,Compléter un document de suivi de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L1,PN LP-BUT GCGP CPOP 2022-C1-L1-P6,Communiquer au sein d'une équipe de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L2,PN LP-BUT GCGP CPOP 2022-C1-L2-P1,Assurer le suivi de production et agir sur les paramètres pour rester au régime nominal,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L2,PN LP-BUT GCGP CPOP 2022-C1-L2-P2,Effectuer des mesures et des calculs pour analyser le fonctionnement,<p>Effectuer des mesures et des calculs pour analyser le fonctionnement et &eacute;valuer les performances de l'installation</p>,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L2,PN LP-BUT GCGP CPOP 2022-C1-L2-P3,Rédiger un rapport de suivi de la production et communiquer les résultats,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L2,PN LP-BUT GCGP CPOP 2022-C1-L2-P4,"Détecter une anomalie, alerter, solliciter les actions de maintenance",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P1,Vérifier au préalable la conformité et le bon fonctionnement d'un équipement,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P2,Prévoir et opérer l'adaptation du procédé aux changements de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P3,Animer une équipe en situation de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P4,"Participer à l'élaboration de consignes, de protocoles",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P5,Préparer et organiser la mise à disposition des installations,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C1-L3,PN LP-BUT GCGP CPOP 2022-C1-L3-P6,Suggérer et proposer des améliorations ou investissements pour des installations de son périmètre,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P1,Choisir des appareils de transport de fluide auprès d’équipementiers,"<p>Choisir des appareils de transport de fluide aupr&egrave;s d&rsquo;&eacute;quipementiers (pompes, compresseur, pompe &agrave; vide, &eacute;l&eacute;ments de robinetterie...)</p>",,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P2,Choisir des capteurs et des actionneurs adaptés aux conditions opératoires,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P3,Dimensionner des réseaux hydrauliques,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P4,Identifier le besoin et dimensionner un réseau d’utilité,"<p>Identifier le besoin et dimensionner un r&eacute;seau d&rsquo;utilit&eacute; (vide, air comprim&eacute;, refroidissement, chauffage...)</p>",,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P5,"Lire, interpréter et réaliser des schémas techniques simples (réalisation sur existant)",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L1,PN LP-BUT GCGP CPOP 2022-C2-L1-P6,Rendre compte et échanger au sein d'une équipe projet,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L2,PN LP-BUT GCGP CPOP 2022-C2-L2-P1,"Lire, interpréter et réaliser des schémas techniques d'équipements et d'installations complexes",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L2,PN LP-BUT GCGP CPOP 2022-C2-L2-P2,Rédiger un cahier des charges d’équipement,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L2,PN LP-BUT GCGP CPOP 2022-C2-L2-P3,Prédimensionner des appareils de réaction (chimique et/ou biologique),,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L2,PN LP-BUT GCGP CPOP 2022-C2-L2-P4,Prédimensionner des appareils de séparation,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L2,PN LP-BUT GCGP CPOP 2022-C2-L2-P5,"Dimensionner des équipements thermiques et énergétiques (calorifugeage, échangeur, chaudière...)",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L3,PN LP-BUT GCGP CPOP 2022-C2-L3-P1,Proposer des solutions techniques pour répondre à un besoin (procédé de réaction ou séparation),,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L3,PN LP-BUT GCGP CPOP 2022-C2-L3-P2,Dimensionner des appareils de séparation,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L3,PN LP-BUT GCGP CPOP 2022-C2-L3-P3,Analyser le procédé et définir les régulations à mettre en place,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C2-L3,PN LP-BUT GCGP CPOP 2022-C2-L3-P4,"Lire, interpréter et réaliser le PID d'une installation",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P1,Préparer des solutions et des échantillons,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P2,Mesurer les caractéristiques physico-chimiques des produits,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P3,Réaliser des dosages volumétriques en laboratoire,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P4,Consigner les résultats dans un cahier de laboratoire,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P5,"Caractériser et suivre les transformations physiques, chimiques et biologiques",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L1,PN LP-BUT GCGP CPOP 2022-C3-L1-P6,Mettre en forme et rendre compte de résultats,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L2,PN LP-BUT GCGP CPOP 2022-C3-L2-P1,Mettre en oeuvre les techniques classiques d'analyse,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L2,PN LP-BUT GCGP CPOP 2022-C3-L2-P2,Interpréter les résultats et la conformité des produits,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L2,PN LP-BUT GCGP CPOP 2022-C3-L2-P3,Rédiger et communiquer les comptes rendus d'analyse,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L2,PN LP-BUT GCGP CPOP 2022-C3-L2-P4,Enregistrer les comptes rendus et assurer leur tracabilité,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C3-L2,PN LP-BUT GCGP CPOP 2022-C3-L2-P5,Évaluer les risques liés aux procédés et à la manipulation des matières premières et produits,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L1,PN LP-BUT GCGP CPOP 2022-C4-L1-P1,"Démarrer, faire fonctionner et arrêter une installation automatisée simple",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L1,PN LP-BUT GCGP CPOP 2022-C4-L1-P2,Gérer un redémarrage après un arrêt d'urgence,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L1,PN LP-BUT GCGP CPOP 2022-C4-L1-P3,Utiliser les différentes fonctionnalités des outils de supervision,<p>Utiliser les diff&eacute;rentes fonctionnalit&eacute;s des outils de supervision en fonctionnement normal ou d&eacute;grad&eacute;</p>,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L1,PN LP-BUT GCGP CPOP 2022-C4-L1-P4,Identifier les grandeurs caractéristiques d'une boucle de régulation simple,<p>Identifier les grandeurs caract&eacute;ristiques d'une boucle de r&eacute;gulation simple et en r&eacute;gler les param&egrave;tres</p>,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L1,PN LP-BUT GCGP CPOP 2022-C4-L1-P5,Proposer des matériels nécessaires à la conduite d'une installation simple,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L2,PN LP-BUT GCGP CPOP 2022-C4-L2-P1,"Démarrer, faire fonctionner et arrêter une installation automatisée complexe",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L2,PN LP-BUT GCGP CPOP 2022-C4-L2-P2,Analyser le fonctionnement d'une installation automatisée complexe dans le but de l'optimiser,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L2,PN LP-BUT GCGP CPOP 2022-C4-L2-P3,Proposer et tester des structures et des paramètres de régulation d'une ou plusieurs grandeurs sur u,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C4-L2,PN LP-BUT GCGP CPOP 2022-C4-L2-P4,Participer à l'amélioration d'un système de supervision,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L1,PN LP-BUT GCGP CPOP 2022-C5-L1-P1,Analyser des variations et anomalies par rapport aux spécifications de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L1,PN LP-BUT GCGP CPOP 2022-C5-L1-P2,Produire et communiquer des rapports d'analyse,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L1,PN LP-BUT GCGP CPOP 2022-C5-L1-P3,Évaluer les coûts de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L1,PN LP-BUT GCGP CPOP 2022-C5-L1-P4,"Déterminer les paramètres influençant la production (qualité des produits, quantité de production)",,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L2,PN LP-BUT GCGP CPOP 2022-C5-L2-P1,Organiser la production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L2,PN LP-BUT GCGP CPOP 2022-C5-L2-P2,Proposer des solutions de réduction des coûts de production,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L2,PN LP-BUT GCGP CPOP 2022-C5-L2-P3,Déterminer les paramètres permettant de réduire l'impact environnemental du procédé,,,,,,,,,,,
+PN LP-BUT GCGP CPOP 2022-C5-L2,PN LP-BUT GCGP CPOP 2022-C5-L2-P4,Ajuster les paramètres permettant d'optimiser la production,,,,,,,,,,,

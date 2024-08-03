@@ -1,0 +1,233 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT MP TI 2022,BUT Mesures Physiques - Parcours Techniques d'instrumentation,"<div class=""container text-center p-3"" style=""background: #6f448d;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/mesures-physiques/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/b3/21634-mp-650-650-b3dafca4.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Mesures-Physiques"" data-line=""214""><span style=""color: #ffffff;"">BUT Mesures Physiques</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Techniques d'instrumentation</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le dipl&ocirc;m&eacute; est plus particuli&egrave;rement expert en conception et mise en oeuvre d&rsquo;une cha&icirc;ne de mesure et d&rsquo;instrumentation. Son&nbsp;parcours lui permet d&rsquo;&ecirc;tre adapt&eacute; aux laboratoires d&rsquo;essai et de contr&ocirc;le industriel, aux entreprises du secteur de l&rsquo;instrumentation.</span></p>
+<p data-line=""216""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe17 (PDF-1.39 Mo-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/15/0/spe617_annexe17_1426150.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo; mesures physiques : programme national</a></span></p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT MP TI 2022-C1,🔴 Mener,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Mener une campagne de mesures</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant une d&eacute;marche scientifique adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en &eacute;laborant un protocole adapt&eacute;, qui respecte les r&egrave;gles de s&eacute;curit&eacute; et les normes en vigueur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en collectant les donn&eacute;es de mani&egrave;re fiable</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en traitant les donn&eacute;es de mani&egrave;re pertinente</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en pr&eacute;sentant les r&eacute;sultats de mesures selon les normes en vigueur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en analysant les r&eacute;sultats pour mettre en place d'&eacute;ventuelles actions correctives</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de production en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de recherche et d&eacute;veloppement en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans une d&eacute;marche de qualification ou de certification</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MP TI 2022-C2,🟠 Déployer,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>D&eacute;ployer la m&eacute;trologie et la d&eacute;marche qualit&eacute;</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en exprimant le r&eacute;sultat avec son incertitude de mesure selon les normes en vigueur</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant et mettant en oeuvre l'instrument de mesure en fonction de ses caract&eacute;ristiques m&eacute;trologiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en utilisant des outils statistiques adapt&eacute;s pour l'analyse des mesures et leur comparaison</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en s'assurant du respect des proc&eacute;dures (tra&ccedil;abilit&eacute;, fiabilit&eacute;)</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un service m&eacute;trologie</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un service qualit&eacute;</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans une entreprise d'expertise en m&eacute;trologie</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MP TI 2022-C3,🟡 Mettre en oeuvre,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Mettre en oeuvre une cha&icirc;ne de mesure et<br>d'instrumentation</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant les capteurs ou d&eacute;tecteurs les mieux adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant un transfert et un traitement analogique ou num&eacute;rique du signal adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mettant en place le pilotage d'une cha&icirc;ne de mesure avec ou sans r&eacute;gulation</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de production en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de recherche et d&eacute;veloppement en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en milieu ou conditions &agrave; contraintes sp&eacute;cifiques</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MP TI 2022-C4,🟢 Caractériser,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Caract&eacute;riser des grandeurs physiques, chimiques&nbsp;et les propri&eacute;t&eacute;s d'un mat&eacute;riau</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en identifiant les grandeurs physiques et chimiques pertinentes</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en adaptant la pr&eacute;paration de l'&eacute;chantillon &agrave; la mesure</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en tenant compte de l'&eacute;tat, de la structure de la mati&egrave;re et du type de mat&eacute;riau</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mettant en oeuvre les outils et techniques de caract&eacute;risation adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en analysant les r&eacute;sultats en relation avec la structure des mat&eacute;riaux</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de production en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de recherche et d&eacute;veloppement en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">en milieu ou conditions &agrave; contraintes sp&eacute;cifiques</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT MP TI 2022-C5,🔵 Définir,"<div class=""container"" style=""border: solid 4px #0074ba; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 116, 186,1)0%,rgba(0, 116, 186,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>D&eacute;finir un cahier des charges de mesures dans<br>une d&eacute;marche environnementale</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en limitant les impacts sur l'environnement et les impacts &eacute;nerg&eacute;tiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en mettant en oeuvre une gestion de projet pertinente</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en choisissant les moyens techniques et m&eacute;trologiques adapt&eacute;s</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">en utilisant une communication adapt&eacute;e</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de production en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans un contexte de recherche et d&eacute;veloppement en milieu industriel et en laboratoire</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans une d&eacute;marche de qualification ou de certification</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">dans le cadre de mesures in situ pour le contr&ocirc;le et la surveillance de l'environnement</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT MP TI 2022-C1,PN LP-BUT MP TI 2022-C1-L1,⭐ Mener une campagne de mesures pour un nombre restreint de grandeurs,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1,PN LP-BUT MP TI 2022-C1-L2,⭐⭐ Mener une campagne de mesures multiples nécessitant un traitement complexe des données,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1,PN LP-BUT MP TI 2022-C1-L3,⭐⭐⭐ Mener une campagne de mesures dans un contexte professionnel spécifique,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2,PN LP-BUT MP TI 2022-C2-L1,⭐ Déployer la métrologie et la démarche qualité pour un résultat de mesure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2,PN LP-BUT MP TI 2022-C2-L2,⭐⭐ Déployer la métrologie et la démarche qualité pour un instrument de mesure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2,PN LP-BUT MP TI 2022-C2-L3,⭐⭐⭐ Déployer la métrologie et la démarche qualité pour un parc d'instruments,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3,PN LP-BUT MP TI 2022-C3-L1,"⭐ Mettre en oeuvre une chaîne de mesure simple, piloter un instrument de façon élémentaire",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3,PN LP-BUT MP TI 2022-C3-L2,⭐⭐ Mettre en oeuvre une chaîne d'instrumentation simple,"<p>Mettre en oeuvre une cha&icirc;ne<br>d'instrumentation simple pouvant<br>associer mesure, r&eacute;gulation et<br>pilotage</p>",,,,,,,,,,
+PN LP-BUT MP TI 2022-C3,PN LP-BUT MP TI 2022-C3-L3,⭐⭐⭐ Mettre en oeuvre une chaîne d'instrumentation complexe,<p>Mettre en oeuvre une cha&icirc;ne<br>d'instrumentation complexe.<br>Prendre en compte des conditions<br>sp&eacute;cifiques ou extr&ecirc;mes.</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4,PN LP-BUT MP TI 2022-C4-L1,"⭐ Caractériser des grandeurs physiques, chimiques et les propriétés d'un matériau","<p>Caract&eacute;riser des grandeurs<br>physiques, chimiques et les<br>propri&eacute;t&eacute;s d'un mat&eacute;riau en utilisant<br>des m&eacute;thodes simples</p>",,,,,,,,,,
+PN LP-BUT MP TI 2022-C4,PN LP-BUT MP TI 2022-C4-L2,⭐⭐ Caractériser des grandeurs physico-chimiques et les propriétés d'un matériau,<p>Caract&eacute;riser des grandeurs<br>physico-chimiques et les propri&eacute;t&eacute;s<br>d'un mat&eacute;riau en utilisant des<br>m&eacute;thodes complexes</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5,PN LP-BUT MP TI 2022-C5-L1,⭐ Définir un cahier des charges d'une mesure simple dans une démarche environnementale,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5,PN LP-BUT MP TI 2022-C5-L2,⭐⭐ Définir un cahier des charges d'un ensemble de mesures dans une démarche environnementale,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L1,PN LP-BUT MP TI 2022-C1-L1-P1,Identifier le phénomène physique à l’origine d’une mesure et réaliser un protocole pour une mesure,<p>Identifier le ph&eacute;nom&egrave;ne physique &agrave; l&rsquo;origine d&rsquo;une mesure et r&eacute;aliser un protocole pour une mesure simple</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L1,PN LP-BUT MP TI 2022-C1-L1-P2,Effectuer les mesures en respectant les règles de sécurité et normes en vigueur,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L1,PN LP-BUT MP TI 2022-C1-L1-P3,"Vérifier la cohérence des mesures avec les résultats attendus, effectuer une action corrective","<p>V&eacute;rifier la coh&eacute;rence des mesures avec les r&eacute;sultats attendus, effectuer une action corrective le cas &eacute;ch&eacute;ant</p>",,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L1,PN LP-BUT MP TI 2022-C1-L1-P4,"Présenter un résultat de mesures avec les outils appropriés (numérique, tableau, graphique...)",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L2,PN LP-BUT MP TI 2022-C1-L2-P1,Modéliser un problème en lien avec des lois physiques ou chimiques,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L2,PN LP-BUT MP TI 2022-C1-L2-P2,Élaborer un protocole pour plusieurs mesures s'appuyant sur les règles de sécurité et les normes,<p>&Eacute;laborer un protocole pour plusieurs mesures s'appuyant sur les r&egrave;gles de s&eacute;curit&eacute; et les normes en vigueur</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L2,PN LP-BUT MP TI 2022-C1-L2-P3,"Traiter les valeurs mesurées : fiabilité, traçabilité, archivage des données, analyses statistiques",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L2,PN LP-BUT MP TI 2022-C1-L2-P4,Présenter les résultats de mesures dans un format adapté aux objectifs,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L2,PN LP-BUT MP TI 2022-C1-L2-P5,Présenter à l'oral les caractéristiques de la campagne de mesures et ses conclusions,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L3,PN LP-BUT MP TI 2022-C1-L3-P1,"Élaborer, améliorer et valider un protocole dans un contexte professionnel spécifique",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L3,PN LP-BUT MP TI 2022-C1-L3-P2,Identifier les contraintes réglementaires et les spécificités rencontrées,<p>Identifier les contraintes r&eacute;glementaires et les sp&eacute;cificit&eacute;s rencontr&eacute;es dans ce contexte sp&eacute;cifique</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L3,PN LP-BUT MP TI 2022-C1-L3-P3,Utiliser des outils mathématiques et logiciels métiers adaptés au contexte spécifique,<p>Utiliser des outils math&eacute;matiques et logiciels m&eacute;tiers adapt&eacute;s au contexte sp&eacute;cifique pour le post-traitement des valeurs mesur&eacute;es</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C1-L3,PN LP-BUT MP TI 2022-C1-L3-P4,Présenter à l'écrit et à l'oral en français et en anglais un rapport de mesures adapté au contexte,<p>Pr&eacute;senter &agrave; l'&eacute;crit et &agrave; l'oral en fran&ccedil;ais et en anglais un rapport de mesures adapt&eacute; au contexte sp&eacute;cifique</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L1,PN LP-BUT MP TI 2022-C2-L1-P1,Identifier les éléments de langage liés à la métrologie,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L1,PN LP-BUT MP TI 2022-C2-L1-P2,Évaluer une incertitude de mesure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L1,PN LP-BUT MP TI 2022-C2-L1-P3,"Présenter correctement un résultat de mesure, avec son unité et son incertitude",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L1,PN LP-BUT MP TI 2022-C2-L1-P4,Étalonner un appareil de mesure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L2,PN LP-BUT MP TI 2022-C2-L2-P1,"Évaluer la conformité, gérer la non conformité",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L2,PN LP-BUT MP TI 2022-C2-L2-P2,Mettre en place un suivi métrologique pour un instrument de mesure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L2,PN LP-BUT MP TI 2022-C2-L2-P3,Rédiger les procédures métrologiques et fiches de suivi,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L2,PN LP-BUT MP TI 2022-C2-L2-P4,Évaluer les paramètres métrologiques d’une chaîne de mesures,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L3,PN LP-BUT MP TI 2022-C2-L3-P1,Mettre en place et faire évoluer des procédures qualité,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L3,PN LP-BUT MP TI 2022-C2-L3-P2,Gérer un parc d'instruments dans une démarche qualité,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L3,PN LP-BUT MP TI 2022-C2-L3-P3,Préparer les éléments d'un audit qualité,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C2-L3,PN LP-BUT MP TI 2022-C2-L3-P4,Réaliser une veille technologique ou normative,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P1,Identifier des couples capteurs/conditionneurs selon la mesure demandée,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P2,Acquérir et numériser des signaux analogiques,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P3,Choisir un instrument de mesure adapté au signal,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P4,Traiter avec ou sans régulation un signal analogique,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P5,Concevoir un algorithme pour le traitement des données ou le pilotage d'un instrument,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L1,PN LP-BUT MP TI 2022-C3-L1-P6,Utiliser un langage de programmation permettant la mise en place d'un algorithme,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L2,PN LP-BUT MP TI 2022-C3-L2-P1,Mettre en oeuvre le conditionnement d'un signal issu d'un capteur,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L2,PN LP-BUT MP TI 2022-C3-L2-P2,Mettre en oeuvre des techniques simples d'amélioration du rapport signal sur bruit,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L2,PN LP-BUT MP TI 2022-C3-L2-P3,Réguler des systèmes analogiques ou numériques,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L2,PN LP-BUT MP TI 2022-C3-L2-P4,Échanger des données entre un instrument de mesure et un ordinateur,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L3,PN LP-BUT MP TI 2022-C3-L3-P1,Choisir un mode de transfert de données adapté,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L3,PN LP-BUT MP TI 2022-C3-L3-P2,Mettre en oeuvre des systèmes de mesures en réseau,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L3,PN LP-BUT MP TI 2022-C3-L3-P3,Mettre en oeuvre des techniques d'extraction et d'exploitation d'un signal bruité,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L3,PN LP-BUT MP TI 2022-C3-L3-P4,Choisir les éléments de la chaîne de mesure face à des conditions extrêmes,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C3-L3,PN LP-BUT MP TI 2022-C3-L3-P5,Contrôler à distance un système de mesures embarqué,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P1,Identifier et comprendre les édifices atomiques et moléculaires,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P2,Appréhender les aspects énergétiques de la matière,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P3,Mettre en oeuvre des outils d'analyses et de caractérisation physique et chimique,<p>Mettre en oeuvre des outils d'analyses et de caract&eacute;risation physique et chimique en respectant les bonnes pratiques de laboratoire</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P4,Identifier des types de réaction chimique et mesurer leur avancement,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P5,Identifier les différentes classes de matériaux,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L1,PN LP-BUT MP TI 2022-C4-L1-P6,Relier les différentes propriétés d'un matériau à sa structure,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L2,PN LP-BUT MP TI 2022-C4-L2-P1,Appliquer les principes et mettre en oeuvre des techniques d’analyses chimique et physique,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L2,PN LP-BUT MP TI 2022-C4-L2-P2,"Analyser, interpréter, exploiter les résultats d’analyses et de caractérisations",,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L2,PN LP-BUT MP TI 2022-C4-L2-P3,Appliquer les principes et mettre en oeuvre des techniques d'analyses et de caractérisations,<p>Appliquer les principes et mettre en oeuvre des techniques d'analyses et de caract&eacute;risations de la structure et des propri&eacute;t&eacute;s des mat&eacute;riaux</p>,,,,,,,,,,
+PN LP-BUT MP TI 2022-C4-L2,PN LP-BUT MP TI 2022-C4-L2-P4,Mettre en oeuvre des techniques de contrôle non destructif,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L1,PN LP-BUT MP TI 2022-C5-L1-P1,Conduire une recherche documentaire,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L1,PN LP-BUT MP TI 2022-C5-L1-P2,Identifier les éléments nécessaires pour une étude HSE,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L1,PN LP-BUT MP TI 2022-C5-L1-P3,Réaliser des contrôles environnementaux simples,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L1,PN LP-BUT MP TI 2022-C5-L1-P4,Organiser un projet et son déroulement,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L2,PN LP-BUT MP TI 2022-C5-L2-P1,Lister et évaluer les contraintes pour un ensemble de mesures,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L2,PN LP-BUT MP TI 2022-C5-L2-P2,Évaluer l'impact environnemental dans le cadre de mesures,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L2,PN LP-BUT MP TI 2022-C5-L2-P3,Sélectionner des techniques pour des mesures environnementales,,,,,,,,,,,
+PN LP-BUT MP TI 2022-C5-L2,PN LP-BUT MP TI 2022-C5-L2-P4,Réaliser des contrôles environnementaux complexes,,,,,,,,,,,

@@ -1,0 +1,198 @@
+Parent ID number,ID number,Short name,Description,Description format,Scale values,Scale configuration,Rule type (optional),Rule outcome (optional),Rule config (optional),Cross-referenced competency ID numbers,Exported ID (optional),Is framework,Taxonomy
+,PN LP-BUT SD VCOD 2022,"BUT Science des Données - Parcours visualisation, conception d'outils décisionnels","<div class=""container text-center p-3"" style=""background: #004d99;"">
+<h2 data-line=""2""><a href=""https://www.iut.fr/bachelor-universitaire-de-technologie/science-des-donnees/"" target=""_blank"" rel=""noopener""><span style=""color: #ffffff;""><img style=""border-radius: 100%;"" src=""https://www.iut.fr/wp-content/themes/yootheme/cache/0b/21641-stid-650-650-0b388941.webp"" alt="""" width=""404"" height=""404""></span></a></h2>
+<h2 id=""BUT-Statistique-et-Informatique-D%C3%A9cisionnelle"" data-line=""307""><span style=""color: #ffffff;"">BUT Statistique et Informatique D&eacute;cisionnelle</span></h2>
+<h3><span style=""color: #ffffff;"">Parcours Science des donn&eacute;es : visualisation, conception d'outils<br>d&eacute;cisionnels</span></h3>
+<p style=""text-align: justify;""><span style=""color: #ffffff;"">Le parcours science des donn&eacute;es : Visualisation, Conception d&rsquo;Outils D&eacute;cisionnels vise &agrave; former des professionnels&nbsp;comp&eacute;tents dans la mise en oeuvre de tout ou partie du processus d&eacute;cisionnel, ayant notamment la capacit&eacute; &agrave; automatiser&nbsp;diff&eacute;rentes &eacute;tapes d&rsquo;une solution d&eacute;di&eacute;e. Leurs comp&eacute;tences leur permettent d&rsquo;assurer la gestion des connexions aux donn&eacute;es&nbsp;sources, la transformation et le nettoyage des donn&eacute;es (ETL), la mod&eacute;lisation et l&rsquo;application de calculs m&eacute;tiers, la production&nbsp;de restitutions visuelles (DataViz) &agrave; travers des outils de reporting et des tableaux de bords adapt&eacute;s et accessibles pour des&nbsp;utilisateurs finaux non-initi&eacute;s.<br>Les m&eacute;tiers cibl&eacute;s sont, dans une liste non-exhaustive : Data analyst - D&eacute;veloppeur d&eacute;cisionnel/BI, Charg&eacute; d&rsquo;analyse et de&nbsp;reporting, Data-manager - Gestionnaire de donn&eacute;es, charg&eacute; de projet d&eacute;cisionnel, D&eacute;veloppeur BigData</span></p>
+<p data-line=""309""><span style=""color: #ecf0f1;""><a style=""color: #ecf0f1;"" title=""spe617_annexe24 (PDF-958.10 Ko-Nouvelle fen&ecirc;tre)"" href=""https://cache.media.education.gouv.fr/file/SP4-MESRI-26-5-2022/16/4/spe617_annexe24_1426164.pdf"" target=""_blank"" rel=""noopener"">Licence professionnelle &laquo; bachelor universitaire de technologie &raquo;&nbsp;statistique et informatique d&eacute;cisionnelle&nbsp;: programme national</a></span></p>
+<p data-line=""4"">&nbsp;</p>
+<p data-line=""4""><a href=""https://fr.wikipedia.org/wiki/Bachelor_universitaire_de_technologie"" target=""_blank"" rel=""noopener""><img src=""https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/DL_02_BUT.svg/langfr-280px-DL_02_BUT.svg.png"" alt="""" width=""280"" height=""324""></a></p>
+</div>",,"Not yet competent,Competent","[{""scaleid"":""2""},{""id"":1,""scaledefault"":1,""proficient"":0},{""id"":2,""scaledefault"":0,""proficient"":1}]",,,,,,1,"competency,level,practice,indicator"
+,PN LP-BUT SD VCOD 2022-C1,🔴 Traiter,"<div class=""container"" style=""border: solid 4px #f8312f; padding-top: 1em; background: linear-gradient(180deg,rgba(248,49,47,1)0%,rgba(248,49,47,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Traiter des donn&eacute;es &agrave; des fins d&eacute;cisionnelles</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En intervenant &agrave; toutes les &eacute;tapes du cycle de vie de la donn&eacute;e (insertion, modification, extraction, suppression)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant le mod&egrave;le de donn&eacute;es adapt&eacute; aux besoins</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;inscrivant dans une d&eacute;marche de documentation des r&eacute;alisations adapt&eacute;e au public vis&eacute;</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En traduisant correctement les demandes m&eacute;tier en programmes, avec le respect du cahier des charges s'il existe</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En &eacute;crivant un programme correctement structur&eacute; et document&eacute;, respectant les bonnes pratiques</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En identifiant les librairies et langages d&eacute;di&eacute;s</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte du d&eacute;veloppement d'un syst&egrave;me d'information d&eacute;cisionnel</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte de pr&eacute;paration des donn&eacute;es &agrave; des fins d'analyse statistique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SD VCOD 2022-C2,🟠 Analyser,"<div class=""container"" style=""border: solid 4px #ff6723; padding-top: 1em; background: linear-gradient(180deg,rgba(255, 103, 35,1)0%,rgba(255, 103, 35,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Analyser statistiquement les donn&eacute;es</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte du contexte de l&rsquo;&eacute;tude (&eacute;conomique, socio-d&eacute;mographique, commerciale, clinique...)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en &eacute;vidence les grandes tendances et les informations principales</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En identifiant et en mettant en oeuvre les techniques adapt&eacute;es aux attentes du client ou de l&rsquo;instance d&eacute;cisionnaire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En identifiant et en mettant en oeuvre les techniques adapt&eacute;es aux donn&eacute;es complexes (donn&eacute;es massives, donn&eacute;es mal structur&eacute;es, flux&nbsp;de donn&eacute;es&hellip;)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte du contexte inf&eacute;rentiel (variabilit&eacute; de l&rsquo;&eacute;chantillon)</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte de programmation d'un outil d'aide &agrave; la d&eacute;cision</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte d'un projet d'&eacute;tude statistique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SD VCOD 2022-C3,🟡 Valoriser,"<div class=""container"" style=""border: solid 4px #fcd53f; padding-top: 1em; background: linear-gradient(180deg,rgba(252, 213, 63,1)0%,rgba(252, 213, 63,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>Valoriser une production dans un contexte&nbsp;professionnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;adaptant au niveau d&rsquo;expertise, &agrave; la culture et au statut du destinataire</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En s&rsquo;exprimant correctement, aussi bien en fran&ccedil;ais qu&rsquo;en anglais, &agrave; l'oral comme &agrave; l'&eacute;crit</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En veillant aux aspects &eacute;thiques, d&eacute;ontologiques et r&eacute;glementaires d&rsquo;utilisation et de diffusion des donn&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En interpr&eacute;tant et contextualisant les r&eacute;sultats (citations, v&eacute;rification des sources, esprit critique)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant la forme de restitution adapt&eacute;e</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En tenant compte des r&eacute;alit&eacute;s &eacute;conomiques et manag&eacute;riales des entreprises</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte du d&eacute;veloppement d'outils d&eacute;cisionnels</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte d'une &eacute;tude statistique</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+,PN LP-BUT SD VCOD 2022-C4,🟢 Développer,"<div class=""container"" style=""border: solid 4px #00d26a; padding-top: 1em; background: linear-gradient(180deg,rgba(0, 210, 106,1)0%,rgba(0, 210, 106,0)100%);"">
+<div class=""row"">
+<div class=""col-md-12"">
+<div class=""alert alert-info"">
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-info list-group-item-action"">
+<h3>D&eacute;velopper un outil d&eacute;cisionnel</h3>
+</li>
+</ol>
+</div>
+<div class=""alert alert-warning"">
+<h1>🔩 Composantes essentielles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En mettant en oeuvre une structuration des donn&eacute;es adapt&eacute;e &agrave; leurs caract&eacute;ristiques (type, volume...)</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En assurant la qualit&eacute; des donn&eacute;es et minimisant les biais li&eacute;s &agrave; l&rsquo;incertitude et l&rsquo;impr&eacute;cision dans les sources</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En &eacute;tant sensible aux aspects &eacute;thiques, d&eacute;ontologiques et juridiques d&rsquo;utilisation et de diffusion des donn&eacute;es</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En r&eacute;alisant des solutions de visualisation sp&eacute;cifiques aux donn&eacute;es m&eacute;tier</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En intervenant &agrave; diff&eacute;rents niveaux de la cha&icirc;ne d&eacute;cisionnelle</li>
+<li class=""list-group-item list-group-item-warning list-group-item-action"">En utilisant des m&eacute;thodes de d&eacute;veloppement logiciel</li>
+</ol>
+</div>
+<div class=""alert alert-danger"">
+<h1>💼 Situations professionnelles</h1>
+<ol class=""list-group list-group-flush"">
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte du d&eacute;ploiement d'une solution d&eacute;cisionnelle</li>
+<li class=""list-group-item list-group-item-danger list-group-item-action"">Dans le contexte d'automatisation de reporting et de visualisation</li>
+</ol>
+</div>
+</div>
+</div>
+</div>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1,PN LP-BUT SD VCOD 2022-C1-L1,⭐ Traiter des données structurées,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1,PN LP-BUT SD VCOD 2022-C1-L2,⭐⭐ Automatiser le traitement de données multidimensionnelles,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1,PN LP-BUT SD VCOD 2022-C1-L3,⭐⭐⭐ Intégrer le traitement de données complexes,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2,PN LP-BUT SD VCOD 2022-C2-L1,⭐ Mettre en oeuvre une analyse descriptive,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2,PN LP-BUT SD VCOD 2022-C2-L2,⭐⭐ Mettre en oeuvre une analyse exploratoire,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2,PN LP-BUT SD VCOD 2022-C2-L3,⭐⭐⭐ Mettre en oeuvre l'analyse exploratoire de données complexes,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3,PN LP-BUT SD VCOD 2022-C3-L1,⭐ Contextualiser et présenter les données,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3,PN LP-BUT SD VCOD 2022-C3-L2,⭐⭐ Restituer et argumenter ses résultats,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3,PN LP-BUT SD VCOD 2022-C3-L3,⭐⭐⭐ Intégrer et valoriser sa production dans l'écosystème de l'entreprise,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4,PN LP-BUT SD VCOD 2022-C4-L1,⭐ Développer un composant d’une solution décisionnelle,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4,PN LP-BUT SD VCOD 2022-C4-L2,⭐⭐ Participer au déploiement d'une solution décisionnelle,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P1,Correctement interpréter et prendre en compte le besoin du commanditaire ou du client,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P2,Respecter les formalismes de notation,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P3,Connaître la syntaxe des langages et savoir l’utiliser,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P4,Mesurer l’importance de maîtriser la structure des données à exploiter,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P5,Comprendre les structures algorithmiques de base et leur contexte d’usage,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L1,PN LP-BUT SD VCOD 2022-C1-L1-P6,Prendre conscience de l’intérêt de la programmation,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L2,PN LP-BUT SD VCOD 2022-C1-L2-P1,Comprendre l'organisation des données de l'entreprise,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L2,PN LP-BUT SD VCOD 2022-C1-L2-P2,Réaliser le rôle central et spécifique de l'entrepôt de données dans la chaine décisionnelle,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L2,PN LP-BUT SD VCOD 2022-C1-L2-P3,Identifier et résoudre les problèmes d’intégration de sources complémentaires et hétérogènes,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L2,PN LP-BUT SD VCOD 2022-C1-L2-P4,"Comprendre la nécessité de tester, corriger et documenter un programme",,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L2,PN LP-BUT SD VCOD 2022-C1-L2-P5,Apprécier l’intérêt de briques logicielles existantes et savoir les utiliser,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L3,PN LP-BUT SD VCOD 2022-C1-L3-P1,Identifier les solutions technologiques permettant la collecte et la diffusion de données,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L3,PN LP-BUT SD VCOD 2022-C1-L3-P2,Comprendre les spécificités des données complexes et de leur exploitation,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C1-L3,PN LP-BUT SD VCOD 2022-C1-L3-P3,Savoir mener une veille technologique,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P1,Réaliser que les sources de données ont des caractéristiques propres à considérer,"<p>R&eacute;aliser que les sources de donn&eacute;es ont des caract&eacute;ristiques propres &agrave; consid&eacute;rer (variation, pr&eacute;cision, mise &agrave; jour...)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P2,Comprendre qu’une analyse correcte ne peut émaner que de données propres et préparées,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P3,Comprendre l’intérêt des synthèses numériques et graphiques pour décrire une variable statistique,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P4,Comprendre l’intérêt des synthèses numériques et graphiques,<p>Comprendre l&rsquo;int&eacute;r&ecirc;t des synth&egrave;ses num&eacute;riques et graphiques pour mettre en &eacute;vidence des liaisons entre variables</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P5,Comprendre l'intérêt de l’utilisation d’un modèle probabiliste,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L1,PN LP-BUT SD VCOD 2022-C2-L1-P6,Appréhender la notion de fluctuation d'échantillonnage,"<p>Appr&eacute;hender la notion de fluctuation d'&eacute;chantillonnage, notamment &agrave; l&rsquo;aide de simulations probabilistes</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L2,PN LP-BUT SD VCOD 2022-C2-L2-P1,Prendre conscience de la différence entre modélisation statistique et analyse exploratoire,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L2,PN LP-BUT SD VCOD 2022-C2-L2-P2,Saisir la spécificité de l’analyse des données temporelles,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L2,PN LP-BUT SD VCOD 2022-C2-L2-P3,Comprendre l’intérêt des analyses multivariées pour synthétiser et résumer l’information,<p>Comprendre l&rsquo;int&eacute;r&ecirc;t des analyses multivari&eacute;es pour synth&eacute;tiser et r&eacute;sumer l&rsquo;information port&eacute;e par plusieurs variables</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L2,PN LP-BUT SD VCOD 2022-C2-L2-P4,Appréhender l’idée de confronter une hypothèse avec la réalité pour prendre une décision,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L2,PN LP-BUT SD VCOD 2022-C2-L2-P5,Apprécier les limites de validité et les conditions d’application d’une analyse,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L3,PN LP-BUT SD VCOD 2022-C2-L3-P1,Prendre conscience des différences entre des outils statistiques pour choisir le plus adapté,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L3,PN LP-BUT SD VCOD 2022-C2-L3-P2,Saisir l’importance de la mise en oeuvre de méthodes adaptées à des domaines et des données,"<p>Saisir l&rsquo;importance de la mise en oeuvre de m&eacute;thodes adapt&eacute;es &agrave; des domaines et des donn&eacute;es sp&eacute;cifiques (Marketing, Biostatistique, Statistique spatiale, Gestion &hellip;)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L3,PN LP-BUT SD VCOD 2022-C2-L3-P3,Prendre conscience des limites des méthodes classiques pour l’analyse des données complexes,"<p>Prendre conscience des limites des m&eacute;thodes classiques pour l&rsquo;analyse des donn&eacute;es complexes (donn&eacute;es massives, donn&eacute;es mal structur&eacute;es&hellip;)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C2-L3,PN LP-BUT SD VCOD 2022-C2-L3-P4,Comprendre les mécanismes de bases de l’intelligence artificielle,"<p>Comprendre les m&eacute;canismes de bases de l&rsquo;intelligence artificielle (apprentissage statistique supervis&eacute;, &eacute;chantillons d'apprentissage et &eacute;chantillons de test&hellip;)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P1,Prendre connaissance des biais rencontrés dans la mise en place d’une enquête,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P2,Identifier l’importance de contextualiser ses données,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P3,Mesurer l’importance de mettre en évidence des résultats clés,<p>Mesurer l&rsquo;importance de mettre en &eacute;vidence des r&eacute;sultats cl&eacute;s par l&rsquo;utilisation d&rsquo;indicateurs pertinents</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P4,"Lors de la restitution des résultats, mesurer l’importance d’expliciter également la démarche suivie",,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P5,Comprendre les intérêts de la data visualisation et de l’infographie,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L1,PN LP-BUT SD VCOD 2022-C3-L1-P6,Mesurer l’importance d’une expression précise et nuancée dans la communication,<p>Mesurer l&rsquo;importance d&rsquo;une expression pr&eacute;cise et nuanc&eacute;e dans la communication en fran&ccedil;ais et dans une langue &eacute;trang&egrave;re des r&eacute;sultats</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L2,PN LP-BUT SD VCOD 2022-C3-L2-P1,Saisir l’intérêt de mobiliser de manière proactive des ressources métiers liées à l'environnement,"<p>Saisir l&rsquo;int&eacute;r&ecirc;t de mobiliser de mani&egrave;re proactive des ressources m&eacute;tiers li&eacute;es &agrave; l'environnement (y compris &eacute;conomique, international&hellip;)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L2,PN LP-BUT SD VCOD 2022-C3-L2-P2,Savoir défendre ses choix d’analyses,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L2,PN LP-BUT SD VCOD 2022-C3-L2-P3,Saisir la nécessité de choisir des indicateurs pertinents pour communiquer sur les résultats,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L2,PN LP-BUT SD VCOD 2022-C3-L2-P4,Prendre conscience de la rigueur requise dans ses productions et dans la communication à leur propos,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L2,PN LP-BUT SD VCOD 2022-C3-L2-P5,Comprendre les enjeux des relations en milieu professionnel adaptées à l’interlocuteur,<p>Comprendre les enjeux des relations en milieu professionnel adapt&eacute;es &agrave; l&rsquo;interlocuteur et &agrave; sa culture</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P1,Savoir transformer la donnée pour la mettre en conformité avec des normes,"<p>Savoir transformer la donn&eacute;e pour la mettre en conformit&eacute; avec des normes (anonymisation, normalisation)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P2,Mesurer l'impact d'un respect de la législation en terme de droit des données,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P3,Identifier les clés d'une bonne communication (procédures et techniques utilisées),,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P4,Mesurer l’importance de comprendre et de répondre à l'ensemble des problématiques posées,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P5,Être force de proposition,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C3-L3,PN LP-BUT SD VCOD 2022-C3-L3-P6,Prendre conscience de la nécessité d’intégrer la vision de l’interlocuteur,"<p>Prendre conscience de la n&eacute;cessit&eacute; d&rsquo;int&eacute;grer la vision de l&rsquo;interlocuteur (transversalit&eacute;, international, multiculture, niveau d&rsquo;expertise&hellip;)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L1,PN LP-BUT SD VCOD 2022-C4-L1-P1,"Comprendre le rôle fondamental de l’analyse des besoins et de l’existant dans un projet décisionnel ","<p>Comprendre le r&ocirc;le fondamental de l&rsquo;analyse des besoins et de l&rsquo;existant dans un projet d&eacute;cisionnel (architecture, visualisation...)</p>",,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L1,PN LP-BUT SD VCOD 2022-C4-L1-P2,Percevoir les enjeux de l’automatisation et de l'interopérabilité d’un ensemble de tâches,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L1,PN LP-BUT SD VCOD 2022-C4-L1-P3,"Prendre conscience des différences entre outils (logiciels, langages) pour choisir le plus adapté",,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L1,PN LP-BUT SD VCOD 2022-C4-L1-P4,Comprendre le cycle de vie d’un projet informatique,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L2,PN LP-BUT SD VCOD 2022-C4-L2-P1,Prendre conscience de la nécessité d’utiliser des moyens spécifiques,<p>Prendre conscience de la n&eacute;cessit&eacute; d&rsquo;utiliser des moyens sp&eacute;cifiques pour exploiter les Big Data ou les flux de donn&eacute;es</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L2,PN LP-BUT SD VCOD 2022-C4-L2-P2,Défendre ses choix de solution par un argumentaire éclairé,,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L2,PN LP-BUT SD VCOD 2022-C4-L2-P3,Réaliser l’intérêt d’appliquer les méthodes de développement dans la réalisation d’un projet,<p>R&eacute;aliser l&rsquo;int&eacute;r&ecirc;t d&rsquo;appliquer les m&eacute;thodes de d&eacute;veloppement dans la r&eacute;alisation d&rsquo;un projet informatique</p>,,,,,,,,,,
+PN LP-BUT SD VCOD 2022-C4-L2,PN LP-BUT SD VCOD 2022-C4-L2-P4,Apprécier l’intérêt de l’utilisation d’un gestionnaire de versions de code,,,,,,,,,,,
